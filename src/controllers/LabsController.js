@@ -30,28 +30,56 @@ module.exports = {
 			return allProjects;
 		};
 
+		const groupProjectsByLevel = (projects) => {
+			const levels = ["Intermediário", "Básico", "Avançado"];
+
+			const res = {};
+
+			levels.map((level, index) => {
+				// para cada level
+				const arrFilteredByLevel = projects.filter(
+					(project) => project.level === level
+				);
+
+				// remove level from project
+				const projectsByLevel = arrFilteredByLevel.map((item) => {
+					delete item.level;
+					return item;
+				});
+
+				res[levels[index]] = projectsByLevel;
+			});
+
+			return res;
+		};
+
 		const groupProjectsByProjectType = (resAllProjects) => {
 			const project_types = [
 				"Full-Stack",
 				"Front-End",
 				"Back-End",
-				"Mobile"
+				"Mobile",
 			];
-	
+
 			const auxRes = {};
 			project_types.map((type, index) => {
-				array = resAllProjects.filter(item => item.project_type === type)
-	
-				// remote project_type from project
-				array = array.map(item => {
-					delete item.project_type
-					return item
-				})
-				auxRes[project_types[index]] = array
-			})
+				projects = resAllProjects.filter(
+					(item) => item.project_type === type
+				);
+
+				// remove project_type from project
+				projects = projects.map((item) => {
+					delete item.project_type;
+					return item;
+				});
+
+				const projectsByLevel = groupProjectsByLevel(projects);
+
+				auxRes[project_types[index]] = projectsByLevel;
+			});
 
 			return auxRes;
-		}
+		};
 
 		const resAllProjects = getAllProjects();
 
