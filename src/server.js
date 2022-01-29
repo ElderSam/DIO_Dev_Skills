@@ -1,11 +1,8 @@
 const express = require('express');
+const routes = require('./routes');
 
 const server = express();
 server.use(express.json()) // <==== parse request body as JSON
-
-const routes = express.Router()
-
-routes.get('/', (req, res) => res.send('first route!'))
 
 server.use(routes)
 
