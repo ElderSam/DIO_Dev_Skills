@@ -1,0 +1,247 @@
+[
+    {
+        "value": "7d73f416-815e-4954-ab6e-3904d75d7033",
+        "label": "Angular",
+        "image": "https://hermes.digitalinnovation.one/skills/34108ff5-62f6-419f-8899-b53dca8cc380.png"
+    },
+    {
+        "value": "9598e8f3-fce2-461d-ac88-a894de282ba9",
+        "label": "Arquitetura de Sistemas",
+        "image": "https://hermes.digitalinnovation.one/skills/6e066b59-303b-43fb-be4f-a812b1182804.png"
+    },
+    {
+        "value": "473d5370-a970-4bc8-bfb1-27b0c7995d85",
+        "label": "AWS",
+        "image": "https://hermes.digitalinnovation.one/skills/f8e06a3b-0e10-4330-8bc7-c8807b3adca0.png"
+    },
+    {
+        "value": "1d04b084-9b1d-4467-8245-501fc11f93fa",
+        "label": "Big Data",
+        "image": "https://hermes.digitalinnovation.one/skills/aabe81b3-4001-4f9c-925b-28432bf506d1.png"
+    },
+    {
+        "value": "d6256564-eb1c-49e5-a45d-c69b8c7c8f62",
+        "label": "Blockchain",
+        "image": "https://hermes.digitalinnovation.one/skills/b65f81bd-92bc-471d-8387-bc453e56ce76.png"
+    },
+    {
+        "value": "f8a051b6-8727-4444-a2ea-d82b5e06b672",
+        "label": "Bootstrap",
+        "image": "https://hermes.digitalinnovation.one/skills/79fde6b0-444a-4142-b123-ce706f4ea059.png"
+    },
+    {
+        "value": "85e650c9-e10e-4b6f-a4a2-45991b3c97cb",
+        "label": "C#",
+        "image": "https://hermes.digitalinnovation.one/skills/77c3da01-1c35-4792-8f04-79950639cc9a.png"
+    },
+    {
+        "value": "9e186e72-ffe6-4990-9324-a55cd69f7d5a",
+        "label": "CSS",
+        "image": "https://hermes.digitalinnovation.one/skills/df797896-d833-460d-be61-f73896d8a550.png"
+    },
+    {
+        "value": "d8b636dd-2867-4b46-bfd9-5914426fc2a0",
+        "label": "Cypress.io",
+        "image": "https://hermes.digitalinnovation.one/skills/e48d884a-2328-48af-aefb-6a8469004fa4.png"
+    },
+    {
+        "value": "e017985a-bfcd-4d3c-bfbe-8a09696afd75",
+        "label": "Elasticsearch",
+        "image": "https://hermes.digitalinnovation.one/skills/44a4a97f-caeb-4966-b1ad-3a463fe763ac.png"
+    },
+    {
+        "value": "f16d8e23-079a-46f6-bbae-91682acef5ff",
+        "label": "Elixir",
+        "image": "https://hermes.digitalinnovation.one/skills/4fbf72c7-4f93-4346-9fee-2967307066c6.png"
+    },
+    {
+        "value": "d78b93c2-2886-4c78-afb7-24a1fb00c1d6",
+        "label": "Ethereum",
+        "image": "https://hermes.digitalinnovation.one/skills/c09f8e9d-a613-43b7-9fd1-0c878645f9a7.png"
+    },
+    {
+        "value": "4914e7fc-2bec-40fa-aba3-83e973563386",
+        "label": "Flask",
+        "image": "https://hermes.digitalinnovation.one/skills/b2180e16-c951-4057-a2c7-eca5ea7ddb37.png"
+    },
+    {
+        "value": "1a44a6a2-d1e3-4bd4-81e7-4f7b2278e318",
+        "label": "Flutter",
+        "image": "https://hermes.digitalinnovation.one/skills/a1b92aa6-b1f2-4128-841d-ff4e314928a8.jpg"
+    },
+    {
+        "value": "8909edf1-4e5a-4a33-a0c6-62491859565a",
+        "label": "GitHub",
+        "image": "https://hermes.digitalinnovation.one/skills/733a2bbb-3ab6-4264-b9dd-73c525ced9d7.png"
+    },
+    {
+        "value": "89a87ac1-7046-4365-8f1d-5672e950a6bf",
+        "label": "GoLang",
+        "image": "https://hermes.digitalinnovation.one/skills/1a1080f4-ada2-4979-a3c5-7aac346a9eb4.png"
+    },
+    {
+        "value": "b4f40040-d319-47c7-9e62-e04cea7aa55b",
+        "label": "Google Cloud Platform (GCP)",
+        "image": "https://hermes.digitalinnovation.one/skills/14ba4d68-d54f-41b1-99e3-d08632926c00.png"
+    },
+    {
+        "value": "d868643d-08ce-486c-9199-5800b8e4ec41",
+        "label": "Hadoop",
+        "image": "https://hermes.digitalinnovation.one/skills/17578119-341b-4b90-9478-d48a53e163ac.png"
+    },
+    {
+        "value": "af94e086-7222-4626-bf21-b7d8ebecdbfd",
+        "label": "HTML",
+        "image": "https://hermes.digitalinnovation.one/skills/8c3d42c5-7ad4-49fe-b4dc-fb97d7176a44.png"
+    },
+    {
+        "value": "a000ba41-408d-47be-b21a-72b97a1acded",
+        "label": "Java",
+        "image": "https://hermes.digitalinnovation.one/skills/673301b6-8edf-44b0-9097-0c540dba0a22.png"
+    },
+    {
+        "value": "91244518-6803-41e2-a974-5f2f00cb4a38",
+        "label": "JavaScript",
+        "image": "https://hermes.digitalinnovation.one/skills/36151bf7-5d45-4c7e-b22b-5461a2d5b850.png"
+    },
+    {
+        "value": "bf978284-8e1e-48cd-ba37-7a2deb1092fb",
+        "label": "JWT",
+        "image": "https://hermes.digitalinnovation.one/skills/1d73175d-1a56-4b6a-a548-2cc0c2c6c07d.png"
+    },
+    {
+        "value": "c4df277f-f3f9-4039-a37d-8661cf12d642",
+        "label": "Kotlin",
+        "image": "https://hermes.digitalinnovation.one/skills/4c44aa27-e368-4b72-baea-815b5d93f2af.png"
+    },
+    {
+        "value": "f94d2363-18fa-4925-984c-3097a426237e",
+        "label": "Kubernetes",
+        "image": "https://hermes.digitalinnovation.one/skills/4b6825b4-aefc-4e16-98e1-adac8076b8cf.png"
+    },
+    {
+        "value": "9d2bd2ea-9ff1-411e-90c6-07a9ac9225ef",
+        "label": "Laravel",
+        "image": "https://hermes.digitalinnovation.one/skills/6ce9d488-8b08-48a0-bbf6-c851e413e4f3.png"
+    },
+    {
+        "value": "c74daaa1-28bd-4e88-912d-83492d031d6b",
+        "label": "MongoDB",
+        "image": "https://hermes.digitalinnovation.one/skills/db19425d-0a9c-4bcc-b1dc-d34ebe9b33da.png"
+    },
+    {
+        "value": "404d494d-1fda-473d-8a25-6535a4d95f7a",
+        "label": "MySQL",
+        "image": "https://hermes.digitalinnovation.one/skills/f638dc02-af71-4d39-aeb8-aadcd816034f.png"
+    },
+    {
+        "value": "d75468e5-97f1-4654-87f7-39f167bf146f",
+        "label": ".NET C#",
+        "image": "https://hermes.digitalinnovation.one/skills/cadd4335-f710-4c12-a40b-58a374788488.png"
+    },
+    {
+        "value": "395aa1e1-973f-4b3c-b3ad-1a8a7fbc07f0",
+        "label": "Node.js",
+        "image": "https://hermes.digitalinnovation.one/skills/e4a0d5c4-abfb-4416-ab4d-ffd29d1acf01.png"
+    },
+    {
+        "value": "77baf52c-6ff4-4558-bf67-746f7de58fa1",
+        "label": "PHP",
+        "image": "https://hermes.digitalinnovation.one/skills/70bc6f76-3eee-4d0d-bfe3-0a9bbd480493.png"
+    },
+    {
+        "value": "c9b02cb0-3659-4612-b62b-7b870b609a57",
+        "label": "PostgreSQL",
+        "image": "https://hermes.digitalinnovation.one/skills/bc33f3c8-a64d-498a-8ba2-f1a5bd662337.png"
+    },
+    {
+        "value": "4439c6ad-ba49-4017-a3b6-7c7bf204f829",
+        "label": "Python",
+        "image": "https://hermes.digitalinnovation.one/skills/24aac6ed-ee66-4bf8-962a-8e688a61110e.png"
+    },
+    {
+        "value": "9a58338d-01c7-445c-9305-5726bb55a149",
+        "label": "QA",
+        "image": "https://hermes.digitalinnovation.one/skills/ba7bac9b-f098-4c3d-901b-3dc5b4994212.png"
+    },
+    {
+        "value": "ba551fa6-c9bb-4785-9830-812eb389c3c2",
+        "label": "ReactJS",
+        "image": "https://hermes.digitalinnovation.one/skills/3599be03-c30f-4477-9c22-7050944dee4f.png"
+    },
+    {
+        "value": "f489f260-d613-4404-9a42-8e65963e2bab",
+        "label": "React Native",
+        "image": "https://hermes.digitalinnovation.one/skills/cfda882f-bfd7-4124-8b42-57483fe08c95.png"
+    },
+    {
+        "value": "a9599985-c9eb-4fb0-9a9b-1ec5a6e0b854",
+        "label": "REST",
+        "image": "https://hermes.digitalinnovation.one/skills/aa693f12-97d7-4086-b4db-4779d3bd91ea.png"
+    },
+    {
+        "value": "16e113f8-d2e9-4087-9408-a9f2ea91e363",
+        "label": "RESTful",
+        "image": "https://hermes.digitalinnovation.one/skills/e9259148-9dbe-48c7-a734-4eac5f0d990d.png"
+    },
+    {
+        "value": "9ea049af-8de5-4bfd-b41f-084b1e1945ee",
+        "label": "Ruby",
+        "image": "https://hermes.digitalinnovation.one/skills/365595bd-a64a-414f-936c-27d5314c85be.png"
+    },
+    {
+        "value": "e9cc9bd3-a220-46aa-b82f-437585e5f1a2",
+        "label": "Spring Boot",
+        "image": "https://hermes.digitalinnovation.one/skills/fb6f25e0-f408-410f-b460-0a0848440b94.png"
+    },
+    {
+        "value": "bdb75d58-77ff-43bb-b550-e4f15473840b",
+        "label": "Spring Data",
+        "image": "https://hermes.digitalinnovation.one/skills/a47a14f1-4d4b-45b3-9223-8dcdcb2a9c37.png"
+    },
+    {
+        "value": "3b6a3ed4-f882-4a1f-8f1d-0368b95c15ab",
+        "label": "Spring Framework",
+        "image": "https://hermes.digitalinnovation.one/skills/f5df3be6-c38b-4d88-bf79-76e7339d38bb.png"
+    },
+    {
+        "value": "bbad0b8e-355a-4f6e-8bae-9d2c6b756306",
+        "label": "SQL Server",
+        "image": "https://hermes.digitalinnovation.one/skills/59301142-6eb5-40e0-915e-cd4c5e29f4e6.png"
+    },
+    {
+        "value": "af603891-cad3-4b9f-a0c5-70a1076392e0",
+        "label": "Swift",
+        "image": "https://hermes.digitalinnovation.one/skills/7f014740-0563-41a6-a727-72076a798682.png"
+    },
+    {
+        "value": "a26bdb36-95b6-4c25-aab0-2c9e5f889aed",
+        "label": "TDD",
+        "image": "https://hermes.digitalinnovation.one/skills/51efe90c-21dc-457c-be86-08145a7ade13.png"
+    },
+    {
+        "value": "c3adc665-1b5e-47ae-8676-46f4b9723390",
+        "label": "Testes unitários",
+        "image": "https://hermes.digitalinnovation.one/skills/558b18ed-0426-4900-8d5b-7f30e88b8004.png"
+    },
+    {
+        "value": "54398040-9c9a-40bd-98d6-39971802dd24",
+        "label": "TypeScript",
+        "image": "https://hermes.digitalinnovation.one/skills/79bd4b9c-3c66-48c4-838a-481552a29df8.png"
+    },
+    {
+        "value": "ec017962-d23c-4c3b-a58c-aa5ab9cf32e8",
+        "label": "UI/UX",
+        "image": "https://hermes.digitalinnovation.one/skills/4ce8daa3-0fb5-43be-9a33-1cdd0c56df73.png"
+    },
+    {
+        "value": "25b51255-4775-4cda-8a35-d9541157f04d",
+        "label": "Vue.js",
+        "image": "https://hermes.digitalinnovation.one/skills/e1008394-e632-4dc5-b7b5-7045f0a6e1cd.png"
+    },
+    {
+        "value": "d7a1f975-3564-4e0c-b6c0-1c1ac1d4ba0b",
+        "label": "WebSocket",
+        "image": "https://hermes.digitalinnovation.one/skills/8efb1537-497a-4de8-b42f-4240c975c061.png"
+    }
+]

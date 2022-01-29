@@ -1,0 +1,500 @@
+{
+    "count": 151,
+    "next": "http://app.digitalinnovation.one/api/lab-projects/?page=7",
+    "previous": "http://app.digitalinnovation.one/api/lab-projects/?page=5",
+    "results": [
+        {
+            "id": "53d177f4-2ed0-456d-bc17-4e0be9a658b9",
+            "name": "MySql - Como modelar um banco de controle de séries assistidas",
+            "description": "Aprenda como preparar e modelo seu primeiro banco de dados com base em um problema real e o que deve  ser levado em consideração na hora da sua construção.",
+            "slug": "mysql-como-modelar-um-banco-de-controle-de-series-assistidas",
+            "author": {
+                "id": "b33b1bf9-b69f-44e1-ace6-da8d5a0a6149",
+                "name": "Nathally Souza",
+                "company": {
+                    "id": "49a9cbad-b75d-44c3-b271-83565764eee4",
+                    "name": "ThoughtWorks",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.thoughtworks.com/",
+                    "photo": null
+                },
+                "position": "Application Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/b33b1bf9-b69f-44e1-ace6-da8d5a0a6149.png",
+                "linkedin": "https://www.linkedin.com/in/nathally-souza-7331a71b9/",
+                "github": "https://github.com/nathyts/",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "f2d94bf4-7b0f-447e-9669-66ef694bc219",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-1",
+            "workload": 1,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/bf92bfe8-4ef4-4a50-9ee8-fa6346a9213c.jpg",
+            "skills": [
+                "MySQL"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/8cea3b8e-25f7-41bf-adf1-61a73d746ef7.zip",
+            "solution": null
+        },
+        {
+            "id": "ee99af95-76d8-4d18-8cf0-bb0f5c437068",
+            "name": "Integrando Ruby On Rails Com Banco PostgreSQL e Sidekiq",
+            "description": "Aprenda a usar o Sidekiq o mais famoso agendador de tarefas de código aberto escrito em Ruby criando uma aplicação integrada com banco de dados.",
+            "slug": "integrando-ruby-on-rails-com-banco-postgresql-e-sidekiq",
+            "author": {
+                "id": "dff0c8f9-8569-4f43-b0cf-b4d4f20e27ba",
+                "name": "Caio Nascimento",
+                "company": {
+                    "id": "343942e6-af09-4240-a7da-aaf44c8138fa",
+                    "name": "Impulso Network",
+                    "year": 2010,
+                    "category": {
+                        "id": "ab059d7e-841a-43fc-bc52-57baf12e2fee",
+                        "name": "Recrutamento & Seleção"
+                    },
+                    "website": "https://impulso.work",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/343942e6-af09-4240-a7da-aaf44c8138fa.png"
+                },
+                "position": "Senior Full Stack Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/dff0c8f9-8569-4f43-b0cf-b4d4f20e27ba.jpg",
+                "linkedin": "https://www.linkedin.com/in/caiomvnascimento/",
+                "github": "https://github.com/caio-nas",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "e659b2b7-11a9-4f4d-b1a5-8de04d231955",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio",
+            "workload": 3,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/c76c90a4-fb24-4e9c-bb12-d2a1247a89bf.jpg",
+            "skills": [
+                "Ruby",
+                "Ruby"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/4b0e5e84-7486-4224-9b12-e0a16b445606.zip",
+            "solution": null
+        },
+        {
+            "id": "0c1e3e1f-d7c0-4842-b101-d10bb34ee7c9",
+            "name": "Microsserviços e Comunicação Assíncrona Com Ruby e RabbitMQ na Prática",
+            "description": "Entenda como funcionam serviços de mensageria e como você pode criar aplicações ainda mais poderosas com esse tipo de serviço.",
+            "slug": "microsservicos-e-comunicacao-assincrona-com-ruby-e-rabbitmq-na-pratica",
+            "author": {
+                "id": "371f00f5-48bd-49d9-a91c-0d02c72360ac",
+                "name": "Anchieta Júnior",
+                "company": {
+                    "id": "343942e6-af09-4240-a7da-aaf44c8138fa",
+                    "name": "Impulso Network",
+                    "year": 2010,
+                    "category": {
+                        "id": "ab059d7e-841a-43fc-bc52-57baf12e2fee",
+                        "name": "Recrutamento & Seleção"
+                    },
+                    "website": "https://impulso.work",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/343942e6-af09-4240-a7da-aaf44c8138fa.png"
+                },
+                "position": "Ruby on Rails Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/371f00f5-48bd-49d9-a91c-0d02c72360ac.jpg",
+                "linkedin": "https://www.linkedin.com/in/anchietajunior/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "30de8e34-5bff-4883-b795-03f60d35c8fe",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/45e46e64-e607-47c1-a217-c515d034a83c.jpg",
+            "skills": [
+                "Ruby"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/346322f6-5c46-40b2-bc5a-6af2ed09f154.zip",
+            "solution": null
+        },
+        {
+            "id": "9df57c4c-4b66-4d34-9ac1-af801ee11cce",
+            "name": "Ruby on Rails boas práticas e testes com Rspec",
+            "description": "o essencial que você precisa saber para criar aplicações muito mais  sólidas com boas práticas e com baterias de testes programáticos.",
+            "slug": "ruby-on-rails-boas-praticas-e-testes-com-rspec",
+            "author": {
+                "id": "44a726c0-1127-404f-b1be-a48ba44365e9",
+                "name": "Leandro Nunes",
+                "company": {
+                    "id": "343942e6-af09-4240-a7da-aaf44c8138fa",
+                    "name": "Impulso Network",
+                    "year": 2010,
+                    "category": {
+                        "id": "ab059d7e-841a-43fc-bc52-57baf12e2fee",
+                        "name": "Recrutamento & Seleção"
+                    },
+                    "website": "https://impulso.work",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/343942e6-af09-4240-a7da-aaf44c8138fa.png"
+                },
+                "position": "Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/44a726c0-1127-404f-b1be-a48ba44365e9.jpg",
+                "linkedin": "https://www.linkedin.com/in/leandro-nunes-862053191/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "c1f56e74-0cbf-4914-aa65-486b8e0c429e",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/c4137507-d77d-40f2-80ab-65b264b1c2fb.jpg",
+            "skills": [
+                "Ruby"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/1ed45433-8e77-465c-9c5f-4d26e7a322f0.zip",
+            "solution": null
+        },
+        {
+            "id": "6a81bae8-55ae-4b64-b022-c01ef7bdd5c5",
+            "name": "Utilizando Cache para aumentar a performance da sua aplicação em dias de grande volume de acessos",
+            "description": "Tudo que você precisa saber para criar aplicações ainda mais eficientes para suportar grandes ondas de acesso.",
+            "slug": "utilizando-cache-para-aumentar-a-performance-da-sua-aplicacao-em-dias-de-grande-volume-de-acessos",
+            "author": {
+                "id": "1979eba8-aa00-42d0-a9fb-46f935f37d39",
+                "name": "Daniel Hatanaka",
+                "company": {
+                    "id": "74815926-cde2-43fb-b17f-0d287dd96a7d",
+                    "name": "PagSeguro PagBank",
+                    "year": 2019,
+                    "category": {
+                        "id": "522cf1d3-154b-4403-9638-27964e878132",
+                        "name": "Serviços financeiros"
+                    },
+                    "website": "https://pagseguro.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/74815926-cde2-43fb-b17f-0d287dd96a7d.png"
+                },
+                "position": "Engenheiro de software",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/1979eba8-aa00-42d0-a9fb-46f935f37d39.png",
+                "linkedin": "https://www.linkedin.com/in/hatanakadaniel/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "21bcfe7e-908a-4a5f-b944-79c092717a23",
+            "next_slug": "parte-1-119",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/bed01bd2-96dc-4347-b8d8-13ced7d7650b.jpg",
+            "skills": [
+                "Java"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/b7cc81a9-91f1-498b-b877-ce66f65a1023.zip",
+            "solution": null
+        },
+        {
+            "id": "5d437118-e0d9-4f34-9e97-aee184e78543",
+            "name": "Construindo APIs REST Serverless para gerenciar horários de uma barbearia",
+            "description": "Aprenda como modelar uma api totalmente serverless com foco em criar um gerenciador de uma barberia online.",
+            "slug": "construindo-apis-rest-serverless-para-gerenciar-horarios-de-uma-barbearia",
+            "author": {
+                "id": "96d34c18-9073-4336-aa41-7143339e2784",
+                "name": "Rodrigo Peleias",
+                "company": {
+                    "id": "ba91518a-8ecb-4f5f-8502-6ed45d2683cd",
+                    "name": "ClickBus",
+                    "year": 2013,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.clickbus.com.br/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/ba91518a-8ecb-4f5f-8502-6ed45d2683cd.png"
+                },
+                "position": "Software Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/96d34c18-9073-4336-aa41-7143339e2784.png",
+                "linkedin": "https://www.linkedin.com/in/rodrigopeleias/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "d63a2251-4a6a-4756-af79-cacbb7fa2348",
+            "next_slug": "parte-1-118",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/54fc18f0-5628-4705-987e-540145870d7e.jpg",
+            "skills": [
+                "Java"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/f75ab187-f447-4902-9814-fed2eeeb68cb.zip",
+            "solution": null
+        },
+        {
+            "id": "f5682e7c-22bf-4c03-a1f0-2f3dea019c2a",
+            "name": "Desenvolvendo SPA com Angular",
+            "description": "Aprenda mais sobre Single Page Application e tenha como missão criar a sua primeira página front-end utilizando componentes.",
+            "slug": "desenvolvendo-spa-com-angular",
+            "author": {
+                "id": "8c348a5c-6585-4cc4-b20d-e7aa6653a563",
+                "name": "Camila Ribeiro",
+                "company": {
+                    "id": "eae8d2bd-55fc-4a37-8060-c4ba7d3fce81",
+                    "name": "Avanade",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://avanade.com.br/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/eae8d2bd-55fc-4a37-8060-c4ba7d3fce81.png"
+                },
+                "position": "Engenheira de software sênior",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/8c348a5c-6585-4cc4-b20d-e7aa6653a563.png",
+                "linkedin": "https://www.linkedin.com/in/camila-ferreira-ribeiro/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "e318b899-6d23-4070-9927-11cbd748f7ec",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-6",
+            "workload": 3,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/ef6503f4-a12e-419f-af32-565376cccbad.jpg",
+            "skills": [
+                "Angular"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "263907dd-8cd0-4f24-ba25-509d10e31e60",
+            "name": "Desenvolvendo um sistema de votação com Blockchain e Ethereum Smart Contracts",
+            "description": "Aprenda a criar uma aplicação de votação com foco em segurança utilizando block chain, você irá aprender mais sobre Ethereum, uma plataforma criada especificamente para criar contratos inteligentes em aplicações descentralizadas e como\r\ncriar uma aplicação segura.",
+            "slug": "desenvolvendo-um-sistema-de-votacao-com-blockchain-e-ethereum-smart-contracts",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "fe2d7288-c4c3-4ba5-b9a2-3b1376eb2c6b",
+            "next_slug": "parte-1-116",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/dc57ebee-8853-42fa-bee2-8a79937e32ca.jpg",
+            "skills": [
+                "Blockchain"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/fca2d061-026a-4cdd-b176-c84166d59517.zip",
+            "solution": null
+        },
+        {
+            "id": "8fb48b08-7d4f-45b5-b100-8adc91aad1d0",
+            "name": "Criando um APP simples de cadastro de séries em .NET",
+            "description": "Aprenda como criar um algoritmo simples de cadastro de séries para praticar seus conhecimentos de orientação a objetos, o principal paradigma de programação utilizada no mercado. Nesse projeto você vai aprender: Como pensar orientado a objetos, como modelar o seu domínio, como utilizar recursos de coleção para salvar seus dados em memória.",
+            "slug": "criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net",
+            "author": {
+                "id": "4720ed44-cfe8-496a-8bb2-c4b55622dc76",
+                "name": "Eliézer Zarpelão",
+                "company": {
+                    "id": "eae8d2bd-55fc-4a37-8060-c4ba7d3fce81",
+                    "name": "Avanade",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://avanade.com.br/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/eae8d2bd-55fc-4a37-8060-c4ba7d3fce81.png"
+                },
+                "position": "Arquiteto de software",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/4720ed44-cfe8-496a-8bb2-c4b55622dc76.png",
+                "linkedin": "https://www.linkedin.com/in/eliezerzarpelao/",
+                "github": "https://github.com/elizarp",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "71b065a5-481e-4eb1-9a4a-31fe33afd6ca",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/f1d947de-ea7d-42a8-9a7a-eadf9f56842b.jpg",
+            "skills": [
+                ".NET C#"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/4d894e9f-e729-4e13-bd89-21094aec4415.zip",
+            "solution": null
+        },
+        {
+            "id": "8bfdef6f-d4d3-48e0-b965-58eeec899f78",
+            "name": "Criando uma aplicação de transferências bancárias com .NET",
+            "description": "Aprenda como criar um algoritmo simples de transferência bancária para exercer o pensamento orientado a objetos, o principal paradigma de programação utilizada no mercado. Nesse projeto você vai aprender: Como pensar orientado a objetos, como modelar o seu domínio, como utilizar enums.",
+            "slug": "criando-uma-aplicacao-que-simula-transferencias-entre-contas-bancarias-com-net",
+            "author": {
+                "id": "4720ed44-cfe8-496a-8bb2-c4b55622dc76",
+                "name": "Eliézer Zarpelão",
+                "company": {
+                    "id": "eae8d2bd-55fc-4a37-8060-c4ba7d3fce81",
+                    "name": "Avanade",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://avanade.com.br/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/eae8d2bd-55fc-4a37-8060-c4ba7d3fce81.png"
+                },
+                "position": "Arquiteto de software",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/4720ed44-cfe8-496a-8bb2-c4b55622dc76.png",
+                "linkedin": "https://www.linkedin.com/in/eliezerzarpelao/",
+                "github": "https://github.com/elizarp",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "af74994e-9765-4f8c-99b5-3222bdf55845",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-1",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/e02b3b49-df4f-4c7e-9bbb-d07850f89baf.jpg",
+            "skills": [
+                ".NET C#"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/ce457f4e-5569-4cdc-941e-bcef07db7372.zip",
+            "solution": null
+        },
+        {
+            "id": "9432184e-1bfa-43bf-9150-4d1a96166800",
+            "name": "Construa o clone do TradeMap para acompanhar a cotação das ações da B3 com Spring Boot e Kotlin",
+            "description": "Neste projeto você terá o desafio de criar um aplicativo funcional ao estilo TradeMap, com a possibilidade de visualizar as cotações das ações da B3 em tempo real e também de adicionar os ativos favoritos em seu perfil para facilitar o acompanhamento. Você irá utilizar Spring Boot, Kotlin e o Apache Kafka para desenvolver uma API RESTful e Kotlin para desenvolver um aplicativo nativo Android.",
+            "slug": "construa-o-clone-do-trademap-para-acompanhar-a-cotacao-das-acoes-da-b3-com-spring-boot-e-kotlin",
+            "author": {
+                "id": "4c0f15f5-6fec-431f-91c8-5f885526dbbf",
+                "name": "Cícero Moura",
+                "company": {
+                    "id": "ba62c39f-e6cb-4ef9-af19-902404ddc150",
+                    "name": "Tecnisys",
+                    "year": 1991,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.tecnisys.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/ba62c39f-e6cb-4ef9-af19-902404ddc150.png"
+                },
+                "position": "Engenheiro de Dados",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/4c0f15f5-6fec-431f-91c8-5f885526dbbf.png",
+                "linkedin": "https://www.linkedin.com/in/cicero-moura/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "91c8d16a-7aa7-4360-bf40-07b89e987bae",
+            "next_slug": "parte-1-113",
+            "workload": 8,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/afcf48d7-0e6c-4f9f-9db9-0e526ec63c70.jpg",
+            "skills": [
+                "Java"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/eae8081c-243e-4034-9527-8c2e0909f22c.rar",
+            "solution": null
+        },
+        {
+            "id": "ad61fead-9f38-44c4-9833-42b40d1a7290",
+            "name": "Desenvolvendo um menu hamburguer e morphing menu com CSS Transitions",
+            "description": "Nesse projeto você aprenderá os mais importantes tópicos para alavancar no mundo das animações utilizando CSS.\r\nDentre eles o CSS Transitions utilizando pseudo elementos e pseudo classes e também CSS @keyframes.\r\nAo fim do projeto, teremos a construção de um portfólio apenas utilizando HTML e CSS para fixação das aulas.",
+            "slug": "desenvolvendo-um-menu-hamburguer-e-morphing-menu-com-css-transitions",
+            "author": {
+                "id": "030a00b7-3d4c-44e3-8372-64b8709ba29a",
+                "name": "Gabriela Pinheiro",
+                "company": {
+                    "id": "867bba29-a70a-4a20-8216-91741acbdbbe",
+                    "name": "Cornershop by Uber",
+                    "year": 2015,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://cornershopapp.com/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/867bba29-a70a-4a20-8216-91741acbdbbe.jpg"
+                },
+                "position": "Frontend Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/030a00b7-3d4c-44e3-8372-64b8709ba29a.png",
+                "linkedin": "https://www.linkedin.com/in/gabrielapinheiro129/",
+                "github": "http://www.github.com/SpruceGabriela",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "0b8fbfe7-3b69-4a0f-bb86-9f2b826c7731",
+            "next_slug": "parte-1-112",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/2fb0695a-6455-4a45-b242-0ddb1b58bf14.jpg",
+            "skills": [
+                "CSS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/53fdb7d6-ae25-4c0f-a7af-f97043e64312.zip",
+            "solution": null
+        }
+    ]
+}

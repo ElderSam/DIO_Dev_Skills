@@ -1,0 +1,507 @@
+{
+    "count": 151,
+    "next": "http://app.digitalinnovation.one/api/lab-projects/?page=10",
+    "previous": "http://app.digitalinnovation.one/api/lab-projects/?page=8",
+    "results": [
+        {
+            "id": "e4b8fa64-2922-497e-8864-e2b37e71e3e2",
+            "name": "Rodando sua aplicação Java no Kubernetes. Do deploy ao debug sem medo!",
+            "description": "Neste projeto você terá o desafio de construir um ambiente Kubernetes local para que possamos aprender a tecnologia sem medo de errar. Vamos criar os recursos necessários para fazer o deploy no cluster e configurar nossa aplicação a fim de fazer debug enquanto ela está rodando no Kubernetes.",
+            "slug": "rodando-sua-aplicacao-java-no-kubernetes-do-deploy-ao-debug-sem-medo",
+            "author": {
+                "id": "16f35223-2260-4216-b201-b459bfa3809d",
+                "name": "Sandro Giacomozzi",
+                "company": {
+                    "id": "2af6a3d1-7f2a-4a44-a58f-30bc59d30437",
+                    "name": "TOTVS",
+                    "year": 1983,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.totvs.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/2af6a3d1-7f2a-4a44-a58f-30bc59d30437.png"
+                },
+                "position": "Software engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/16f35223-2260-4216-b201-b459bfa3809d.png",
+                "linkedin": "https://www.linkedin.com/in/sandrogiacomozzi/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "86a86c6c-f7ad-440e-9921-45132c98d81a",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-11",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/df084383-5eb8-4859-b9af-356b438f619c.jpg",
+            "skills": [
+                "Java",
+                "Kubernetes"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/0f2a7c40-e2dd-4735-b6a9-6901d465fb95.zip",
+            "solution": null
+        },
+        {
+            "id": "7833a23c-50cc-4a10-95b3-b22fda669628",
+            "name": "Recriando a Interface do Netflix",
+            "description": "Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins JQuery a favor da sua aplicação.",
+            "slug": "recriando-a-interface-do-netflix",
+            "author": {
+                "id": "e0aa7c57-89e3-41ff-a60b-09dc7a9bc6e9",
+                "name": "Felipe Aguiar",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Coordenador de Education & Talent Success",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/e0aa7c57-89e3-41ff-a60b-09dc7a9bc6e9.png",
+                "linkedin": "https://www.linkedin.com/in/felipe-aguiar-047/",
+                "github": "https://github.com/felipeAguiarCode",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Avançado",
+            "next_content": "a9150215-27d5-4a2c-8870-b1eb109e257a",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-4",
+            "workload": 5,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/3e0439e0-bed5-4ae6-bf96-9ad873dd0398.jpg",
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/b30832b8-e9dc-42da-98a5-24d908dc3011.zip",
+            "solution": {
+                "repository": "https://github.com/ElderSam/DIO-projects/tree/master/frontend-projects/Netflix-clone",
+                "description": "<p>Um clone da interface da Netflix desenvolvido com HTML, CSS e JavaScript.</p>"
+            }
+        },
+        {
+            "id": "f9ce5880-bcc2-489a-8f56-f899c1f739a0",
+            "name": "Criando seu jogo de memória estilo Genius",
+            "description": "Nesse projeto, o desafio será criar um jogo Gênesis utilizando apenas HTML, CSS e Javascript de forma introdutória, sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions.",
+            "slug": "criando-seu-jogo-de-memoria-estilo-genius",
+            "author": {
+                "id": "030a00b7-3d4c-44e3-8372-64b8709ba29a",
+                "name": "Gabriela Pinheiro",
+                "company": {
+                    "id": "867bba29-a70a-4a20-8216-91741acbdbbe",
+                    "name": "Cornershop by Uber",
+                    "year": 2015,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://cornershopapp.com/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/867bba29-a70a-4a20-8216-91741acbdbbe.jpg"
+                },
+                "position": "Frontend Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/030a00b7-3d4c-44e3-8372-64b8709ba29a.png",
+                "linkedin": "https://www.linkedin.com/in/gabrielapinheiro129/",
+                "github": "http://www.github.com/SpruceGabriela",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "997ef1d2-509b-43db-a46d-24074b9c56bd",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-18",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/a81887c2-da43-45f8-a3f0-52d1ef23fb0b.jpg",
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/50df40f3-9114-466d-ab8a-9db182ccaad9.zip",
+            "solution": null
+        },
+        {
+            "id": "952bb486-19d1-40e9-b06d-b63422726dd2",
+            "name": "Criando seu jogo no estilo Space Shooter",
+            "description": "Nesse projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Javascript. Aprenderemos juntos a trabalhar com posicionamento no CSS e lógica de programação utilizando posicionamento com CSS, manipulação do DOM, eventListeners, e manipulação de Array.",
+            "slug": "criando-seu-jogo-no-estilo-space-shooter",
+            "author": {
+                "id": "030a00b7-3d4c-44e3-8372-64b8709ba29a",
+                "name": "Gabriela Pinheiro",
+                "company": {
+                    "id": "867bba29-a70a-4a20-8216-91741acbdbbe",
+                    "name": "Cornershop by Uber",
+                    "year": 2015,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://cornershopapp.com/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/867bba29-a70a-4a20-8216-91741acbdbbe.jpg"
+                },
+                "position": "Frontend Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/030a00b7-3d4c-44e3-8372-64b8709ba29a.png",
+                "linkedin": "https://www.linkedin.com/in/gabrielapinheiro129/",
+                "github": "http://www.github.com/SpruceGabriela",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "d02b301c-3245-431b-a2c6-51cfa3b58ebc",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-21",
+            "workload": 6,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/0e5795c9-6377-46e7-a900-d560a34dde1a.jpg",
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/83636e1e-8739-412e-b2f9-825eb6ba5d85.zip",
+            "solution": null
+        },
+        {
+            "id": "434ffa3b-6713-40fa-8407-910640906f3a",
+            "name": "Recriando o famoso jogo do dinossauro sem internet",
+            "description": "Neste projeto você terá o desafio de criar uma cópia do jogo do dinossauro, famoso no Chrome por nos entreter quando estamos sem conexão. Nele iremos utilizar HTML, CSS e JavaScript, abordando de maneira simples diversos conceitos introdutórios importantes para programação na web como tags básicas de HTML, manipulação de eventos, funções e manipulação de elementos HTML usando JavaScript, estilização e animações básicas com CSS.",
+            "slug": "recriando-o-famoso-jogo-do-dinossauro-sem-internet",
+            "author": {
+                "id": "a0493046-36a1-416d-9ff0-9e230b8ae9a2",
+                "name": "Celso Henrique",
+                "company": {
+                    "id": "4a04f94e-a851-4ce2-9c28-1e5f123d40e7",
+                    "name": "Creditas",
+                    "year": 2012,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.creditas.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/4a04f94e-a851-4ce2-9c28-1e5f123d40e7.png"
+                },
+                "position": "Engineering Lead",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/a0493046-36a1-416d-9ff0-9e230b8ae9a2.png",
+                "linkedin": "https://www.linkedin.com/in/devfrontend/",
+                "github": "https://github.com/celso-henrique/",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "6e0ce884-2c7c-4d61-b2a4-28a0d48d279a",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-9",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/a183b676-5c5e-4c6d-908a-b52194b6a059.jpg",
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/707ec38c-298f-4e99-806f-03a8b0d73403.zip",
+            "solution": null
+        },
+        {
+            "id": "85ad5fd4-a749-438c-81e0-919acd9c0b6c",
+            "name": "Construindo o seu primeiro jogo de naves",
+            "description": "Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de desenvolvimento compatível com os diversos dispositivos móveis no mercado e também com os diferentes navegadores (browsers). Utilizando o HTML5 juntamente com as folhas de estilo CSS3 e o JavaScript, é possível desenvolver jogos de forma rápida e compatível com diversas plataformas, incluindo dispositivos móveis. No projeto são discutidas as etapas de desenvolvimento de jogos em HTML5, CSS3 e JavaScript do início ao fim, utilizando a didática passo a passo em seu desenvolvimento. Neste projeto, especificamente, os jogos serão publicados de forma que possam ser acessados via browser.",
+            "slug": "construindo-o-seu-primeiro-jogo-de-naves",
+            "author": {
+                "id": "06d27a77-5a11-48fb-9c16-e0c692091bd9",
+                "name": "Denilson Bonatti",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/06d27a77-5a11-48fb-9c16-e0c692091bd9.png",
+                "linkedin": "https://www.linkedin.com/in/denilson-bonatti-54a14529/",
+                "github": "https://github.com/denilsonbonatti",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "96be068d-622b-4c3b-b226-481a37cf6a89",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-16",
+            "workload": 5,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/14960f4a-bc48-41e9-9d9d-34457c85c729.jpg",
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": null,
+            "solution": {
+                "repository": "https://github.com/ElderSam/DIO-projects/tree/master/games/naves",
+                "description": "<p>Jogo de regate e tiro de helicóptero. Resgate o prisioneiro e atire nos inimigos (helicópteros e caminhões)</p>"
+            }
+        },
+        {
+            "id": "c85f75e2-b74b-4110-9f2c-3a29b7a1787c",
+            "name": "Recriando a página inicial do Instagram",
+            "description": "Nesse projeto você terá o desafio de reconstruir a página de login do Instagram. Para isso, é recomendado o uso de CSS com Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade. Além disso, a expert disponibiliza todo o material necessário em seu GitHub para que você possa utilizá-lo como referência para a sua solução.",
+            "slug": "recriando-a-pagina-inicial-do-instagram",
+            "author": {
+                "id": "030a00b7-3d4c-44e3-8372-64b8709ba29a",
+                "name": "Gabriela Pinheiro",
+                "company": {
+                    "id": "867bba29-a70a-4a20-8216-91741acbdbbe",
+                    "name": "Cornershop by Uber",
+                    "year": 2015,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://cornershopapp.com/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/867bba29-a70a-4a20-8216-91741acbdbbe.jpg"
+                },
+                "position": "Frontend Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/030a00b7-3d4c-44e3-8372-64b8709ba29a.png",
+                "linkedin": "https://www.linkedin.com/in/gabrielapinheiro129/",
+                "github": "http://www.github.com/SpruceGabriela",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "9c6e1506-e7c3-473f-8083-6aa4c53d1f45",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-5",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/75ecb720-f332-4b50-8407-c984063bad44.jpg",
+            "skills": [
+                "CSS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/0efda6f1-337d-4477-a71c-480eb3ee7219.zip",
+            "solution": {
+                "repository": "https://github.com/ElderSam/DIO-projects/tree/master/frontend-projects/instagram-pagina-inicial",
+                "description": "<p>Página inicial do Instagram desenvolvida durante a aula.</p>"
+            }
+        },
+        {
+            "id": "af6116fc-a194-4d32-b25b-03185f7ee1ff",
+            "name": "Descomplicando a criação de pacotes de processamento de imagens em Python",
+            "description": "Neste projeto você aprenderá a criar o seu primeiro pacote de processamento de imagens em Python e disponibilizá-lo no repositório Pypi. Assim você poderá reutilizá-lo facilmente e compartilhá-lo com outras pessoas. A especialista também vai mostrar um exemplo de pacote para processamento de imagens.",
+            "slug": "descomplicando-a-criacao-de-pacotes-de-processamento-de-imagens-em-python",
+            "author": {
+                "id": "21a477b1-c9c1-4025-abeb-ea73d7b5fe77",
+                "name": "Karina Kato",
+                "company": {
+                    "id": "b2e94474-e66b-4a45-9525-729cd90a1fe9",
+                    "name": "Take Blip",
+                    "year": 1999,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.take.net",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/b2e94474-e66b-4a45-9525-729cd90a1fe9.png"
+                },
+                "position": "Machine Learning Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/21a477b1-c9c1-4025-abeb-ea73d7b5fe77.png",
+                "linkedin": "https://www.linkedin.com/in/karina-kato-4b2a56182/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "3d3925ad-7a05-4068-9cf9-7f3f7b18e99f",
+            "next_slug": "parte-1-62",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/f113d360-d33e-49dd-ab04-325079a7d4ac.jpg",
+            "skills": [
+                "Python"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/b717e81d-71da-410e-9fa9-368fb848bba9.zip",
+            "solution": null
+        },
+        {
+            "id": "9ed77338-0f21-486e-9e96-16355d3912c9",
+            "name": "Desenvolva sua interface de voz com a Amazon Alexa",
+            "description": "Neste desafio você irá aprender os fundamentos do desenvolvimento de assistentes de voz com Amazon Alexa utilizando SSML, Node.js e AWS Lambda, isso te possibilitá o desenvolvimento de um projeto de criação de uma skill interativa que fala sobre super-heróis. Após esse desafio você será capaz de criar todo e qualquer tipo de skill que você deseje desenvolver utilizando Amazon Alexa!",
+            "slug": "desenvolva-sua-interface-de-voz-com-a-amazon-alexa",
+            "author": {
+                "id": "6eb2192f-5889-4fa9-a32c-aff59fc524b9",
+                "name": "Eduardo Fermiano",
+                "company": {
+                    "id": "3618e4ed-77f6-4177-858f-a3885a864961",
+                    "name": "SKY Brasil",
+                    "year": 1996,
+                    "category": {
+                        "id": "5b376e9f-25fb-4d41-9dea-cc8883d75696",
+                        "name": "Mídia de difusão"
+                    },
+                    "website": "http://www.sky.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3618e4ed-77f6-4177-858f-a3885a864961.png"
+                },
+                "position": "Full Stack Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/6eb2192f-5889-4fa9-a32c-aff59fc524b9.png",
+                "linkedin": "https://www.linkedin.com/in/dufermiano/",
+                "github": null,
+                "country": null
+            },
+            "level": "Avançado",
+            "next_content": "8066ac69-bacf-42b1-a79d-263934e6d213",
+            "next_slug": "parte-1-61",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/a3fbdeab-8031-4ca3-aa24-3d8d2bd933a0.jpg",
+            "skills": [
+                "Node.js",
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/6fb533a9-ea13-4478-a3da-a05dbc085859.zip",
+            "solution": null
+        },
+        {
+            "id": "aa6c87b1-d9a1-485b-b2d9-0995e5574b74",
+            "name": "Criando um site para encontrar restaurantes usando Google Maps que consulta API do Google",
+            "description": "Nesse projeto vamos construir junto com o especialista um sistema web de busca de restaurantes, parecido com o serviço que o Google oferece. Vamos desenvolver esse buscador usando React.JS e API do Google, iniciando do zero à nuvem.",
+            "slug": "criando-um-site-para-encontrar-restaurantes-usando-google-maps-que-consulta-api-do-google",
+            "author": {
+                "id": "1db0d542-d9ec-4184-880a-d39cad60207e",
+                "name": "Patrick Narciso",
+                "company": {
+                    "id": "a848cddd-1af8-4a24-bff8-08f7d690ea75",
+                    "name": "Lojas Riachuelo",
+                    "year": 1947,
+                    "category": {
+                        "id": "e549fb8b-b771-4656-a423-1a928b34ae7a",
+                        "name": "Varejo"
+                    },
+                    "website": "http://www.riachuelo.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/a848cddd-1af8-4a24-bff8-08f7d690ea75.png"
+                },
+                "position": "Software Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/1db0d542-d9ec-4184-880a-d39cad60207e.png",
+                "linkedin": "https://www.linkedin.com/in/patricknarciso/",
+                "github": null,
+                "country": null
+            },
+            "level": "Avançado",
+            "next_content": "897248b0-9161-4c93-9cff-645f6eb730e3",
+            "next_slug": "introducao-6",
+            "workload": 10,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/ce96a016-5baa-4abb-bbdb-8d3267c7bcee.jpg",
+            "skills": [
+                "ReactJS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/818cd242-a893-4d15-a5e8-63f2e0d13a8f.zip",
+            "solution": null
+        },
+        {
+            "id": "71a9046f-68ff-464f-a997-1d009a27f3c1",
+            "name": "Criando seu próprio jogo da velha com HTML e Javascript",
+            "description": "Neste projeto, vamos construir juntos um jogo da velha, utilizando somente HTML para estruturar nosso site, CSS para estilizar e dar vida a ele, e Javascript para criarmos toda suas interações, desde a escolha do jogador, efetivar uma jogada e dar um vencedor ao jogo.\r\nVamos abordar conceitos básicos sobre as linguagens e como podemos criar projetos bem simples sem muito trabalho, apenas utilizando suas funções básicas e uma pouco de lógica!",
+            "slug": "criando-seu-proprio-jogo-da-velha-com-html-e-javascript",
+            "author": {
+                "id": "e946e555-dee9-4900-81d1-9b05d4c0313e",
+                "name": "Vitor Ruschoni",
+                "company": {
+                    "id": "1f2a99e5-d662-41b4-937a-4e194978bbe7",
+                    "name": "PicPay",
+                    "year": 2012,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.picpay.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/1f2a99e5-d662-41b4-937a-4e194978bbe7.png"
+                },
+                "position": "Engenheiro de software",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/e946e555-dee9-4900-81d1-9b05d4c0313e.png",
+                "linkedin": "https://www.linkedin.com/in/ruschoni02/",
+                "github": null,
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "77459b5a-ef9a-4b9f-8806-e76e00a84a97",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-20",
+            "workload": 5,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/e6f1439b-9beb-4e71-9679-29f37339b5b4.jpg",
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/ee71a41f-6629-47d0-9efa-62af88b5cf80.zip",
+            "solution": null
+        },
+        {
+            "id": "88cf7976-a4a4-4101-9238-e5e9d6e6800c",
+            "name": "Construindo API dos jogos, rodadas e classificação do campeonato Brasileiro de futebol com Spring Boot",
+            "description": "Neste projeto você terá o desafio de construir a API do Campeonato Brasileiro de futebol, com os jogos, rodadas e classificação. Iremos utilizar Spring Boot para a sua criação e abordaremos conceitos de criação de Rests, requisição de serviços, entidades e commits.",
+            "slug": "construindo-api-dos-jogos-rodadas-e-classificacao-do-campeonato-brasileiro-de-futebol-com-springboot",
+            "author": {
+                "id": "7be99e0e-705f-4541-bcf5-b80f1e5da729",
+                "name": "Anderson Buzzi",
+                "company": {
+                    "id": "88c3da10-57d6-40b8-9384-4bc54b7b4a3f",
+                    "name": "Paytrack Software",
+                    "year": 2016,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.paytrack.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/88c3da10-57d6-40b8-9384-4bc54b7b4a3f.png"
+                },
+                "position": "Head de Tecnologia e Desenvolvimento",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/7be99e0e-705f-4541-bcf5-b80f1e5da729.png",
+                "linkedin": "https://www.linkedin.com/in/andersonbuzzi/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "c506d9b2-79e1-460d-a94e-dc19632a9892",
+            "next_slug": "parte-1-58",
+            "workload": 7,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/fe519fa4-5fda-45a8-9853-0c61308b04b8.jpg",
+            "skills": [
+                "Spring Boot"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/f8ea136b-d6a2-4591-85a7-dd12ace5e493.zip",
+            "solution": null
+        }
+    ]
+}

@@ -1,0 +1,478 @@
+{
+    "count": 151,
+    "next": "http://app.digitalinnovation.one/api/lab-projects/?page=3",
+    "previous": "http://app.digitalinnovation.one/api/lab-projects/",
+    "results": [
+        {
+            "id": "4e0dad75-a89f-416c-ae87-da4fcc0f3da1",
+            "name": "Usando o Amazon Textract como OCR para Extração de Dados no DynamoDB",
+            "description": "Aprenda ainda mais sobre o Amazon Textract e extraia facilmente textos de praticamente qualquer documento. Para isso, nosso super expert apresenta novas formas de interagir com essa ferramenta.",
+            "slug": "usando-o-amazon-textract-como-ocr-para-extracao-de-dados-no-dynamodb",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "5aaf4286-26da-4111-9428-870138cacc26",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-47",
+            "workload": 1,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/b5735125-aae1-409a-a247-fd8150fbab74.jpg",
+            "skills": [
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/9990faf0-2d19-43af-8a12-6aba4cb8c609.zip",
+            "solution": null
+        },
+        {
+            "id": "99eb58a2-16ff-44b4-9572-3923fa6c0e34",
+            "name": "Explorando Dados Demográficos com Serviços de Big Data na AWS",
+            "description": "Vamos explorar o poder do SQL em uma ferramenta de BigData totalmente gerenciada na AWS, o Amazon Athena. Para isso, o expert apresenta na prática esse serviço de consultas interativas que facilita a análise de dados no Amazon S3 usando SQL padrão.",
+            "slug": "explorando-dados-demograficos-com-servicos-de-big-data-na-aws",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "8d759319-b664-4a1a-bc3a-ad4e41c2d930",
+            "next_slug": "apresentacao-7",
+            "workload": 1,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/4f908c88-b3b4-445b-a285-97bf81c2533c.jpg",
+            "skills": [
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/dd480b29-60cd-431c-bc35-dbe84de69a94.zip",
+            "solution": null
+        },
+        {
+            "id": "9891ce53-852d-400e-b0fc-e64aafbc1737",
+            "name": "Boas práticas com DynamoDB",
+            "description": "Features Relacionais (SQL) e Não Relacionais (NoSQL) usando o mesmo banco de dados? Isso é possível? Com o DynamoDB sim! Entenda um pouco das possibilidades desse banco de dados totalmente gerenciado da AWS. Para isso, nosso super expert apresenta uma série de boas práticas para o DynamoDB.",
+            "slug": "boas-praticas-com-dynamodb",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "265005cd-6f90-4d04-b745-b94a9079355f",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-51",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/e1b5b76d-f441-47e6-a6a1-a7803b2687da.jpg",
+            "skills": [
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/f55a9dea-f37c-4e35-8d95-c37db50c0618.zip",
+            "solution": null
+        },
+        {
+            "id": "bdf416ef-6fe0-494a-bb48-f6b6b07fadd0",
+            "name": "Criando sites estáticos com Amazon S3 e Cloudfront",
+            "description": "Fala galera do front-end, blz!? Vamos conhecer as ferramentas disponibilizadas pela AWS para a publicação de sites estáticos na prática. Para isso, nosso super expert explora o Amazon S3 e Cloudfront, criando uma solução totalmente gerenciada e escalável.",
+            "slug": "criando-sites-estaticos-com-amazon-s3-e-cloudfront",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "691eb868-d848-459c-82de-c422347386f4",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-48",
+            "workload": 1,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/3c509ca1-46a4-4890-b9a6-2ee45c7631ba.jpg",
+            "skills": [
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/f05df9c5-0103-4973-8f50-85b0fa8c1a5f.zip",
+            "solution": null
+        },
+        {
+            "id": "c6f5c559-506f-4df1-831d-f305cee85bc1",
+            "name": "Criando um App para Câmbio de Moedas em Swift",
+            "description": "Crie um App em iOS de conversão de moedas/câmbio, passando por todo o processo de desenvolvimento usando o Swift. Para isso, a expert explora o conceito de Storyboard na prática para criação das interfaces. Adicionalmente, ela apresenta algumas dicas para que você possa explorar também o conceito de SwiftUI.",
+            "slug": "criando-um-app-para-cambio-de-moedas-em-swift",
+            "author": {
+                "id": "a4eb7511-480b-41b0-94a3-447f411f7261",
+                "name": "Ludimila Cruz",
+                "company": {
+                    "id": "49a9cbad-b75d-44c3-b271-83565764eee4",
+                    "name": "ThoughtWorks",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.thoughtworks.com/",
+                    "photo": null
+                },
+                "position": "Consultant Mobile Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/a4eb7511-480b-41b0-94a3-447f411f7261.png",
+                "linkedin": "https://www.linkedin.com/in/ludimilabela/",
+                "github": "https://github.com/ludimila/currency-list",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "f98e1620-0c07-4ff8-8eb6-593372bc129b",
+            "next_slug": "criando-um-app-para-cambio-de-moedas-em-swift",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/2b2366ec-9c93-4395-9cb6-38b32c8e693e.jpg",
+            "skills": [],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/c1a35aeb-b544-49d6-b6c3-fa2a78744228.zip",
+            "solution": null
+        },
+        {
+            "id": "81ae73a4-c6c0-436c-99cf-b465ad94ebe3",
+            "name": "Simplificando Chamadas Assíncronas com Coroutines",
+            "description": "",
+            "slug": "simplificando-chamadas-assincronas-com-coroutines",
+            "author": {
+                "id": "985c0b27-d90e-411f-8cac-beaccd947146",
+                "name": "Ezequiel Messore",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Android Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/985c0b27-d90e-411f-8cac-beaccd947146.jpg",
+                "linkedin": "https://www.linkedin.com/in/ezequielmessore/",
+                "github": "https://github.com/EzequielMessore",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "20808752-aa27-4430-87fb-6d1e3e4d620d",
+            "next_slug": "simplificando-chamadas-assincronas-com-coroutines",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/bd64b49a-3d40-4f0d-94d1-08f17c62688f.jpg",
+            "skills": [],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "29b9e235-047f-47ba-a618-bc62556643f5",
+            "name": "Como prototipar uma landing page de um portfólio",
+            "description": "",
+            "slug": "como-prototipar-uma-landing-page-de-um-portfolio",
+            "author": {
+                "id": "30f4896e-10cd-450d-87a2-dc50f62cbfc9",
+                "name": "Rodrigo Alexandre",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Head UX/UI Designer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/30f4896e-10cd-450d-87a2-dc50f62cbfc9.jpg",
+                "linkedin": "https://www.linkedin.com/in/rodrigo-alexandre-c-8469b010a/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "2268ba0e-1b46-49df-ab16-3e30712e0ac4",
+            "next_slug": "como-prototipar-uma-landing-page-de-um-portfolio",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/e29ce571-6f26-4ee7-ad1b-8a65ca547438.jpg",
+            "skills": [],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "eb334fec-1c45-4d73-91a7-156b23bab424",
+            "name": "Criando Microsserviços e Integrações com Node.js",
+            "description": "Neste projeto iremos desenvolver uma solução de e-commerce com a arquitetura de microserviços e aplicar a integração entre eles orientada a eventos com Apache Kafka e garantir a compatibilidade entre da comunicação dos microsserviços com Schema Registry. Para isso, programaremos em Java utilizando a stack do Spring (Spring Boot, Spring Cloud Streams).",
+            "slug": "criando-microsservicos-e-integracoes-com-nodejs",
+            "author": {
+                "id": "e45f10cb-9228-4660-a50c-c8e70022db22",
+                "name": "Renan Johannsen",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Tech Lead",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/e45f10cb-9228-4660-a50c-c8e70022db22.jfif",
+                "linkedin": "https://www.linkedin.com/in/renanjpaula/",
+                "github": null,
+                "country": null
+            },
+            "level": "Avançado",
+            "next_content": "179a5a75-1f50-41d9-95dc-0c51ed0995d8",
+            "next_slug": "criando-microsservicos-e-integracoes-com-nodejs",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/45c67ce1-bea1-4392-8261-9e107b026f01.jpg",
+            "skills": [
+                "Node.js"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/1fadbbf9-e120-44e5-bd81-6d7bfa43011e.zip",
+            "solution": null
+        },
+        {
+            "id": "6864c847-1f45-4020-8fa2-1aa158348c07",
+            "name": "Transformando textos em voz com o Amazon Polly",
+            "description": "Vamos explorar mais um serviço sensacional na AWS!? Em nossa jornada, já vimos a geração de texto a partir de áudio com o Amazon Transcribe, mas seria possível fazer o oposto? A resposta é um emblemático SIM! Para isso, o expert fará a sintetização de voz a parir de texto com o Amazon Polly.",
+            "slug": "transformando-textos-em-voz-com-o-amazon-polly",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "c38fd77b-3d29-4dbe-ab4c-80b1fdf59b09",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-56",
+            "workload": 1,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/a13d80bd-0a50-4682-ac6b-47269a1319ae.jpg",
+            "skills": [
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/bf0ce005-eb84-418f-aa46-7c4d7ecd7ea9.zip",
+            "solution": null
+        },
+        {
+            "id": "49888934-53f2-476f-bb45-ce8c28006547",
+            "name": "Node.js com Bancos de Dados Relacionais (SQL)",
+            "description": "Simplifique a complexidade de conexão com bancos de dados relacionais (SQL) usando Node.js. Para isso, algumas abstrações são apresentadas, aumentando ainda mais a nossa produtividade no desenvolvimento de APIs REST em Node.js.",
+            "slug": "nodejs-com-bancos-de-dados-relacionais-sql",
+            "author": {
+                "id": "e45f10cb-9228-4660-a50c-c8e70022db22",
+                "name": "Renan Johannsen",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Tech Lead",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/e45f10cb-9228-4660-a50c-c8e70022db22.jfif",
+                "linkedin": "https://www.linkedin.com/in/renanjpaula/",
+                "github": null,
+                "country": null
+            },
+            "level": "Avançado",
+            "next_content": "0281a793-bd16-4142-ae98-716a4d1b432d",
+            "next_slug": "nodejs-com-bancos-de-dados-relacionais-sql",
+            "workload": 3,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/eb14be7f-69db-4c2f-9b46-f58af4bd4c26.jpg",
+            "skills": [
+                "Node.js"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/e7a652de-0cba-488f-a088-2e4505736881.zip",
+            "solution": null
+        },
+        {
+            "id": "6da32f7e-16f4-40c0-a699-d902f3a8c06f",
+            "name": "Explorando o Estilo Arquitetural REST com Node.js",
+            "description": "Conheça o estilo arquitetural mais utilizado na atualidade e entenda todas as nuances do REST. Nesse contexto, explore na prática todo potencial semântico do protocolo HTTP com Node.js. Para isso, o expert utiliza a biblioteca Express para abstrair o gerenciamento de rotas.",
+            "slug": "explorando-o-estilo-arquitetural-rest-com-nodejs",
+            "author": {
+                "id": "e45f10cb-9228-4660-a50c-c8e70022db22",
+                "name": "Renan Johannsen",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Tech Lead",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/e45f10cb-9228-4660-a50c-c8e70022db22.jfif",
+                "linkedin": "https://www.linkedin.com/in/renanjpaula/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "bf6320bf-5a47-46ca-8dbf-f9eadfad51c4",
+            "next_slug": "explorando-o-estilo-arquitetural-rest-com-nodejs",
+            "workload": 3,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/f83fa535-711f-4861-8082-70b941d91ca4.jpg",
+            "skills": [
+                "Node.js"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/403b27eb-300f-4339-a5f8-02d4871d65ec.zip",
+            "solution": null
+        },
+        {
+            "id": "f1726824-7116-49e5-a830-9691c4d22637",
+            "name": "Introdução ao Node.js com JavaScript",
+            "description": "Dê os seus primeiros passos com Node.js, conhecendo os conceitos e uso dessa tecnologia com JavaScript. Além disso, aplique os conceitos abordados em um projeto prático: criar um servidor simples que recupere informações de hardware, como o uso da memória RAM.",
+            "slug": "introducao-ao-nodejs-com-javascript",
+            "author": {
+                "id": "150966d0-721f-4005-92fc-6acddac398c3",
+                "name": "Diana Martine",
+                "company": {
+                    "id": "59cb55b7-532a-4d1e-b7dc-f2a8bdbc9c50",
+                    "name": "Accenture",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.accenture.com",
+                    "photo": null
+                },
+                "position": "Application Development New Associate",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/150966d0-721f-4005-92fc-6acddac398c3.jpg",
+                "linkedin": "https://www.linkedin.com/in/dianamartine/",
+                "github": "https://www.github.com/dianamartine",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "8190fb92-4dfc-4b35-a6f6-a0a1c0779044",
+            "next_slug": "replay-introducao-ao-nodejs-com-javascript",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/b83b4bee-7dfa-48a8-8320-b7943ad66b0a.jpg",
+            "skills": [
+                "Node.js"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/1730cebe-a870-4b81-8548-b0ba39cc41eb.zip",
+            "solution": null
+        }
+    ]
+}

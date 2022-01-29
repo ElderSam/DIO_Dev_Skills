@@ -1,0 +1,505 @@
+{
+    "count": 151,
+    "next": "http://app.digitalinnovation.one/api/lab-projects/?page=5",
+    "previous": "http://app.digitalinnovation.one/api/lab-projects/?page=3",
+    "results": [
+        {
+            "id": "b6d7b6cd-7aff-489d-a8e6-08ac59bb55d8",
+            "name": "Entendendo a Importância da Modelagem e Segurança na Construção de APIs",
+            "description": "Neste desafio, você terá a missão de compreender a importância da Modelagem e Segurança na construção de APIs. Para isso, anote todos os conceitos, definições e insights que julgar relevantes em um novo repositório Git, aumentando assim seu portfolio de conhecimentos. Nesse sentido, você pode organizar seu repositório da forma como preferir... Dica: organizar tudo em seu README.md pode ser uma alternativa bem rápida e efetiva, principalmente porque o GitHub provê uma interface bem simples e intuitiva para isso. Bons estudos!",
+            "slug": "entendendo-a-importancia-da-modelagem-e-seguranca-na-construcao-de-apis",
+            "author": {
+                "id": "81c7bef6-4b97-48f0-84e6-4a2abb357b03",
+                "name": "Claudia Regina Tachira",
+                "company": {
+                    "id": "307bb8ac-b4aa-4d57-a346-092194903bbd",
+                    "name": "Santander",
+                    "year": null,
+                    "category": {
+                        "id": "522cf1d3-154b-4403-9638-27964e878132",
+                        "name": "Serviços financeiros"
+                    },
+                    "website": "https://www.santander.com.br/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/307bb8ac-b4aa-4d57-a346-092194903bbd.png"
+                },
+                "position": null,
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/81c7bef6-4b97-48f0-84e6-4a2abb357b03.jpg",
+                "linkedin": "https://www.linkedin.com/in/claudia-tachira-cissp-671490/",
+                "github": null,
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "5291e003-257d-4148-982d-65848c3bc22b",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-40",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/f1ce5f37-7c52-41c3-80c8-ab81e1b64781.jpg",
+            "skills": [
+                "Arquitetura de Sistemas",
+                "REST",
+                "RESTful",
+                "Java"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "744b32ea-02ca-4c5a-87eb-5cfca0e6b738",
+            "name": "Criando um Banco Digital com Java e Orientação a Objetos",
+            "description": "Reforce seu conhecimento em Programação Orientada a Objetos (POO) em Java com um desafio de projeto totalmente prático. Para isso, os pilares da orientação a objetos são devidamente explorados no contexto bancário, onde o expert implementa um projeto de referência (disponibilizado no GitHub) de forma prática e interativa. Sendo assim, você poderá desenvolver sua capacidade de abstração reproduzindo essa solução. Além disso, caso queira ir além, implemente suas próprias evoluções e melhorias ;-)",
+            "slug": "criando-um-banco-digital-com-java-e-orientacao-objetos",
+            "author": {
+                "id": "76b931cf-84f8-4104-96fc-3610bff07431",
+                "name": "Venilton FalvoJr",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Tech Lead",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/76b931cf-84f8-4104-96fc-3610bff07431.jpeg",
+                "linkedin": "https://www.linkedin.com/in/falvojr/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "1f5144ac-ae5d-4a25-a8cd-dd36cdbd0809",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-39",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/8eb89dfa-91fd-4d26-b56b-085ff6b342f3.jpg",
+            "skills": [
+                "Java"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "c2d97aa9-04be-458e-8853-c9b4d7a94ef6",
+            "name": "Infraestrutura Como Código com Serverless Framework na AWS",
+            "description": "Chegou a sua hora de dar os seus primeiros passos na Nuvem da AWS! Para isso, o expert apresenta os conceitos de Serverless e Infraestrutura como Código (IaC) em uma abordagem totalmente prática usando o Serverless Framework. Sendo assim, você é desafiado a replicar a solução implementada pelo expert ou reproduzi-la na linguagem de programação que preferir. Booora!?",
+            "slug": "infraestrutura-como-codigo-com-serverless-framework-na-aws",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "bc741bc5-977c-49c9-bd5d-44b2381e847a",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-37",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/36241922-0b02-423e-8554-33694e50085d.jpg",
+            "skills": [
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/933e9b49-95fe-440e-9885-c994820bbc23.zip",
+            "solution": null
+        },
+        {
+            "id": "a2110c60-23bc-4642-b1ed-234b58ff0b96",
+            "name": "Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#",
+            "description": "Reforce seu conhecimento em Programação Orientada a Objetos (POO) em C# com um desafio de projeto totalmente prático. Para isso, os pilares da orientação a objetos serão devidamente explorados no contexto de um jogo de RPG.\r\nCom isso, você poderá desenvolver sua capacidade de abstração com um problema real e implementar as evoluções que julgar necessárias ;)",
+            "slug": "abstraindo-um-jogo-de-rpg-usando-orientacao-a-objetos-com-c",
+            "author": {
+                "id": "e0aa7c57-89e3-41ff-a60b-09dc7a9bc6e9",
+                "name": "Felipe Aguiar",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Coordenador de Education & Talent Success",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/e0aa7c57-89e3-41ff-a60b-09dc7a9bc6e9.png",
+                "linkedin": "https://www.linkedin.com/in/felipe-aguiar-047/",
+                "github": "https://github.com/felipeAguiarCode",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "2be7bcad-ef42-474f-b748-4a375916f8ac",
+            "next_slug": "apresentacao-inicial-do-conteudo-4",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/a77d9134-07ad-47b5-b479-e1e8475dad31.jpg",
+            "skills": [
+                "C#"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "c585e807-c4f2-48c5-bd01-2587ee7c846c",
+            "name": "Integrando um Backend em Node.js com um Frontend em React para um E-commerce",
+            "description": "Aprenda como integrar um Front-end em React com uma API REST (desenvolvida em Node.js). Para isso, a expert apresenta uma abordagem totalmente prática de desenvolvimento, onde dicas e boas práticas fazem parte do seu percurso. Como desafio, reproduza ou faça um \"fork\" nos projetos da expert (os links estão disponíveis deste Desafio) e implemente suas próprias evoluções. Vamos juntos!?",
+            "slug": "integrando-um-backend-em-nodejs-com-um-frontend-em-reactjs-para-um-e-commerce",
+            "author": {
+                "id": "b33b1bf9-b69f-44e1-ace6-da8d5a0a6149",
+                "name": "Nathally Souza",
+                "company": {
+                    "id": "49a9cbad-b75d-44c3-b271-83565764eee4",
+                    "name": "ThoughtWorks",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.thoughtworks.com/",
+                    "photo": null
+                },
+                "position": "Application Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/b33b1bf9-b69f-44e1-ace6-da8d5a0a6149.png",
+                "linkedin": "https://www.linkedin.com/in/nathally-souza-7331a71b9/",
+                "github": "https://github.com/nathyts/",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "1c9a263d-9b56-44cc-9320-272fab91476c",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-32",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/40d3112c-4851-4c4e-a0c7-189dedc2c9a1.jpg",
+            "skills": [
+                "Node.js",
+                "REST",
+                "ReactJS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/65e92cc9-eb62-482f-9656-d073f37a74c9.zip",
+            "solution": null
+        },
+        {
+            "id": "296f48da-29bb-4d1c-bddc-737cb83155be",
+            "name": "Criando um App de Lembretes e Tarefas com Swift",
+            "description": "Crie um App no estilo \"To Do List\" do zero e conduza todo o processo de desenvolvimento usando Swift, uma das linguagens de programação de maior ascensão nos últimos anos, principalmente devido ao desenvolvimento para iOS.  Por fim, você é desafiado a entregar seu próprio projeto, incorporando suas evoluções e melhorias! Está preparado?",
+            "slug": "criando-um-app-de-lembretes-e-tarefas-com-swift-1",
+            "author": {
+                "id": "8a4d12ac-7985-4fe5-8715-fadd1d886c51",
+                "name": "Fernando Vergis",
+                "company": {
+                    "id": "6e661a30-5b16-401b-992f-084f02660855",
+                    "name": "Zarp",
+                    "year": 2003,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.zarpsystem.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/6e661a30-5b16-401b-992f-084f02660855.png"
+                },
+                "position": "Desenvolvedor IOS",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/8a4d12ac-7985-4fe5-8715-fadd1d886c51.png",
+                "linkedin": "https://www.linkedin.com/in/fernando-vergis-b30803b5/",
+                "github": "https://github.com/vergisf",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "655e1610-abfd-4813-a023-662ed8f2e232",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-29",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/96fac743-6783-4caa-9600-d4263753b6a5.jpg",
+            "skills": [
+                "Swift"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "67367b40-116e-40ca-8884-2d88cf084f56",
+            "name": "Abstraindo um Bootcamp Usando Orientação a Objetos em Java",
+            "description": "Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio. Para isso, os pilares da OO são devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo. Com isso, você poderá desenvolver sua capacidade de abstração com um problema real e implementar as evoluções que achar interessantes ;-)",
+            "slug": "abstraindo-um-bootcamp-usando-orientacao-objetos-em-java",
+            "author": {
+                "id": "566255ca-e875-445d-814f-0ae10ad12448",
+                "name": "Camila Cavalcante",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Tech Teacher",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/566255ca-e875-445d-814f-0ae10ad12448.jpg",
+                "linkedin": "https://www.linkedin.com/in/cami-la/",
+                "github": "github.com/cami-la",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "8afcd659-978c-477c-93db-846b83c2927e",
+            "next_slug": "apresentacao-e-visao-geral-de-poo-programacao-orientada-a-objetos",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/6457c99f-9124-4270-8f21-c2fc73e46769.jpg",
+            "skills": [
+                "Java"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "b1967ee0-04ee-4451-8737-104d258394a9",
+            "name": "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso",
+            "description": "Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, o primeiro (de muitos) projetos do seu portfólio ;-)",
+            "slug": "criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso",
+            "author": {
+                "id": "76b931cf-84f8-4104-96fc-3610bff07431",
+                "name": "Venilton FalvoJr",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Tech Lead",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/76b931cf-84f8-4104-96fc-3610bff07431.jpeg",
+                "linkedin": "https://www.linkedin.com/in/falvojr/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "a6e285fa-b9a0-4bc2-8353-7b729dabcf0c",
+            "next_slug": "introducao-e-apresentacao-do-projeto",
+            "workload": 1,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/a4c1f1b2-f408-4267-900d-2ceb2ed16c14.jpg",
+            "skills": [
+                "GitHub",
+                "GitHub"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "66f42a3f-0cf3-4470-8316-907246da9b0e",
+            "name": "Recriando o Layout da Uber com temática do Mario Kart com Figma",
+            "description": "",
+            "slug": "recriando-o-layout-da-uber-com-tematica-do-mario-kart-com-figma",
+            "author": {
+                "id": "30f4896e-10cd-450d-87a2-dc50f62cbfc9",
+                "name": "Rodrigo Alexandre",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Head UX/UI Designer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/30f4896e-10cd-450d-87a2-dc50f62cbfc9.jpg",
+                "linkedin": "https://www.linkedin.com/in/rodrigo-alexandre-c-8469b010a/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "a98ac236-9183-4896-a38e-1a6bf37609e5",
+            "next_slug": "parte-1-130",
+            "workload": 6,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/6265afb0-fd29-4ce6-8cdc-583bb2a15361.jpg",
+            "skills": [
+                "UI/UX"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "96ce90fe-c5a6-4346-89c4-c88ea07a1254",
+            "name": "Criando o front-end com ReactJS",
+            "description": "Desenvolva um e-commerce usando React com Redux, além de explorar duas das principais soluções de estilo, o Material UI e o Bootstrap. Para isso, a expert apresenta uma abordagem totalmente prática de desenvolvimento, onde dicas e boas práticas fazem parte do seu percurso. Como desafio, reproduza o projeto implementado pela expert e dê a ele a sua cara, criando novos estilos e personalizando a página inicial (como sugerido por ela). Use os links úteis para agilizar a sua jornada, vamos nessa!?",
+            "slug": "criando-o-front-end-com-reactjs",
+            "author": {
+                "id": "b33b1bf9-b69f-44e1-ace6-da8d5a0a6149",
+                "name": "Nathally Souza",
+                "company": {
+                    "id": "49a9cbad-b75d-44c3-b271-83565764eee4",
+                    "name": "ThoughtWorks",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.thoughtworks.com/",
+                    "photo": null
+                },
+                "position": "Application Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/b33b1bf9-b69f-44e1-ace6-da8d5a0a6149.png",
+                "linkedin": "https://www.linkedin.com/in/nathally-souza-7331a71b9/",
+                "github": "https://github.com/nathyts/",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "fe8f0707-8354-48d3-a6ab-b3d96f24ab62",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-25",
+            "workload": 7,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/844a8cc3-c4b1-40df-83f4-d0367d5d3a33.jpg",
+            "skills": [
+                "Bootstrap",
+                "ReactJS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/8a7b2b2d-b2eb-4ad6-8245-8c5bfdf7a0c5.zip",
+            "solution": null
+        },
+        {
+            "id": "8910443b-0006-4256-9e07-d9c054b4ba07",
+            "name": "Criando seu Ecossistema de Big Data na Nuvem",
+            "description": "Com base no repositório disponibilizado pelo expert, te desafiamos a replicar e, porque não, melhorar o algoritmo de extração/contabilização de palavras. Para isso, você pode ordenar as palavras por ocorrência e não por ordem alfabética (apresentando as mais citadas no texto com prioridade), por exemplo. Sinta-se à vontade para evoluir o algoritmo de outras formas ;)",
+            "slug": "criando-seu-ecossistema-de-big-data-na-nuvem",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "87c89b13-07ba-4f94-a2fe-3776cfc1356c",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-26",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/ebd22c6b-6c68-43e1-9a9f-2a5abbaf242c.jpg",
+            "skills": [
+                "AWS",
+                "Big Data"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/1e1d5efe-8823-4a17-8d50-9b584c037541.zip",
+            "solution": null
+        },
+        {
+            "id": "a4c7a040-0183-40b1-a8ab-b2f01a1da200",
+            "name": "Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc",
+            "description": "Sua missão será criar um ecossistema de Big Data usando o Google Cloud Platform (GCP). Para isso, o expert te ensinará a configurar o Google Cloud Dataproc, um Hadoop totalmente gerenciado, usando seus créditos gratuitos da GCP.",
+            "slug": "criando-um-ecossistema-hadoop-totalmente-gerenciado-com-google-cloud-dataproc",
+            "author": {
+                "id": "9a638b85-1789-47f6-b20c-96ff67bbfbf3",
+                "name": "Marcelo Marques",
+                "company": {
+                    "id": "135ec86c-0346-449c-bf7d-e574de00362a",
+                    "name": "GFT Brasil",
+                    "year": 1987,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.gft.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/135ec86c-0346-449c-bf7d-e574de00362a.png"
+                },
+                "position": "GCP Cloud Architect",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/9a638b85-1789-47f6-b20c-96ff67bbfbf3.jpg",
+                "linkedin": "https://www.linkedin.com/in/smarques83/",
+                "github": "https://github.com/marcelomarques05",
+                "country": null
+            },
+            "level": "Avançado",
+            "next_content": "f2a19382-6bbf-4620-a94d-5bb1a46c00c5",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-23",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/1f139003-b301-4d15-aab1-815eea252fb5.jpg",
+            "skills": [
+                "Google Cloud Platform (GCP)",
+                "Hadoop"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/0b97b8c7-507b-4bcf-87a4-1b93c0f677d2.zip",
+            "solution": null
+        }
+    ]
+}

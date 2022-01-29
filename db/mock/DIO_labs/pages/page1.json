@@ -1,0 +1,479 @@
+{
+    "count": 151,
+    "next": "http://app.digitalinnovation.one/api/lab-projects/?page=2",
+    "previous": null,
+    "results": [
+        {
+            "id": "d3e46e1f-b92b-4df1-bfec-feb2cbd70676",
+            "name": "Orquestração de Microsserviços Com AWS Step Functions",
+            "description": "",
+            "slug": "orquestracao-de-microsservicos-com-aws-step-functions",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "b3e30c30-9c2c-4458-86de-0a2db9b04627",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-69",
+            "workload": 1,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/aeefc092-a2bf-4d49-ab82-deb8fbf6b974.jpg",
+            "skills": [
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/e9673d70-1c74-4218-bed8-d6c16e6e8dc3.zip",
+            "solution": null
+        },
+        {
+            "id": "f647f9dd-e333-496b-8314-4e9001e7dfb9",
+            "name": "Criando um E-commerce Simples de Filmes com Angular",
+            "description": "",
+            "slug": "criando-um-e-commerce-simples-de-filmes-com-angular",
+            "author": {
+                "id": "150966d0-721f-4005-92fc-6acddac398c3",
+                "name": "Diana Martine",
+                "company": {
+                    "id": "59cb55b7-532a-4d1e-b7dc-f2a8bdbc9c50",
+                    "name": "Accenture",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.accenture.com",
+                    "photo": null
+                },
+                "position": "Application Development New Associate",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/150966d0-721f-4005-92fc-6acddac398c3.jpg",
+                "linkedin": "https://www.linkedin.com/in/dianamartine/",
+                "github": "https://www.github.com/dianamartine",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "81896eb5-3b96-4c1d-86d8-1a406d0844a6",
+            "next_slug": "apresentacao-14",
+            "workload": 1,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/c6f0aebf-924f-4d08-b50c-212d833e100c.jpg",
+            "skills": [
+                "Angular"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/d2575087-485d-491b-aa72-228c58839adb.zip",
+            "solution": null
+        },
+        {
+            "id": "095a8a61-2703-4d08-8b29-2224bfbed826",
+            "name": "Infraestrutura Como Código Usando AWS SAM",
+            "description": "",
+            "slug": "infraestrutura-como-codigo-usando-aws-sam",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "c4f4ec4b-b631-4ca9-b35f-a002881dc578",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-67",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/11faaddb-f3ac-4878-8a56-1279daef4813.jpg",
+            "skills": [
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "46672c8e-f5ba-4448-bff1-56e0fdc279ba",
+            "name": "Conhecendo Spring Data JPA na prática com Java",
+            "description": "Ao final deste projeto, o Dev irá conhecer os principais conceitos de mapeamento objeto relacional (ORM) usando o Spring Data JPA. Para isso, uma API RESTful será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.",
+            "slug": "conhecendo-spring-data-jpa-na-pratica-com-java",
+            "author": {
+                "id": "566255ca-e875-445d-814f-0ae10ad12448",
+                "name": "Camila Cavalcante",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Tech Teacher",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/566255ca-e875-445d-814f-0ae10ad12448.jpg",
+                "linkedin": "https://www.linkedin.com/in/cami-la/",
+                "github": "github.com/cami-la",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "abd511f0-a5be-4f02-a204-03eb2614a12a",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-66",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/0459ee7c-bbcc-452e-bacb-35429ab7991b.jpg",
+            "skills": [
+                "Java"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "c83edbab-40d4-4424-b894-f99459e23b01",
+            "name": "Simplifique o Gerenciamento de Infraestrutura com Terraform na AWS",
+            "description": "Defina sua infraestrutura como código usando arquivos de configuração declarativos para criar, gerenciar e atualizar seus recursos de infraestrutura. Nesse sentido, nosso Tech Hero utiliza o Terraform para automatizar facilmente o gerenciamento de recursos por meio da AWS.",
+            "slug": "simplifique-o-gerenciamento-de-infraestrutura-com-terraform-na-aws",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "125bec86-57f3-4a6a-9cf9-19650e30dfbc",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-65",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/a0b288aa-9e6b-40f0-a094-70722a065df3.jpg",
+            "skills": [
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/161071d3-1235-4a4d-be8d-56733124b763.zip",
+            "solution": null
+        },
+        {
+            "id": "9a90654c-8bc0-4aaa-928c-804374b88e7e",
+            "name": "Bancos de Dados Relacionais (SQL) na AWS com Amazon RDS",
+            "description": "O Amazon Relational Database Service (Amazon RDS) provê uma das abstrações mais flexíveis do mercado em termos de Bancos de Dados Relacionais (SQL) totalmente gerenciados na nuvem. Nesse contexto, entre as opções disponíveis estão: Amazon Aurora, PostgreSQL, MySQL, MariaDB, Oracle Database e SQL Server. Sendo assim, nosso super expert apresenta o caminho para levar seu banco de dados SQL para a AWS.",
+            "slug": "bancos-de-dados-relacionais-sql-na-aws-com-amazon-rds",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "e89d52c7-480c-46a6-9cb5-b6812db04748",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-64",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/516522f9-ba95-49d7-9f2a-f7e105a4478f.jpg",
+            "skills": [
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/54de08e9-bc52-443e-b93d-0ac647efe751.zip",
+            "solution": null
+        },
+        {
+            "id": "e9c8e3ff-cd2c-49db-9e74-d1c536bd5b77",
+            "name": "Adicionando Segurança em APIs na AWS com Amazon Cognito",
+            "description": "Ofereça autenticação, autorização e gerenciamento de usuários para suas aplicações Web e Mobile com o Amazon Cognito. Esse serviço, totalmente gerenciado pela AWS, suporta os principais mecanismos de segurança do mercado, além da integração com terceiros, como Facebook, Google, Apple ou a própria Amazon. Nesse sentido, nosso Tech Hero apresenta os passos para tornar suas APIs mais seguras por meio dessa solução.",
+            "slug": "adicionando-seguranca-em-apis-na-aws-com-amazon-cognito",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "6d8feea1-447c-4c01-927f-baa3c303999c",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-63",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/a43a9217-4776-4c02-b56b-1cfc5bf00f7e.jpg",
+            "skills": [
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/dc60960f-8d2e-4d55-afd7-849879522c1f.zip",
+            "solution": null
+        },
+        {
+            "id": "f8f19093-ba1f-4b73-ba5f-e93000820537",
+            "name": "Integrando seu Chatbot com o WhatsApp Usando Amazon Lex",
+            "description": "Continuaremos nossos estudos sobre o Amazon Lex, um serviço incrível da AWS onde podemos criar nossos próprios chatbots. Nesse contexto, nosso Tech Hero Cassiano apresenta como integrar um chatbot ao WhatsApp de forma totalmente prática, está preparado!?",
+            "slug": "integrando-seu-chatbot-com-o-whatsapp-usando-amazon-lex",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "d54362fa-f7de-4684-8307-6b69e66df96a",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-62",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/1a66cda4-582c-4e69-8662-d9190860f6a7.jpg",
+            "skills": [],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/b01958e1-ea54-4777-9884-8c283d086321.zip",
+            "solution": null
+        },
+        {
+            "id": "1ff3fd0c-699a-4165-addc-f59ed99ca599",
+            "name": "Layers e Overlays com Figma",
+            "description": "Entenda de forma simples e didática o funcionamento de Layers e Overlays em Apps e Desktops. Para isso, nosso expert apresenta uma abordagem totalmente prática, desde ao entendimento do domínio até os detalhes técnicos da solução.",
+            "slug": "layers-e-overlays-com-figma",
+            "author": {
+                "id": "30f4896e-10cd-450d-87a2-dc50f62cbfc9",
+                "name": "Rodrigo Alexandre",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Head UX/UI Designer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/30f4896e-10cd-450d-87a2-dc50f62cbfc9.jpg",
+                "linkedin": "https://www.linkedin.com/in/rodrigo-alexandre-c-8469b010a/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "6cc53d55-ae46-4280-b6f5-7a804503d8fe",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-61",
+            "workload": 3,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/574f61a6-ba0e-48bb-9373-dc841063ac7e.jpg",
+            "skills": [],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "bcf027a0-b63f-4ee4-acbe-05ab3f92b8de",
+            "name": "Criando um Chatbot com o Amazon Lex",
+            "description": "Amazon Lex é um serviço para construir interfaces de conversação em qualquer aplicativo usando voz e texto. Neste curso iremos aprender a desenvolver um Chatbot utilizando o Amazon Lex! Aprendendo suas principais características e funcionalidades.",
+            "slug": "criando-um-chatbot-com-o-amazon-lex",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "99718310-7a9b-49a5-9a60-fd89eed5ec6e",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-58",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/a63c32e7-7176-449a-a91f-81bc1f918c04.jpg",
+            "skills": [],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/27b58088-0ea9-47ae-abc3-8c71981a93f5.zip",
+            "solution": null
+        },
+        {
+            "id": "4882ef86-e191-4595-9632-e16d1b2496f1",
+            "name": "Identificando Padrões em Vídeos e Imagens com Amazon Rekognition",
+            "description": "O Amazon Rekognition simplifica análises de imagens e vídeos, visando a extração de informações negocialmente relevantes. Para isso, basta fornecer uma imagem ou um vídeo à API do Amazon Rekognition e ela identificará objetos, pessoas, textos, cenas e atividades. Nesse contexto, esse serviço possui recursos altamente precisos de análise, comparação e pesquisa facial, além de detectar qualquer conteúdo inadequado.",
+            "slug": "amazon-rekognition",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "1d7eb191-f5c1-48ba-a654-037bf2d11347",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-50",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/85556216-679c-4356-b1a0-f3130cafadac.jpg",
+            "skills": [
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/113331d7-9e1a-4978-aa2a-1b2444ce7d59.zip",
+            "solution": null
+        },
+        {
+            "id": "0d95c8b8-7458-48c8-8554-3aa328c186cd",
+            "name": "Retornos para o usuário com Figma",
+            "description": "A sua missão será aprender como usar as mensagens de sucesso e erro, além da sua importância na informação ao usuário, fazendo isso na prática.",
+            "slug": "retornos-para-o-usuario-com-figma",
+            "author": {
+                "id": "30f4896e-10cd-450d-87a2-dc50f62cbfc9",
+                "name": "Rodrigo Alexandre",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Head UX/UI Designer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/30f4896e-10cd-450d-87a2-dc50f62cbfc9.jpg",
+                "linkedin": "https://www.linkedin.com/in/rodrigo-alexandre-c-8469b010a/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "02c523a0-d4d2-4b34-b1f2-968f844a2d8c",
+            "next_slug": "retornos-para-o-usuario-com-figma",
+            "workload": 1,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/a0ef3e98-3c84-463b-8fe3-fc6229b3f9ad.jpg",
+            "skills": [],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        }
+    ]
+}

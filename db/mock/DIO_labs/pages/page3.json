@@ -1,0 +1,503 @@
+{
+    "count": 151,
+    "next": "http://app.digitalinnovation.one/api/lab-projects/?page=4",
+    "previous": "http://app.digitalinnovation.one/api/lab-projects/?page=2",
+    "results": [
+        {
+            "id": "085a4dcb-ce42-43f5-85bd-f4c216e64fae",
+            "name": "Consumindo a API do Twitter com Python",
+            "description": "Expanda seus conhecimentos sobre Python, Banco de Dados e APIs. Para isso, vamos criar um projeto prático com o objetivo de consumir a API REST do Twitter. Nesse sentido, uma série de boas práticas e dicas foram apresentadas pelo nosso expert. Entre elas o Tweepy, que reduziu a complexidade no consumo da API do Twitter.",
+            "slug": "consumindo-a-api-do-twitter-com-python",
+            "author": {
+                "id": "a3180b3e-7e82-4819-892e-79e52c575c79",
+                "name": "Guilherme Carvalho",
+                "company": {
+                    "id": "dcca45e2-b26b-4a1a-a780-a54ec78cf2c3",
+                    "name": "Oak Solutions",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.linkedin.com/company/oak-solutions-ti/",
+                    "photo": null
+                },
+                "position": "Python Consultant",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/a3180b3e-7e82-4819-892e-79e52c575c79.jfif",
+                "linkedin": "https://www.linkedin.com/in/guilherme-arthur-de-carvalho/",
+                "github": "https://github.com/guicarvalho",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "6702bea4-a270-4e56-b3cd-c320557fd4f9",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-45",
+            "workload": 3,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/ff317a56-f8f4-4d24-b43c-b1d7d4451f9e.jpg",
+            "skills": [
+                "Python"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/bb00d718-0695-4e80-a7cc-3c2dc1edf2ee.zip",
+            "solution": null
+        },
+        {
+            "id": "5027f299-ba41-48ec-84c0-8d53a8ac4282",
+            "name": "Extraindo textos utilizando OCR com Amazon Textract",
+            "description": "Já ouviu falar do termo OCR? Não!? Ele é um acrônimo para Optical Character Recognition,  o que na prática são soluções que têm o objetivo de extrair texto a partir de um arquivo de origem (uma imagem, por exemplo). Nesse contexto, o expert apresenta o Amazon Textract, que transcende os OCRs tradicionais através do uso de Machine Learning.",
+            "slug": "extraindo-textos-utilizando-ocr-com-amazon-textract",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "cfb69135-1535-4b50-b7be-a9133cd1b176",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-59",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/0d9f299d-30c7-4d44-a340-b359e513a328.jpg",
+            "skills": [
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/62d22f23-4f79-441f-83e7-ace03507f7d0.zip",
+            "solution": null
+        },
+        {
+            "id": "4a8e2947-fa0b-4ecf-a23b-8837ec654b08",
+            "name": "Criando seu e-commerce de livros em C# e Angular",
+            "description": "Neste curso você irá desenvolver o seu próprio e-commerce, utilizando C# e Angular! Aprimore ainda mais o seu conhecimento desenvolvendo tanto o Back-End com o Front-End da aplicação e criando a sua API de produtos.",
+            "slug": "criando-seu-e-commerce-de-livros-em-c-e-angular",
+            "author": {
+                "id": "1551e72f-6e6b-40eb-8b78-5af0322017e0",
+                "name": "Nathalia Corrêa",
+                "company": {
+                    "id": "6c5787d3-42ad-4c3a-a8de-2c441a0b5fd4",
+                    "name": "BTG Pactual",
+                    "year": null,
+                    "category": {
+                        "id": "522cf1d3-154b-4403-9638-27964e878132",
+                        "name": "Serviços financeiros"
+                    },
+                    "website": "https://www.btgpactual.com/",
+                    "photo": null
+                },
+                "position": "IT Analyst",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/1551e72f-6e6b-40eb-8b78-5af0322017e0.png",
+                "linkedin": "https://www.linkedin.com/in/nathalia-corr%C3%AAa-bb6a9414b/",
+                "github": "https://github.com/naatscs",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "fe3dd382-cc31-44bb-9f70-ee30826bba30",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-44",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/cb4043b0-f740-4428-b7fc-e2985d104d41.jpg",
+            "skills": [
+                "Angular",
+                "C#"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/9c95c3b2-bc50-4e7e-b2cb-9fcba14b160f.zip",
+            "solution": null
+        },
+        {
+            "id": "3d04dadf-67f2-4712-85be-e108e96d4564",
+            "name": "Como criar um front-end de um e-commerce utilizando Angular",
+            "description": "Vamos iniciar o desenvolvimento de nosso e-commerce de livros, estruturando nosso projeto back-end e criando a nossa API de listagem de produtos.",
+            "slug": "como-criar-um-front-end-de-um-e-commerce-utilizando-angular",
+            "author": {
+                "id": "1551e72f-6e6b-40eb-8b78-5af0322017e0",
+                "name": "Nathalia Corrêa",
+                "company": {
+                    "id": "6c5787d3-42ad-4c3a-a8de-2c441a0b5fd4",
+                    "name": "BTG Pactual",
+                    "year": null,
+                    "category": {
+                        "id": "522cf1d3-154b-4403-9638-27964e878132",
+                        "name": "Serviços financeiros"
+                    },
+                    "website": "https://www.btgpactual.com/",
+                    "photo": null
+                },
+                "position": "IT Analyst",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/1551e72f-6e6b-40eb-8b78-5af0322017e0.png",
+                "linkedin": "https://www.linkedin.com/in/nathalia-corr%C3%AAa-bb6a9414b/",
+                "github": "https://github.com/naatscs",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "a08526cd-f630-4126-a9cf-045539a61496",
+            "next_slug": "replay-como-criar-um-front-end-de-um-e-commerce-utilizando-angular",
+            "workload": 1,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/154506e9-b5cd-4b77-9e65-31e298cb3c3b.jpg",
+            "skills": [
+                "Angular"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/f2cd37f5-f921-478a-b6a7-5b32d8a9748e.zip",
+            "solution": null
+        },
+        {
+            "id": "5cb9f80a-4e20-4db4-8486-b18527ff17e8",
+            "name": "Criando legendas de áudio com o Amazon Transcribe",
+            "description": "Explore o Amazon Transcribe, um serviço de Reconhecimento Automático de Fala (ASR) que utiliza soluções de Inteligência Artificial e Machine Learning para transformar áudio em texto. Nesse sentido, o expert apresenta como essa solução da AWS pode ser aplicada na prática para a criação de legendas.",
+            "slug": "criando-legendas-de-audio-com-o-amazon-transcribe",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "1d835233-54e2-4bac-94a2-df98661bebb0",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-55",
+            "workload": 1,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/efff3345-c1a3-49e7-bf63-d3f8e7cd797a.jpg",
+            "skills": [
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/60f7e5c5-5e28-432e-b044-c821ea294cd2.zip",
+            "solution": null
+        },
+        {
+            "id": "e3d1d9f4-51cb-45d3-b5f2-8ed6db35d98e",
+            "name": "Introdução ao Desenvolvimento Full-stack com AWS Amplify",
+            "description": "Conheça as capacidades providas pelo AWS Amplify, um serviço que fornece aos desenvolvedores uma estrutura para o desenvolvimento de aplicativos da Web e Mobile. Além disso, a AWS provê ferramentas que simplificam a criação componentes de Back-end. Sendo assim, é possível conduzir um processo de desenvolvimento Full-stack usando apenas soluções da AWS. Nesse sentido, o expert compartilhará toda a sua experiência e conhecimentos para que você entenda todo esse processo.",
+            "slug": "introducao-ao-desenvolvimento-full-stack-com-aws-amplify",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "d256bbf3-5cc3-4de0-8f44-a01957454132",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-54",
+            "workload": 1,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/60b0d009-15a7-4721-a1da-97a956701d47.jpg",
+            "skills": [
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/0fca9965-43dc-49c5-82a2-af9cfeafdec2.zip",
+            "solution": null
+        },
+        {
+            "id": "989d1f6b-29f5-495a-a590-0b951e82c9bc",
+            "name": "Criando um  layout de placares de jogos do futebol europeu no Figma",
+            "description": "",
+            "slug": "criando-um-layout-de-placares-de-jogos-do-futebol-europeu-no-figma",
+            "author": {
+                "id": "30f4896e-10cd-450d-87a2-dc50f62cbfc9",
+                "name": "Rodrigo Alexandre",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Head UX/UI Designer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/30f4896e-10cd-450d-87a2-dc50f62cbfc9.jpg",
+                "linkedin": "https://www.linkedin.com/in/rodrigo-alexandre-c-8469b010a/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "1d479152-77af-40ac-a35c-5f2b8403c881",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-42",
+            "workload": 3,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/60b09a9e-bfb5-4ebf-8b1a-f2f816547e9f.jpg",
+            "skills": [
+                "UI/UX"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "d9a5cc8f-3087-49dc-9066-0c0fdc2ccfe2",
+            "name": "Como criar uma API em C# que retorne produtos de um e-commerce de livros",
+            "description": "Vamos iniciar o desenvolvimento de nosso e-commerce de livros, estruturando nosso projeto back-end e criando a nossa API de listagem de produtos.",
+            "slug": "como-criar-uma-api-em-c-que-retorne-produtos-de-um-e-commerce-de-livros",
+            "author": {
+                "id": "1551e72f-6e6b-40eb-8b78-5af0322017e0",
+                "name": "Nathalia Corrêa",
+                "company": {
+                    "id": "6c5787d3-42ad-4c3a-a8de-2c441a0b5fd4",
+                    "name": "BTG Pactual",
+                    "year": null,
+                    "category": {
+                        "id": "522cf1d3-154b-4403-9638-27964e878132",
+                        "name": "Serviços financeiros"
+                    },
+                    "website": "https://www.btgpactual.com/",
+                    "photo": null
+                },
+                "position": "IT Analyst",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/1551e72f-6e6b-40eb-8b78-5af0322017e0.png",
+                "linkedin": "https://www.linkedin.com/in/nathalia-corr%C3%AAa-bb6a9414b/",
+                "github": "https://github.com/naatscs",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "b4c6492d-9aa1-4ad8-812d-13a6875f03f7",
+            "next_slug": "como-criar-uma-api-em-c-que-retorne-produtos-de-um-e-commerce-de-livros",
+            "workload": 1,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/1f6d4694-8176-40dd-9e6e-0e69c4398c9e.jpg",
+            "skills": [
+                "C#"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/1ba1523a-5934-44e4-9201-617d904fa7d6.zip",
+            "solution": null
+        },
+        {
+            "id": "1e048c4a-9417-411f-b3dd-fd4b1dc8f0d1",
+            "name": "Explorando o Potencial do AWS SageMaker",
+            "description": "Tenha uma imersão profunda sobre o Amazon SageMaker e entenda todo o potencial dessa ferramenta. Nesse sentido, o expert apresentará cases e insights onde os conceitos de Machine Learning (ML) e Computação em Nuvem são extremamente efetivos.",
+            "slug": "explorando-o-potencial-do-aws-sagemaker",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "92d1683b-4c0d-4533-87b8-0587045dbe3f",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-52",
+            "workload": 1,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/af8f94be-745b-4d57-b9d9-9371bea9f65f.jpg",
+            "skills": [
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/b115b98c-37b5-4aac-8c8c-c1c11ba884b0.zip",
+            "solution": null
+        },
+        {
+            "id": "09954d5f-0f61-447f-8e7e-8c1fd98d23ee",
+            "name": "Design System: Como criar protótipo, navegação e mock-up para apps mobile",
+            "description": "A sua missão será aprender como montar um design system em um layout para mobile e como criar um blueprint para um mock-up navegável.",
+            "slug": "design-system-como-criar-prototipo-navegacao-e-mock-up-para-apps-mobile",
+            "author": {
+                "id": "30f4896e-10cd-450d-87a2-dc50f62cbfc9",
+                "name": "Rodrigo Alexandre",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Head UX/UI Designer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/30f4896e-10cd-450d-87a2-dc50f62cbfc9.jpg",
+                "linkedin": "https://www.linkedin.com/in/rodrigo-alexandre-c-8469b010a/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "6cf3396e-c5d0-4203-8a4b-3a734ffe822e",
+            "next_slug": "design-system-como-prototipar-layouts-para-apps-mobile",
+            "workload": 5,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/eed15c2b-3844-4b2a-9676-9f2843c8c1a2.jpg",
+            "skills": [
+                "UI/UX"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "d1335a96-3909-4c98-94ed-116faef7917f",
+            "name": "Explorando Padrões de Projetos na Prática com Java",
+            "description": "Agora é a sua hora de brilhar! Crie uma solução que explore o conceito de Padrões de Projeto na prática. Para isso, você pode reproduzir um dos projetos que criamos durante as aulas ou, caso se sinta preparado, desenvolver uma nova ideia do zero.",
+            "slug": "explorando-padroes-de-projetos-na-pratica-com-java",
+            "author": {
+                "id": "76b931cf-84f8-4104-96fc-3610bff07431",
+                "name": "Venilton FalvoJr",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Tech Lead",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/76b931cf-84f8-4104-96fc-3610bff07431.jpeg",
+                "linkedin": "https://www.linkedin.com/in/falvojr/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "153606ac-4b80-42e6-a8a1-8bf117b60617",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-43",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/bd9b64e3-0283-4538-98af-ee992ddf07ba.jpg",
+            "skills": [
+                "Java",
+                "Spring Boot",
+                "Spring Data"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/0d6e4b11-39ba-419d-9510-7641ba947614.zip",
+            "solution": null
+        },
+        {
+            "id": "220b6c78-76a1-41b4-b585-d19ee8010caa",
+            "name": "Blindando seu código com cobertura de testes unitários",
+            "description": "Explore todo o potencial dos testes unitários e entenda como eles podem ajudá-lo a criar soluções cada vez mais robustas e eficientes. Para isso, o expert demonstra como a cobertura de pode ser uma grande aliada para levar a qualidade de suas aplicações para outro patamar.\r\n\r\nPor fim, você é desafiado a criar seu próprio projeto (ou reproduzir o que o expert fez). Com isso, você pode definir sua própria meta de cobertura de testes (80%, por exemplo), o que acha? Bons estudos!",
+            "slug": "blindando-seu-codigo-com-cobertura-de-testes-unitarios",
+            "author": {
+                "id": "869edb0d-b642-4667-9b63-d47d400d53b4",
+                "name": "Mauro Correia",
+                "company": {
+                    "id": "aad19da0-588c-4d21-8baa-172b26aa7bbf",
+                    "name": "everis",
+                    "year": 1996,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.everis.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/aad19da0-588c-4d21-8baa-172b26aa7bbf.png"
+                },
+                "position": "Center Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/869edb0d-b642-4667-9b63-d47d400d53b4.jpeg",
+                "linkedin": null,
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "42be554a-a9fc-4d37-863f-e9f086579f42",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-41",
+            "workload": 1,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/3290fbad-a6d4-4de6-9442-84b18ef73917.jpg",
+            "skills": [
+                "QA",
+                "Testes unitários"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        }
+    ]
+}

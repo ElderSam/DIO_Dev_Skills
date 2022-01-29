@@ -1,0 +1,500 @@
+PAGE 10
+{
+    "count": 151,
+    "next": "http://app.digitalinnovation.one/api/lab-projects/?page=11",
+    "previous": "http://app.digitalinnovation.one/api/lab-projects/?page=9",
+    "results": [
+        {
+            "id": "4baffd38-3a36-4ec7-93d8-63e47af1aef2",
+            "name": "Construindo o seu aplicativo do PicPay com Android e Spring Boot - Etapa 1/2",
+            "description": "Neste projeto você terá o desafio de construir o aplicativo funcional no estilo do PicPay com tela de pagamento para contatos, histórico de transações e uma para edição de perfil do usuário. Para a construção do aplicativo móvel será utilizado Android Nativo com Kotlin e o back-end com API Rest através de Spring Boot e Java 8.",
+            "slug": "construindo-o-seu-aplicativo-do-picpay-com-android-e-spring-boot-etapa-12",
+            "author": {
+                "id": "4c0f15f5-6fec-431f-91c8-5f885526dbbf",
+                "name": "Cícero Moura",
+                "company": {
+                    "id": "ba62c39f-e6cb-4ef9-af19-902404ddc150",
+                    "name": "Tecnisys",
+                    "year": 1991,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.tecnisys.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/ba62c39f-e6cb-4ef9-af19-902404ddc150.png"
+                },
+                "position": "Engenheiro de Dados",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/4c0f15f5-6fec-431f-91c8-5f885526dbbf.png",
+                "linkedin": "https://www.linkedin.com/in/cicero-moura/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "149b1d77-bf1d-4925-b3c8-4448984643ee",
+            "next_slug": "parte-1-57",
+            "workload": 6,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/14cf4da2-78ba-4a62-b208-961f396dc1d9.jpg",
+            "skills": [
+                "Spring Boot",
+                "Kotlin"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/3ac5389d-9c17-4295-af70-e3ad59d1d385.zip",
+            "solution": null
+        },
+        {
+            "id": "361e9e67-b7f9-45b5-afa4-d950de75b571",
+            "name": "Construindo o seu aplicativo do PicPay com Android e Spring Boot - Etapa 2/2",
+            "description": "Neste Labs você terá o desafio de construir o aplicativo funcional no estilo do PicPay com tela de pagamento para contatos, histórico de transações e uma para edição de perfil do usuário. Para a construção do aplicativo móvel será utilizado Android Nativo com Kotlin e o backend com API Rest através de Spring Boot e Java 8.",
+            "slug": "construindo-o-seu-aplicativo-do-picpay-com-android-e-spring-boot-etapa-22",
+            "author": {
+                "id": "cbff9954-d5fc-4132-a902-d1c7225c68a4",
+                "name": "João Vitor Freitas",
+                "company": {
+                    "id": "ec47013a-7d22-4249-9c6e-f202ace9ae6c",
+                    "name": "Nexaas",
+                    "year": 2003,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.nexaas.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/ec47013a-7d22-4249-9c6e-f202ace9ae6c.png"
+                },
+                "position": "Desenvolvedor Android Pleno",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/cbff9954-d5fc-4132-a902-d1c7225c68a4.png",
+                "linkedin": "https://www.linkedin.com/in/joão-vitor-freitas-592552134/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "c7dae877-abf1-4930-bdfd-3fa388408731",
+            "next_slug": "parte-1-59",
+            "workload": 6,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/18095d92-d18d-44b2-8244-07055f0442e0.jpg",
+            "skills": [
+                "Spring Boot",
+                "Kotlin"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/a5a2500a-f57b-4470-aea3-e9900f079625.zip",
+            "solution": null
+        },
+        {
+            "id": "bc8abcdd-0a7d-4966-b9a6-0a52a3fe5194",
+            "name": "Construindo um sistema de controle de ponto e acesso com Spring Boot",
+            "description": "Neste projeto você terá o desafio de desenvolver uma API Rest para controle de ponto e acesso dos usuários de uma empresa. Utilizaremos Java, Spring Boot, Hibernate Envers e lombok além de documentar toda a API com Swagger.",
+            "slug": "construindo-um-sistema-de-controle-de-ponto-e-acesso-com-spring-boot",
+            "author": {
+                "id": "94af88dc-eaf2-4694-9871-9408f5ea62b7",
+                "name": "Rodolfo Gomes",
+                "company": {
+                    "id": "14c3e6de-dc9a-4db3-902d-8f03889620b7",
+                    "name": "Sistemap",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.sistemap.com.br/site/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/14c3e6de-dc9a-4db3-902d-8f03889620b7.png"
+                },
+                "position": "Desenvolvedor back-end",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/94af88dc-eaf2-4694-9871-9408f5ea62b7.png",
+                "linkedin": "https://www.linkedin.com/in/rodolfo-gomes👨🏼‍💻-90497b75/",
+                "github": null,
+                "country": null
+            },
+            "level": "Avançado",
+            "next_content": "f8bbff3e-7711-4fd2-bc91-63da4364f6a5",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-46",
+            "workload": 7,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/577be268-5627-4bb7-9805-f8c6f08d14fd.jpg",
+            "skills": [
+                "Java",
+                "Spring Boot"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/5894b726-1a68-4b18-a1a9-44e456d204c0.zip",
+            "solution": null
+        },
+        {
+            "id": "2fe03f40-5104-4765-b898-d0f15f432b6c",
+            "name": "Criando uma aplicação ReactJS de notícias utilizando PWA",
+            "description": "Neste projeto você terá o desafio de criar uma página de notícias como Forbes e NY Times que possa ser aberta no browser e também proporcione uma experiência mobile para o usuário. A aplicação será desenvolvida em RectJS e utilizaremos os conceitos de Progressive Web Application (PWA).",
+            "slug": "criando-uma-aplicacao-reactjs-de-noticias-utilizando-pwa",
+            "author": {
+                "id": "be696b2a-bdd6-4092-ae13-7016a605715f",
+                "name": "Bruno Carneiro",
+                "company": {
+                    "id": "10d5ab50-03fd-49fc-ab3a-e5ff72323a5e",
+                    "name": "Paketá Crédito",
+                    "year": 2018,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.paketa.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/10d5ab50-03fd-49fc-ab3a-e5ff72323a5e.png"
+                },
+                "position": "Front-End Architect",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/be696b2a-bdd6-4092-ae13-7016a605715f.png",
+                "linkedin": "https://www.linkedin.com/in/carneirobruno/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "49551799-0d5c-4e2b-92a0-a3b56746fab6",
+            "next_slug": "parte-1-55",
+            "workload": 5,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/1cf49bea-59e2-4771-991e-9aebadf57c3e.jpg",
+            "skills": [
+                "ReactJS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/5e6ab31e-f027-4863-b892-e21a939d4b4b.zip",
+            "solution": null
+        },
+        {
+            "id": "4c26beaf-1d96-4c56-a674-b0f82f8bb3ad",
+            "name": "Deploy automatizado de um blog utilizando GitHub Actions e AWS",
+            "description": "GitHub Actions é uma funcionalidade relativamente nova e abriu novas possibilidades ao GitHub, além do controle de versões do código. Já a AWS é uma das plataformas de serviços de computação em nuvem mais utilizada no mundo, sendo referência em flexibilidade, facilidade e segurança. Já pensou em utilizar o poder do GitHub e AWS juntos para automatizar a entrega de códigos front-end? Neste Labs você terá esse desafio e irá entender o quão simples pode ser esse processo.",
+            "slug": "deploy-automatizado-de-um-blog-utilizando-github-actions-e-aws",
+            "author": {
+                "id": "a0493046-36a1-416d-9ff0-9e230b8ae9a2",
+                "name": "Celso Henrique",
+                "company": {
+                    "id": "4a04f94e-a851-4ce2-9c28-1e5f123d40e7",
+                    "name": "Creditas",
+                    "year": 2012,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.creditas.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/4a04f94e-a851-4ce2-9c28-1e5f123d40e7.png"
+                },
+                "position": "Engineering Lead",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/a0493046-36a1-416d-9ff0-9e230b8ae9a2.png",
+                "linkedin": "https://www.linkedin.com/in/devfrontend/",
+                "github": "https://github.com/celso-henrique/",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "44c9533c-7178-4847-8c41-cdc3ca8ba1f6",
+            "next_slug": "parte-1-54",
+            "workload": 3,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/e20ff8f1-56a6-4464-9409-46e92eddf50d.jpg",
+            "skills": [
+                "GitHub",
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/b587ad12-e5ca-42c8-81e0-08714168e6f9.zip",
+            "solution": null
+        },
+        {
+            "id": "4ab6cc44-18e8-4eba-985b-5bd260aabd27",
+            "name": "Encontrando as cidades relativas a um raio de distância com Spring Boot e PostgreSQL",
+            "description": "Neste Labs você terá o desafio de evoluir uma API de cidades construída em Java para encontrar as cidades relativas a um raio de distância com Spring Boot e PostgreSQL.",
+            "slug": "encontrando-as-cidades-relativas-a-um-raio-de-distancia-com-spring-boot-e-postgresql",
+            "author": {
+                "id": "1ef3947e-d102-41f2-a104-34be39a37e93",
+                "name": "André Gomes",
+                "company": {
+                    "id": "74815926-cde2-43fb-b17f-0d287dd96a7d",
+                    "name": "PagSeguro PagBank",
+                    "year": 2019,
+                    "category": {
+                        "id": "522cf1d3-154b-4403-9638-27964e878132",
+                        "name": "Serviços financeiros"
+                    },
+                    "website": "https://pagseguro.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/74815926-cde2-43fb-b17f-0d287dd96a7d.png"
+                },
+                "position": "Lead Software Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/1ef3947e-d102-41f2-a104-34be39a37e93.png",
+                "linkedin": "https://www.linkedin.com/in/andreluisgomes/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "0159ee4a-19ae-4d48-a832-76ad7813b2ad",
+            "next_slug": "parte-1-53",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/d44c5b53-b832-417b-a88a-7135ab772ba9.jpg",
+            "skills": [
+                "Spring Boot",
+                "PostgreSQL"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/97f8ba82-e01c-4eb1-86c7-ac1ac48af479.zip",
+            "solution": null
+        },
+        {
+            "id": "ae5704cc-9d7a-45ba-be92-62996a2395eb",
+            "name": "Construindo uma API com Laravel para cadastro e controle de usuários utilizando JWT",
+            "description": "Neste Labs você terá o desafio de construir uma API para cadastro e controle de usuários utilizando JWT. Além disso, iremos entender como as nossas rotas fiquem seguras para acessos externos e como podemos criar a integração com o Front-end.",
+            "slug": "construindo-uma-api-com-laravel-para-cadastro-e-controle-de-usuarios-utilizando-jwt",
+            "author": {
+                "id": "e946e555-dee9-4900-81d1-9b05d4c0313e",
+                "name": "Vitor Ruschoni",
+                "company": {
+                    "id": "1f2a99e5-d662-41b4-937a-4e194978bbe7",
+                    "name": "PicPay",
+                    "year": 2012,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.picpay.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/1f2a99e5-d662-41b4-937a-4e194978bbe7.png"
+                },
+                "position": "Engenheiro de software",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/e946e555-dee9-4900-81d1-9b05d4c0313e.png",
+                "linkedin": "https://www.linkedin.com/in/ruschoni02/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "d534fd8d-5f37-4928-8ee3-53cb3b83c913",
+            "next_slug": "parte-1-52",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/bef9c59f-d0cd-49a1-8531-312902f7454b.jpg",
+            "skills": [
+                "JWT"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/47edf41e-7133-46f8-a9b0-9eeab7e3d293.zip",
+            "solution": null
+        },
+        {
+            "id": "15479e75-3604-4cca-b48b-4564637b2777",
+            "name": "Implementando um sistema de gestão de clientes com cadastro, listagem e exclusão",
+            "description": "O projeto trata-se da elaboração de um CRUD de Cliente utilizando Python, Django e Bootstrap com autenticação. É abordado tópicos importante do Django como models, forms e class-based views. No lab também é demonstrado como hospedar a aplicação no Heroku de forma gratuita e simples. A aplicação hospedada no Heroku tem um processo de deploy automatizado após algumas configurações e também é utilizado banco de dados PostgreSQL para persistências das informações em base de dados.",
+            "slug": "implementando-um-sistema-de-gestao-de-clientes-com-cadastro-listagem-e-exclusao",
+            "author": {
+                "id": "6beaa9ec-34d1-4acb-9be9-1114eca84bcf",
+                "name": "Rafael Galleani",
+                "company": {
+                    "id": "5892b2d5-eea7-4171-83de-ea09dee11e06",
+                    "name": "NEXT Engineering",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.nextengineering.pt",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/5892b2d5-eea7-4171-83de-ea09dee11e06.png"
+                },
+                "position": "Python Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/6beaa9ec-34d1-4acb-9be9-1114eca84bcf.png",
+                "linkedin": "https://www.linkedin.com/in/rafael-galleani/#experience-section",
+                "github": null,
+                "country": null
+            },
+            "level": "Avançado",
+            "next_content": "6055db1f-b23a-4020-8f64-ca8c242743a1",
+            "next_slug": "parte-1-51",
+            "workload": 8,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/2e11b844-9d8b-49f0-a6df-c24fa208da76.jpg",
+            "skills": [
+                "Python",
+                "PostgreSQL"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/1358132a-64a1-43a4-9cbd-9123fb879dfa.zip",
+            "solution": null
+        },
+        {
+            "id": "7a15b470-254a-4a5c-9337-56a8cedf3215",
+            "name": "Criando um sistema de classificados com Ruby on Rails",
+            "description": "Neste Labs  iremos desenvolver em duas etapas um sistema completo de classificados, produzindo do zero ao deploy em produção junto testes automatizados, tendo como base a tecnologia Ruby on Rails.",
+            "slug": "criando-um-sistema-de-classificados-com-ruby-on-rails",
+            "author": {
+                "id": "36f0c38e-34e7-4918-bae6-a9f0102cb4d1",
+                "name": "Carlos Ribeiro",
+                "company": {
+                    "id": "8f565cb6-ec3f-41f8-9c80-22beb124313e",
+                    "name": "GitHub",
+                    "year": 2008,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://github.com",
+                    "photo": null
+                },
+                "position": "Software Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/36f0c38e-34e7-4918-bae6-a9f0102cb4d1.png",
+                "linkedin": "https://www.linkedin.com/in/carloseduribeiro/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "cda71d14-9cc6-48cf-820b-c6933f947b56",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-15",
+            "workload": 9,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/5fd46428-25f2-4436-a453-45766dcb0375.jpg",
+            "skills": [
+                "Ruby"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/088087ad-b5f8-48f3-b990-38ca47bd1d34.zip",
+            "solution": null
+        },
+        {
+            "id": "6e71d621-a166-4753-b442-69f74647b373",
+            "name": "Criando um sistema de orçamento, utilizando CQRS, Quarkus, Kafka e deploy no EKS",
+            "description": "Neste Labs vamos implantar uma aplicação escrita em Java/Kotlin no serviço Elastic Kubernetes Service da Amazon. A aplicação é um exemplo do padrão CQRS que contempla dois serviços Quarkus que se comunicam através de um barramento assíncrono usando o Kafka. Você vai aprender a criar os manifestos do Kubernetes para implantação no EKS e quais configurações são necessárias para ter o ambiente rodando em produção.",
+            "slug": "criando-um-sistema-de-orcamento-utilizando-cqrs-quarkus-kafka-e-deploy-no-eks",
+            "author": {
+                "id": "46372db7-d97d-4711-8a02-b97308e32845",
+                "name": "Wesley Fuchter",
+                "company": {
+                    "id": "6d7cd780-61a4-4ef1-981d-d580907427d2",
+                    "name": "Modus Create",
+                    "year": 2011,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.moduscreate.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/6d7cd780-61a4-4ef1-981d-d580907427d2.png"
+                },
+                "position": "Software Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/46372db7-d97d-4711-8a02-b97308e32845.png",
+                "linkedin": "https://www.linkedin.com/in/add-me-wesleyfuchter/",
+                "github": null,
+                "country": null
+            },
+            "level": "Avançado",
+            "next_content": "6dfd6a3c-9528-4fa2-8965-c23cee0c961f",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-12",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/ed8d8dd6-d233-4c3a-8e8f-0055b69f3480.jpg",
+            "skills": [
+                "Java",
+                "AWS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/6415f0fd-8962-4efa-9f48-24cd4f810300.zip",
+            "solution": null
+        },
+        {
+            "id": "13e10ee3-b812-4529-95da-5d1bb9997fb2",
+            "name": "Recriando o jogo da cobrinha com JavaScript",
+            "description": "Já pensou em criar seu próprio jogo do zero? Aprenda a desenvolver de forma simples o clássico jogo da cobrinha utilizando HTML, CSS e JavaScript. Sendo assim, sua missão é reproduzir esse projeto prático, considerando todas as instruções e dicas da expert. Nesse sentido, fique a vontade para implementar suas próprias melhorias e evoluções.",
+            "slug": "recriando-o-jogo-da-cobrinha-com-javascript",
+            "author": {
+                "id": "030a00b7-3d4c-44e3-8372-64b8709ba29a",
+                "name": "Gabriela Pinheiro",
+                "company": {
+                    "id": "867bba29-a70a-4a20-8216-91741acbdbbe",
+                    "name": "Cornershop by Uber",
+                    "year": 2015,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://cornershopapp.com/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/867bba29-a70a-4a20-8216-91741acbdbbe.jpg"
+                },
+                "position": "Frontend Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/030a00b7-3d4c-44e3-8372-64b8709ba29a.png",
+                "linkedin": "https://www.linkedin.com/in/gabrielapinheiro129/",
+                "github": "http://www.github.com/SpruceGabriela",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "bfcd37b9-4ccf-40fb-b0ea-c2d865414a19",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-11",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/ef00d808-f856-46dc-9d01-eb4b14e2a661.png",
+            "skills": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": null,
+            "solution": {
+                "repository": "https://github.com/ElderSam/DIO-projects/tree/master/games/snake-game",
+                "description": "<p>Jogo da Cobrinha</p>"
+            }
+        },
+        {
+            "id": "7f42feec-a4e2-48ab-b14c-5ef2b1f578a5",
+            "name": "Criando uma solução de e-commerce com microsserviços em Java",
+            "description": "Neste projeto prático iremos desenvolver uma solução de e-commerce com a arquitetura de microsserviços e aplicar a integração entre eles orientada a eventos com Apache Kafka e garantir a compatibilidade entre da comunicação dos microsserviços com Schema Registry. Para isso, programaremos em Java utilizando a stack do Spring (Spring Boot, Spring Cloud Streams).",
+            "slug": "criando-uma-solucao-de-e-commerce-com-microsservicos-em-java",
+            "author": {
+                "id": "1979eba8-aa00-42d0-a9fb-46f935f37d39",
+                "name": "Daniel Hatanaka",
+                "company": {
+                    "id": "74815926-cde2-43fb-b17f-0d287dd96a7d",
+                    "name": "PagSeguro PagBank",
+                    "year": 2019,
+                    "category": {
+                        "id": "522cf1d3-154b-4403-9638-27964e878132",
+                        "name": "Serviços financeiros"
+                    },
+                    "website": "https://pagseguro.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/74815926-cde2-43fb-b17f-0d287dd96a7d.png"
+                },
+                "position": "Engenheiro de software",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/1979eba8-aa00-42d0-a9fb-46f935f37d39.png",
+                "linkedin": "https://www.linkedin.com/in/hatanakadaniel/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "506c1caf-2543-42cf-91f7-f4e28f2657ab",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-10",
+            "workload": 6,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/768aaaf5-a983-49db-b75c-51e96414c873.jpg",
+            "skills": [
+                "Java"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/96a9d5df-9c64-42e0-a7ff-5f8b2a4ae2b6.zip",
+            "solution": null
+        }
+    ]
+}

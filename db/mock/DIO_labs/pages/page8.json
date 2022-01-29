@@ -1,0 +1,483 @@
+{
+    "count": 151,
+    "next": "http://app.digitalinnovation.one/api/lab-projects/?page=9",
+    "previous": "http://app.digitalinnovation.one/api/lab-projects/?page=7",
+    "results": [
+        {
+            "id": "9bdae793-f973-4310-957c-f92fd0a4f085",
+            "name": "Otimizando API para produção e implementando autenticação via JWT em Java no projeto do clone PicPay",
+            "description": "Neste projeto vamos dar continuidade ao desenvolvimento do clone do aplicativo PicPay agora o nosso foco será em segurança, criando autenticação e autorização de usuário seguindo as boas práticas além de melhorias do desempenho, com Autenticação e Autorização com JWT e Spring Security, conceitos e implementação de Cache e Otimizações para colocar a API em Produção. Na primeira parte ja realizamos todo o processo de transação, histórico e criação de perfil de usuário.",
+            "slug": "otimizando-api-para-producao-e-implementando-autenticacao-via-jwt-em-java-no-projeto-do-clone-picpay",
+            "author": {
+                "id": "4c0f15f5-6fec-431f-91c8-5f885526dbbf",
+                "name": "Cícero Moura",
+                "company": {
+                    "id": "ba62c39f-e6cb-4ef9-af19-902404ddc150",
+                    "name": "Tecnisys",
+                    "year": 1991,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.tecnisys.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/ba62c39f-e6cb-4ef9-af19-902404ddc150.png"
+                },
+                "position": "Engenheiro de Dados",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/4c0f15f5-6fec-431f-91c8-5f885526dbbf.png",
+                "linkedin": "https://www.linkedin.com/in/cicero-moura/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "f68fae92-b041-49b3-83c4-a8052856ac6c",
+            "next_slug": "parte-1-85",
+            "workload": 5,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/831bf482-affb-4462-add2-4a8c37f5d8fa.jpg",
+            "skills": [
+                "Java"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/5350ca0f-2bc8-4c26-a24a-511bfae38d63.zip",
+            "solution": null
+        },
+        {
+            "id": "e8bbd44f-8e76-4082-bc8d-4daca6851386",
+            "name": "Construindo Encurtador de URL",
+            "description": "Neste projeto desenvolva seu próprio encurtador de url a partir da construção de uma API com NodeJS, Typescript e MongoDB para a base de dados.",
+            "slug": "construindo-encurtador-de-url",
+            "author": {
+                "id": "7fb14920-aefc-46f4-b62d-9afbf26da0f6",
+                "name": "Alexia Pereira",
+                "company": {
+                    "id": "b4a6f58f-b19e-4660-801a-c1c872fb60ac",
+                    "name": "Meta",
+                    "year": 1990,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.meta.com.br/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/b4a6f58f-b19e-4660-801a-c1c872fb60ac.jpg"
+                },
+                "position": "Senior Javascript Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/7fb14920-aefc-46f4-b62d-9afbf26da0f6.jpg",
+                "linkedin": "https://www.linkedin.com/in/alexiapereira/",
+                "github": null,
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "8ca36e2c-683d-4f63-b2b0-6a6695bdf155",
+            "next_slug": "parte-1-84",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/271c5d97-cac0-49e8-b972-7b8449cc9a62.jpg",
+            "skills": [
+                "Node.js"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/46b1136d-34b4-4523-92bc-89032a54c06e.zip",
+            "solution": null
+        },
+        {
+            "id": "826d5916-3075-49a3-a45b-75b2371f9c71",
+            "name": "Criando a interface do iFood com React Native",
+            "description": "Nesse projeto você irá criar a interface inicial do aplicativo iFood, com a listagem de restaurantes, carrousel da banners e categorias. Utilizando React Native, os Hooks do React para controle de estado, React Navigation para roteamento de telas na aplicação e integrando a uma API estática com apenas um JSON para listagem dos restaurantes no app e muito mais!",
+            "slug": "criando-interface-do-ifood-com-react-native",
+            "author": {
+                "id": "c1ff37a7-a217-4020-8dd7-4f141eda069c",
+                "name": "Pablo Henrique",
+                "company": {
+                    "id": "3fd23016-96f2-4fec-8418-bb98c639ca9e",
+                    "name": "Sthima",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.sthima.com.br/",
+                    "photo": null
+                },
+                "position": "Desenvolvedor Mobile",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/c1ff37a7-a217-4020-8dd7-4f141eda069c.jpg",
+                "linkedin": "https://www.linkedin.com/in/pablohdev/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "8a373bbd-0925-456e-a613-8c5827a91187",
+            "next_slug": "parte-1-83",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/78ecc407-a4f6-486c-aea9-0847e5b0d057.jpg",
+            "skills": [
+                "React Native"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Mobile",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/25081b1a-cba8-4e7d-945c-8453a64238f5.zip",
+            "solution": null
+        },
+        {
+            "id": "843e6290-29f3-4bca-a210-d929044b9618",
+            "name": "Criando um gerenciador de cards de pokemon com Flutter",
+            "description": "Nesse projeto você criará um aplicativo para IOS e Android utilizando Flutter, integrando com uma API, utilizando gerenciamento de estado reativo com Mobx e criando uma arquitetura robusta com Modular que realizará as injeções de dependência, e o gerenciamento de rotas.",
+            "slug": "criando-um-gerenciador-de-cards-de-pokemon-com-flutter",
+            "author": {
+                "id": "1d625f42-2d3e-4829-83b3-a140cef930c5",
+                "name": "Thiago Bomfim",
+                "company": {
+                    "id": "740c35c5-e5d4-465f-b779-dc284b24d168",
+                    "name": "Mirante Tecnologia",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.mirante.net.br/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/740c35c5-e5d4-465f-b779-dc284b24d168.jpg"
+                },
+                "position": "Software Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/1d625f42-2d3e-4829-83b3-a140cef930c5.jpg",
+                "linkedin": "https://www.linkedin.com/in/thiago-bomfim-37b198a1/",
+                "github": "https://github.com/ThiagoBfim",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "a8019e19-6fce-42e6-8882-71f7f50f4909",
+            "next_slug": "parte-1-82",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/c747e7a1-0a34-4d52-8e6e-7ea710325c48.jpg",
+            "skills": [
+                "Flutter"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/71b0f557-d676-4494-a375-7d6d0086550b.zip",
+            "solution": null
+        },
+        {
+            "id": "a402cd1d-c5bb-45ae-9aaf-0658251d9ec4",
+            "name": "Garantindo a qualidade do seu e-commerce em arquitetura de microsserviços em Java",
+            "description": "Neste projeto você terá o desafio construir testes para garantir a qualidade do código e a performace de uma aplicação de e-commerce com arquitetura de microsserviços.",
+            "slug": "garantindo-a-qualidade-do-seu-e-commerce-em-arquitetura-de-microsservicos-em-java",
+            "author": {
+                "id": "1979eba8-aa00-42d0-a9fb-46f935f37d39",
+                "name": "Daniel Hatanaka",
+                "company": {
+                    "id": "74815926-cde2-43fb-b17f-0d287dd96a7d",
+                    "name": "PagSeguro PagBank",
+                    "year": 2019,
+                    "category": {
+                        "id": "522cf1d3-154b-4403-9638-27964e878132",
+                        "name": "Serviços financeiros"
+                    },
+                    "website": "https://pagseguro.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/74815926-cde2-43fb-b17f-0d287dd96a7d.png"
+                },
+                "position": "Engenheiro de software",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/1979eba8-aa00-42d0-a9fb-46f935f37d39.png",
+                "linkedin": "https://www.linkedin.com/in/hatanakadaniel/",
+                "github": null,
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "a9583d91-ba72-4851-8a9f-8c18c8446b93",
+            "next_slug": "parte-1-81",
+            "workload": 3,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/094ad464-70a2-4725-9d60-8920b7c5ecce.jpg",
+            "skills": [
+                "Java"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/3565dab6-8312-49c6-868a-2e9927ce6a93.zip",
+            "solution": null
+        },
+        {
+            "id": "c903c447-d9e3-48a9-9110-c72c87459991",
+            "name": "Desenvolva um gerenciador de pedidos de um restaurante com JavaScript e Kafka",
+            "description": "Neste projeto você terá o desafio de construir um projeto que gerencie os pedidos de um restaurante, utilizando arquitetura de microsserviços em JavaScript e filas do Kafka para gerenciamento dos eventos da sua aplicação.",
+            "slug": "desenvolva-um-gerenciador-de-pedidos-de-um-restaurante-com-javascript-e-kafka",
+            "author": {
+                "id": "3919ac11-9627-47b8-87e4-f43f7f86c034",
+                "name": "Felipe Tomino",
+                "company": {
+                    "id": "2f802888-1bb9-4f57-96e4-c93c5fe51a6f",
+                    "name": "Quero Educação",
+                    "year": 2012,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://quero.education",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/2f802888-1bb9-4f57-96e4-c93c5fe51a6f.png"
+                },
+                "position": "Full Stack Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/3919ac11-9627-47b8-87e4-f43f7f86c034.png",
+                "linkedin": "https://www.linkedin.com/in/felipe-tomino/",
+                "github": null,
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "9d4f9156-8873-4e83-991a-0796b0d6e7d2",
+            "next_slug": "parte-1-80",
+            "workload": 6,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/617c2546-e513-4818-b681-e86bc4259340.jpg",
+            "skills": [
+                "JavaScript"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/4e080a77-bed2-48b7-bcb0-7d063bcfea3a.zip",
+            "solution": null
+        },
+        {
+            "id": "35ba9d01-0203-4a45-9b65-6477ed2563bd",
+            "name": "Utilizando o Cypress E2E para testar um Blog em Angular",
+            "description": "Neste projeto você terá o desafio de construir um teste E2E com Cypress para um Blog em Angular.",
+            "slug": "utilizando-o-cypress-e2e-para-testar-um-blog-em-angular",
+            "author": {
+                "id": "0d5c9b6c-4d9f-4ec9-baef-68d767ea08e3",
+                "name": "Alessandro Nunes",
+                "company": {
+                    "id": "f9d87e89-da18-4840-ba7e-318c655f6129",
+                    "name": "Banco Carrefour",
+                    "year": 1989,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.grupocarrefourbrasil.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/f9d87e89-da18-4840-ba7e-318c655f6129.png"
+                },
+                "position": "Arquiteto de Software",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/0d5c9b6c-4d9f-4ec9-baef-68d767ea08e3.png",
+                "linkedin": "https://www.linkedin.com/in/avnunes/",
+                "github": null,
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "4022d71c-b706-4414-a171-49ee87184452",
+            "next_slug": "parte-1-78",
+            "workload": 3,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/ccfd112b-0a67-4d51-84d1-9d468a3487c0.jpg",
+            "skills": [
+                "Cypress.io",
+                "Angular"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "3916f308-4ebc-4cac-a113-15cd90fa0ae0",
+            "name": "Construindo ChatBot no Telegram com Dialogflow e Serverless",
+            "description": "Neste projeto você acompanhará o especialista no desafio de construir com NodeJS um ChatBot no Telegram, iremos entender os conceitos do dialogflow e criação de funções personalizadas conectando o dialogflow a funções do Serverless.",
+            "slug": "construindo-chatbot-no-telegram-com-dialogflow-e-serverless",
+            "author": {
+                "id": "8331c4df-4b79-4869-ae6d-fded48db24fa",
+                "name": "Jeferson Passos",
+                "company": {
+                    "id": "3618e4ed-77f6-4177-858f-a3885a864961",
+                    "name": "SKY Brasil",
+                    "year": 1996,
+                    "category": {
+                        "id": "5b376e9f-25fb-4d41-9dea-cc8883d75696",
+                        "name": "Mídia de difusão"
+                    },
+                    "website": "http://www.sky.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3618e4ed-77f6-4177-858f-a3885a864961.png"
+                },
+                "position": "Senior Software Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/8331c4df-4b79-4869-ae6d-fded48db24fa.png",
+                "linkedin": "https://www.linkedin.com/in/jeferson-fiuza-passos-630978125/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "52707599-1f6f-4a05-a812-ba1ef00f9d66",
+            "next_slug": "parte-1-75",
+            "workload": 6,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/eb4fa436-8483-4d14-92da-659834757433.jpg",
+            "skills": [
+                "Node.js"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/e62af4b2-9911-4a4d-aa38-29461ec23e39.zip",
+            "solution": null
+        },
+        {
+            "id": "0d6db8e8-cebd-4d2e-a0cb-f3622e31d9f2",
+            "name": "Criando um clone do Instagram com React Native",
+            "description": "Nesse projeto você irá clonar a interface da página de feed de postagens do app Instagram, utilizando React Native, os Hooks do React para controle de estado, a versão 5 do React Navigation para roteamento de telas na aplicação, a lib Animated do React Native, a criar um Back-end com apenas um JSON para listagem das publicações no app e muitos mais!",
+            "slug": "criando-um-clone-do-instagram-com-react-native",
+            "author": {
+                "id": "75750e26-c250-4e1a-9e8a-7d8a5df402bb",
+                "name": "Roberto Alves",
+                "company": {
+                    "id": "6de7586d-021d-4ef4-9fb9-5414192d2f61",
+                    "name": "Altran",
+                    "year": 1982,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.altran.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/6de7586d-021d-4ef4-9fb9-5414192d2f61.png"
+                },
+                "position": "Desenvolvedor/Consultor de software",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/75750e26-c250-4e1a-9e8a-7d8a5df402bb.png",
+                "linkedin": "https://www.linkedin.com/in/robertosousa01/",
+                "github": "https://github.com/robertosousa1/",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "152e2cbe-7f10-48a0-9c8d-53e27cf2f7b6",
+            "next_slug": "parte-1-74",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/32951b68-a1f6-43f8-b8b8-12f5315ea590.jpg",
+            "skills": [
+                "React Native"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/920edbcd-6e4a-4770-aa2f-b56c1436566b.zip",
+            "solution": null
+        },
+        {
+            "id": "95c35840-44da-466b-b9cb-ad36645e8486",
+            "name": "Construindo uma aplicação para leitura de documentos escaneados com NodeJS e Google Vision",
+            "description": "Neste projeto você terá o desafio de construir uma ferramenta que receba a leitura de pdfs com dados escaneados que faça a transcrição utilizando o mínimo de código possível. Para o desenvolvimento utilizaremos NodeJS e Google Vision.",
+            "slug": "construindo-uma-aplicacao-para-leitura-de-documentos-escaneados-com-nodejs-e-google-vision",
+            "author": {
+                "id": "09fe4edf-e490-42ca-a296-e49c0f620e0d",
+                "name": "Carlos Victor Gomes",
+                "company": {
+                    "id": "82e6930c-17c1-49a2-9edd-458e4f09ffe7",
+                    "name": "Pitang",
+                    "year": 2014,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.pitang.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/82e6930c-17c1-49a2-9edd-458e4f09ffe7.jpg"
+                },
+                "position": "Principal Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/09fe4edf-e490-42ca-a296-e49c0f620e0d.jpg",
+                "linkedin": "https://www.linkedin.com/in/carlos-victor-gomes-62440532/",
+                "github": null,
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "b3a4b9be-7886-495f-9c7e-f87608ef1414",
+            "next_slug": "parte-1-73",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/7efc475a-bd30-4c8a-bd23-2d37327ea597.jpg",
+            "skills": [
+                "Node.js"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/a5c7f3a9-1612-4885-95bf-6dacd8aff8ad.zip",
+            "solution": null
+        },
+        {
+            "id": "5c82c40d-3069-4289-a2ab-efe2ab805aa0",
+            "name": "Desenvolvendo seu blog com as tecnologias de Java e Angular",
+            "description": "Neste projeto você terá o desafio de construir uma API com Json-Server e consuma os dados em um feed de mensagens desenvolvido em Angular.",
+            "slug": "desenvolvendo-seu-blog-com-as-tecnologias-de-java-e-angular",
+            "author": {
+                "id": "1d13ea58-f281-4149-829e-9ce49e22a1fe",
+                "name": "Wheslley Rimar Bezerra",
+                "company": {
+                    "id": "5d779242-8978-4233-8b5f-1d5e1614053a",
+                    "name": "eGuincho Technology",
+                    "year": 2017,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.eguincho.com.br/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/5d779242-8978-4233-8b5f-1d5e1614053a.png"
+                },
+                "position": "Head de Social Media",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/1d13ea58-f281-4149-829e-9ce49e22a1fe.png",
+                "linkedin": "https://www.linkedin.com/in/wheslley/",
+                "github": null,
+                "country": null
+            },
+            "level": "Avançado",
+            "next_content": "ce73b515-e3a8-4378-a4c4-2bf52a811409",
+            "next_slug": "parte-1-72",
+            "workload": 7,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/b2dd43e5-07e7-48ef-8f31-8841ebf987ef.jpg",
+            "skills": [
+                "Java",
+                "Angular"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/d30059ba-7358-4508-92fe-64d5879c6e65.zip",
+            "solution": null
+        },
+        {
+            "id": "25f73890-49be-44f6-a2ad-ce4c15e195e9",
+            "name": "Desenvolvendo serviços de gerenciador de pedidos de restaurantes com Spring Cloud",
+            "description": "Neste projeto você terá o desafio de desenvolver os serviços de um gerenciador de pedidos de restaurante e monitorá-los com Spring Boot actuator e admin.",
+            "slug": "desenvolvendo-servicos-de-gerenciador-de-pedidos-de-restaurantes-com-spring-cloud",
+            "author": {
+                "id": "833d9149-3537-4f7b-ab58-885efef03cf2",
+                "name": "Kamila Santos",
+                "company": {
+                    "id": "a6af7045-872a-453d-b5d3-589ba8c8e419",
+                    "name": "Ame Digital",
+                    "year": null,
+                    "category": {
+                        "id": "522cf1d3-154b-4403-9638-27964e878132",
+                        "name": "Serviços financeiros"
+                    },
+                    "website": "https://www.amedigital.com/",
+                    "photo": null
+                },
+                "position": "Backend Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/833d9149-3537-4f7b-ab58-885efef03cf2.jpg",
+                "linkedin": "https://www.linkedin.com/in/kamila-santos-oliveira/",
+                "github": null,
+                "country": null
+            },
+            "level": "Avançado",
+            "next_content": "413aa786-a6a4-47a9-ab4c-99b63fb72349",
+            "next_slug": "parte-1-71",
+            "workload": 3,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/89fb8d36-17a5-46e5-b834-e1c02a7a0fc9.jpg",
+            "skills": [
+                "Spring Boot"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/e392cc1f-3a40-4242-8796-8d478a50066b.zip",
+            "solution": null
+        }
+    ]
+}

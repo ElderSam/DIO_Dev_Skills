@@ -1,0 +1,285 @@
+{
+    "count": 151,
+    "next": null,
+    "previous": "http://app.digitalinnovation.one/api/lab-projects/?page=12",
+    "results": [
+        {
+            "id": "2ed96287-9b16-4393-acb2-40ade524c83d",
+            "name": "Criando um sistema de buscas poderosas com Elasticsearch",
+            "description": "Aprenda a construir buscas full-text com Elasticsearch, com os recursos para ajustar a sua busca por um idioma específico, trabalhar com erros de digitação, relevância, agregações e muito mais. \r\n\r\nAo final do projeto o aluno terá o conhecimento necessário para consumir bases com Elasticsearch e será gerado uma projeto com tudo necessário para levantar o Elasticsearch e com todas as queries apresentadas.",
+            "slug": "criando-um-sistema-de-buscas-poderosas-com-elasticsearch",
+            "author": {
+                "id": "7f2e792b-8fe5-40a9-a1cd-2464f5777031",
+                "name": "Thiago Barradas",
+                "company": {
+                    "id": "89a9d6da-34ea-4244-9928-e88457a8ed6a",
+                    "name": "Mundipagg",
+                    "year": 2012,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.mundipagg.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/89a9d6da-34ea-4244-9928-e88457a8ed6a.png"
+                },
+                "position": "Software Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/7f2e792b-8fe5-40a9-a1cd-2464f5777031.png",
+                "linkedin": "https://www.linkedin.com/in/thiagobarradas/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "97a2c40f-50bc-41b9-9231-30784501394c",
+            "next_slug": "parte-1-6",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/9f43f28f-0ed3-4cd2-b75a-d365e8aff093.jpg",
+            "skills": [
+                "Elasticsearch"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/d1620a9f-2191-44c6-8102-e9524401e762.zip",
+            "solution": null
+        },
+        {
+            "id": "1674e8e8-9e2b-471c-a37c-2607924784d7",
+            "name": "Refatorando  uma API HTTP de forma segura desenvolvida em Python",
+            "description": "Todo desenvolvedor de software já passou, ou vai passar, pela experiência de dar manutenção em um sistema que está no ar e se ver em contato com uma base de código já existente, produzida por uma outra equipe. Até onde é correto \"colocar a culpa\" da equipe de desenvolvimento anterior? Até onde é valido barrar demandas devido a limitações da arquitetura atual do sistema? Qual a postura esperada desse profissional? Aprenda a fazer uma refatoração segura ao adicionar, alterar e remover funcionalidades no projeto sem interromper o funcionamento da aplicação.",
+            "slug": "refatorando-uma-api-http-de-forma-segura-desenvolvida-em-python",
+            "author": {
+                "id": "80951480-5301-477c-8e46-2a2756a44588",
+                "name": "Samuel Grigolato",
+                "company": {
+                    "id": "9e6ca61e-b27f-45cb-aaa2-c29629b58f96",
+                    "name": "Rentbrella",
+                    "year": 2020,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.rentbrella.com",
+                    "photo": null
+                },
+                "position": "CTO",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/80951480-5301-477c-8e46-2a2756a44588.png",
+                "linkedin": "https://www.linkedin.com/in/samuel-grigolato/",
+                "github": "https://github.com/samuelgrigolato",
+                "country": null
+            },
+            "level": "Avançado",
+            "next_content": "3eea28ff-1ef1-4d9c-ab91-8055c1a03cba",
+            "next_slug": "parte-1-5",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/0b97d5e6-70bd-40e2-9319-fd756a42c328.jpg",
+            "skills": [
+                "Python"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/07730750-2409-4096-8256-3fc0c07a6b5a.zip",
+            "solution": null
+        },
+        {
+            "id": "6466260a-ecb9-4ac8-95c1-b58612ddd1d5",
+            "name": "Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo",
+            "description": "Mantenha-se informado a respeito de todos os casos do COVID19 pelo mundo criando uma \"Progressive Web Application (PWA)\" utilizando React e aprenda como criar uma aplicação para ser executada no browser e funcionar como aplicativo contendo algumas funcionalidades de um aplicativo nativo. Tudo rápido e fácil, sem precisar subir para a Play Store ou App Store.",
+            "slug": "desenvolvendo-uma-progressive-web-application-com-react-para-mapear-os-dados-do-covid19-pelo-mundo",
+            "author": {
+                "id": "be696b2a-bdd6-4092-ae13-7016a605715f",
+                "name": "Bruno Carneiro",
+                "company": {
+                    "id": "10d5ab50-03fd-49fc-ab3a-e5ff72323a5e",
+                    "name": "Paketá Crédito",
+                    "year": 2018,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.paketa.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/10d5ab50-03fd-49fc-ab3a-e5ff72323a5e.png"
+                },
+                "position": "Front-End Architect",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/be696b2a-bdd6-4092-ae13-7016a605715f.png",
+                "linkedin": "https://www.linkedin.com/in/carneirobruno/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "9cbdc221-637f-41b7-a829-8876d2fea3a5",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-13",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/f948ea53-f06f-4058-bf5f-07146b886a18.jpg",
+            "skills": [
+                "ReactJS",
+                "JavaScript"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/a0a31945-5eac-4599-a147-a6a719d112e3.zip",
+            "solution": null
+        },
+        {
+            "id": "8f3213dc-9e0e-4f8b-8524-0e9dea710ae7",
+            "name": "Construindo um projeto de uma API.NET integrada ao MongoDB",
+            "description": "Construiremos um projeto de uma API em .NET Core integrada a um cluster MongoDB, que também criaremos em tempo real no service cloud Mongo Atlas. Vamos repassar brevemente os conceitos básicos de front-end, back-end, bases de dados, NoSQL e MongoDB para fixar o entendimento e sua aplicabilidade.",
+            "slug": "construindo-um-projeto-de-uma-apinet-integrada-ao-mongodb",
+            "author": {
+                "id": "d9269277-3a8e-49a5-b5ab-a4571cda0f76",
+                "name": "Gabriel Faraday",
+                "company": {
+                    "id": "5aa08b7a-1710-4d0c-83c8-9e9256e623bd",
+                    "name": "Vidalink do Brasil",
+                    "year": null,
+                    "category": {
+                        "id": "60c71ebe-ac38-4bdd-80c4-7a813255ee9d",
+                        "name": "Serviços"
+                    },
+                    "website": "https://site.vidalink.com.br/site/",
+                    "photo": null
+                },
+                "position": ".NET Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/d9269277-3a8e-49a5-b5ab-a4571cda0f76.png",
+                "linkedin": "https://www.linkedin.com/in/gabrielfbarros/",
+                "github": "https://github.com/gabrielfbarros",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "b3d35e6f-b202-4c88-a256-2c17e0836061",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-3",
+            "workload": 5,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/67d353d9-00ff-49d6-ae31-f08015ad0ade.jpg",
+            "skills": [
+                "MongoDB",
+                ".NET C#"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/055af7c1-5197-4ec1-aa0f-3ed2f532c128.zip",
+            "solution": null
+        },
+        {
+            "id": "b1dc5db7-61b8-4c4f-a000-97a84aa46165",
+            "name": "Desenvolvendo um sistema de Planejamento Financeiro com Golang",
+            "description": "A proposta dessa aula é criar um projeto escrito em Golang e deixá-lo prontinho para produção. Para isso, além de criarmos um projeto do zero com testes e tudo mais, também vamos olhar alguns conceitos de qualidade de código, escrever um pipeline de integração contínua e fazer com que ele chegue em produção com mais segurança de estarmos disponibilizando um projeto com qualidade e com menos chances de falhas.",
+            "slug": "desenvolvendo-um-sistema-de-planejamento-financeiro-com-golang",
+            "author": {
+                "id": "11ae0bf4-db24-4ac4-b7e9-949f8ebeab3a",
+                "name": "Marco Paulo Ollivier",
+                "company": {
+                    "id": "aaa59811-bd4e-45dc-ae07-62b95de93752",
+                    "name": "Nubank",
+                    "year": 2020,
+                    "category": {
+                        "id": "522cf1d3-154b-4403-9638-27964e878132",
+                        "name": "Serviços financeiros"
+                    },
+                    "website": "https://nubank.com.br/",
+                    "photo": null
+                },
+                "position": "Software Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/11ae0bf4-db24-4ac4-b7e9-949f8ebeab3a.png",
+                "linkedin": "https://www.linkedin.com/in/marcopollivier/",
+                "github": "https://github.com/digitalinnovationone/DigitalInnovationOne-CursoBasicoJava",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "48299c47-8372-42f6-9d95-5e9d1b338a11",
+            "next_slug": "parte-1-4",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/700f4353-8d3c-4776-808d-edce9df9967e.jpg",
+            "skills": [
+                "GoLang"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/19e5c895-8da5-4959-a898-60c7a4b92580.zip",
+            "solution": null
+        },
+        {
+            "id": "77ef794c-686e-424b-a1c6-72372ef406ab",
+            "name": "Construindo um projeto com arquitetura baseada em microsserviços usando Spring Cloud",
+            "description": "Aprenda na prática como funciona uma arquitetura de software baseada em microsserviços, os seus benefícios e desafios, assim como faremos um projeto em Java com Spring Cloud para você desenvolver o seu portfólio de projetos.",
+            "slug": "construindo-um-projeto-com-arquitetura-baseada-em-microsservicos-usando-spring-cloud",
+            "author": {
+                "id": "9fd14907-5d9f-47a2-be8d-ed3474032913",
+                "name": "Oswaldo Neto",
+                "company": {
+                    "id": "42ba163c-7951-4737-b51d-aee30583176f",
+                    "name": "Lady Driver",
+                    "year": 2016,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.ladydriver.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/42ba163c-7951-4737-b51d-aee30583176f.png"
+                },
+                "position": "CTO",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/9fd14907-5d9f-47a2-be8d-ed3474032913.png",
+                "linkedin": "https://www.linkedin.com/in/omneto/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "0e205b25-ae27-477a-b58b-b523a31a1bd0",
+            "next_slug": "parte-1-1",
+            "workload": 5,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/46de97d1-153b-478d-99d7-1736aa724b14.jpg",
+            "skills": [
+                "Java",
+                "Spring Data"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "b7f60634-f7c2-40d8-97b0-55d6a15e224b",
+            "name": "Construindo um Pokédex com Spring Webflux",
+            "description": "Nesse projeto iremos construir um pokedéx (repositório de pokemon) através de uma Rest API feita com Spring Webflux, o módulo reativo do Spring Boot. Ao final do projeto você terá visto conceitos de programação reativa, handler, mono e flux e também criado uma Rest Api com seus dados salvos no MongoDB!",
+            "slug": "construindo-um-pokedex-com-spring-webflux",
+            "author": {
+                "id": "8838e37b-2199-41b3-9e56-31f58b100440",
+                "name": "Ana Beatriz Neri",
+                "company": {
+                    "id": "5879123e-0eb4-4afc-8f92-a212f3b2ed39",
+                    "name": "Itaú Unibanco",
+                    "year": 1924,
+                    "category": {
+                        "id": "522cf1d3-154b-4403-9638-27964e878132",
+                        "name": "Serviços financeiros"
+                    },
+                    "website": "http://www.itau.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/5879123e-0eb4-4afc-8f92-a212f3b2ed39.png"
+                },
+                "position": "Developer Back End Java",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/8838e37b-2199-41b3-9e56-31f58b100440.png",
+                "linkedin": "https://www.linkedin.com/in/anabeatrizdev/",
+                "github": "https://github.com/anabneri",
+                "country": null
+            },
+            "level": "Avançado",
+            "next_content": "bc2b566e-1152-4d39-b675-d91c7719e741",
+            "next_slug": "parte-1",
+            "workload": 3,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/50d3e6ae-8585-44d5-8f26-962a507d20f9.jpg",
+            "skills": [
+                "Java",
+                "Spring Boot",
+                "Spring Framework"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/901ce3b2-1823-41d1-a543-589515a0dd6f.zip",
+            "solution": null
+        }
+    ]
+}

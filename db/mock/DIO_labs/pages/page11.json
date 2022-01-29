@@ -1,0 +1,486 @@
+{
+    "count": 151,
+    "next": "http://app.digitalinnovation.one/api/lab-projects/?page=12",
+    "previous": "http://app.digitalinnovation.one/api/lab-projects/?page=10",
+    "results": [
+        {
+            "id": "023d99bd-be27-4c0b-9b4d-e6ac9a639e8d",
+            "name": "Criando um sistema de reconhecimento de voz para aprender cores em Inglês",
+            "description": "Desenvolva um jogo com comando de voz utilizando a API nativa Speech Recognition e aprenda como estruturar um projeto de forma profissional.",
+            "slug": "criando-um-sistema-de-reconhecimento-de-voz-para-aprender-cores-em-ingles",
+            "author": {
+                "id": "e0aa7c57-89e3-41ff-a60b-09dc7a9bc6e9",
+                "name": "Felipe Aguiar",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Coordenador de Education & Talent Success",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/e0aa7c57-89e3-41ff-a60b-09dc7a9bc6e9.png",
+                "linkedin": "https://www.linkedin.com/in/felipe-aguiar-047/",
+                "github": "https://github.com/felipeAguiarCode",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Avançado",
+            "next_content": "41d648ec-aec3-4443-bd1d-5fd237d6f428",
+            "next_slug": "parte-1-46",
+            "workload": 5,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/6f491117-342d-42c5-96cd-9e556b576851.jpg",
+            "skills": [
+                "JavaScript"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/cc8c61f7-117b-4388-9fa4-30dabb9ef3fa.zip",
+            "solution": null
+        },
+        {
+            "id": "596a9805-abe2-46dc-9afe-2815403854c0",
+            "name": "Desenvolvimento de testes unitários para validar uma API REST de gerenciamento estoques de cerveja",
+            "description": "Neste Labs você irá aprender a testar, unitariamente, uma API REST para o gerenciamento de estoques de cerveja. Vamos construir testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja desenvolvido em Spring Boot, e também apresentar os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito. Além disso, vamos também mostrar como desenvolver funcionalidades da nossa API através da prática do TDD.",
+            "slug": "desenvolvimento-de-testes-unitarios-para-validar-uma-api-rest-de-gerenciamento-estoques-de-cerveja",
+            "author": {
+                "id": "96d34c18-9073-4336-aa41-7143339e2784",
+                "name": "Rodrigo Peleias",
+                "company": {
+                    "id": "ba91518a-8ecb-4f5f-8502-6ed45d2683cd",
+                    "name": "ClickBus",
+                    "year": 2013,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.clickbus.com.br/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/ba91518a-8ecb-4f5f-8502-6ed45d2683cd.png"
+                },
+                "position": "Software Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/96d34c18-9073-4336-aa41-7143339e2784.png",
+                "linkedin": "https://www.linkedin.com/in/rodrigopeleias/",
+                "github": null,
+                "country": null
+            },
+            "level": "Avançado",
+            "next_content": "d00f891f-65bb-4149-85f0-57d771116214",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-8",
+            "workload": 6,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/0a815734-d086-4c9f-a2e0-e4d1eafe4809.jpg",
+            "skills": [
+                "QA",
+                "Testes unitários",
+                "TDD"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/12c6add8-2135-48fd-a75b-ebcebf76329c.zip",
+            "solution": null
+        },
+        {
+            "id": "b70e5bea-f4de-48ea-91cc-9f8aded9fa52",
+            "name": "Desenvolvendo um Port Scanner em Python",
+            "description": "Neste Labs o aluno irá aprender a desenvolver um Scanner de Portas TCP utilizando a linguagem Python e a biblioteca Socket, importantíssima para o desenvolvimento de sistemas e ferramentas para Redes. Depois, vamos avançar no conceito de Port Scanner e aprenderá a programar três métodos de Varreduras, SYN, UDP e Comprehensive.",
+            "slug": "desenvolvendo-um-port-scanner-em-python",
+            "author": {
+                "id": "48282d6a-9cda-4c91-8055-4afbfeea686b",
+                "name": "Bruno Dias",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Expert Instructor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/48282d6a-9cda-4c91-8055-4afbfeea686b.png",
+                "linkedin": "https://www.linkedin.com/in/brunodecamposdias/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "9109508a-e8c2-418e-bf9c-df77bcbe4482",
+            "next_slug": "parte-1-41",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/65660c43-fd06-484c-89e1-c85216ff3af0.jpg",
+            "skills": [
+                "Python"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/47d8044d-ae7f-49e0-80e9-37bb8a9aa330.zip",
+            "solution": null
+        },
+        {
+            "id": "a288aa0b-74fb-4a9b-b845-816a3c0ecab0",
+            "name": "Tarefas em background utilizando Node.js e Redis",
+            "description": "Nesse Labs você deve desenvolver e entregar um projeto de “Cadastro de usuário e envio de e-mail de confirmação de cadastro como tarefa em background utilizando Node.js” ao qual você praticará e aplicará os conceitos de processamento assíncrono de tarefas utilizando Node.js e Redis. Demonstre toda sua capacidade criativa para transformar a base do projeto apresentada nesta sessão em um desenvolvimento inovador.",
+            "slug": "tarefas-em-background-utilizando-nodejs-e-redis",
+            "author": {
+                "id": "75750e26-c250-4e1a-9e8a-7d8a5df402bb",
+                "name": "Roberto Alves",
+                "company": {
+                    "id": "6de7586d-021d-4ef4-9fb9-5414192d2f61",
+                    "name": "Altran",
+                    "year": 1982,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.altran.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/6de7586d-021d-4ef4-9fb9-5414192d2f61.png"
+                },
+                "position": "Desenvolvedor/Consultor de software",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/75750e26-c250-4e1a-9e8a-7d8a5df402bb.png",
+                "linkedin": "https://www.linkedin.com/in/robertosousa01/",
+                "github": "https://github.com/robertosousa1/",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "2708be80-ec7a-4e8b-bbbb-13f5de3c6f6e",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-12",
+            "workload": 6,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/b6a0797c-2b5b-4e35-87b9-504702f94561.jpg",
+            "skills": [
+                "Node.js"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/9e89c097-e3ab-412d-bb33-9400fccc4ffa.png",
+            "solution": null
+        },
+        {
+            "id": "b5b8364f-9b15-493e-8a68-3ee382d57306",
+            "name": "Construindo sexy APIs usando arquitetura serverless",
+            "description": "Nesse desafio você deve desenvolver e entregar um projeto de “APIs para Gestão de Produtos utilizando Node.js” ao qual você praticará e aplicará os conceitos de desenvolvimento de APIs e Arquitetura Serverless com Node.js. Demonstre toda sua capacidade criativa para transformar a base do projeto apresentada nesta sessão em um desenvolvimento inovador.",
+            "slug": "sexy-apis-usando-arquitetura-serverless",
+            "author": {
+                "id": "9d9923c0-ea14-4813-a0c1-e51453f5627a",
+                "name": "Igor Halfeld",
+                "company": {
+                    "id": "38e79e32-af0c-4045-9547-61a542d04825",
+                    "name": "NOALVO",
+                    "year": 2014,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://midianoalvo.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/38e79e32-af0c-4045-9547-61a542d04825.png"
+                },
+                "position": null,
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/9d9923c0-ea14-4813-a0c1-e51453f5627a.png",
+                "linkedin": "https://www.linkedin.com/in/igorhalfeld/",
+                "github": "https://github.com/IgorHalfeld",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "9f6d640e-d9dd-4ea5-86d9-2652f25e2fbe",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-14",
+            "workload": 6,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/04c7c466-c8fb-460f-b9d4-3c9c424ed250.jpg",
+            "skills": [
+                "Node.js"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "e1cce2b2-923d-4974-b822-a1ddaf6f983a",
+            "name": "Crie seu gerenciador de salas de reuniões com Java e Angular",
+            "description": "Neste Labs iremos desenvolver uma API com Spring Boot para gerenciar nossas salas de reunião, utilizaremos o Spring Data para persistência de dados e o banco in-memory H2. E o Front End que irá consumir essa API será uma SPA escrita em Angular.",
+            "slug": "crie-seu-gerenciador-de-salas-de-reunioes-com-java-e-angular",
+            "author": {
+                "id": "833d9149-3537-4f7b-ab58-885efef03cf2",
+                "name": "Kamila Santos",
+                "company": {
+                    "id": "a6af7045-872a-453d-b5d3-589ba8c8e419",
+                    "name": "Ame Digital",
+                    "year": null,
+                    "category": {
+                        "id": "522cf1d3-154b-4403-9638-27964e878132",
+                        "name": "Serviços financeiros"
+                    },
+                    "website": "https://www.amedigital.com/",
+                    "photo": null
+                },
+                "position": "Backend Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/833d9149-3537-4f7b-ab58-885efef03cf2.jpg",
+                "linkedin": "https://www.linkedin.com/in/kamila-santos-oliveira/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "3ee0788a-12c6-4921-9315-fb5ae7787932",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-17",
+            "workload": 6,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/768669ae-cf49-47c1-a838-ed500633ce37.jpg",
+            "skills": [
+                "Spring Boot",
+                "Angular"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/5fb5f4d0-c30f-4801-93f3-a48385a8e51d.zip",
+            "solution": null
+        },
+        {
+            "id": "c957eb08-2126-4e5e-b54a-72307d39db10",
+            "name": "Construindo um ChatbotFit no Telegram com JavaScript e NodeJS",
+            "description": "Nesse Labs você deve desenvolver e entregar um projeto de “Chatbot no Telegram com JavaScript e NodeJS” ao qual você praticará e aplicará os conceitos de integração e buscas de vídeos de exercícios físicos no YouTube utilizando uma plataforma de entendimento de linguagem natural chamada DialogFlow. Demonstre toda sua capacidade criativa para transformar a base do projeto apresentada nesta sessão em um desenvolvimento inovador.",
+            "slug": "construindo-um-chatbotfit-no-telegram-com-javascript-e-nodejs",
+            "author": {
+                "id": "09fe4edf-e490-42ca-a296-e49c0f620e0d",
+                "name": "Carlos Victor Gomes",
+                "company": {
+                    "id": "82e6930c-17c1-49a2-9edd-458e4f09ffe7",
+                    "name": "Pitang",
+                    "year": 2014,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.pitang.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/82e6930c-17c1-49a2-9edd-458e4f09ffe7.jpg"
+                },
+                "position": "Principal Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/09fe4edf-e490-42ca-a296-e49c0f620e0d.jpg",
+                "linkedin": "https://www.linkedin.com/in/carlos-victor-gomes-62440532/",
+                "github": null,
+                "country": null
+            },
+            "level": "Avançado",
+            "next_content": "c1debb75-ac6d-4154-9cf3-debd86856476",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-15",
+            "workload": 6,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/0a4a440f-8286-4ac0-b910-93d06a534edc.jpg",
+            "skills": [
+                "JavaScript",
+                "Node.js"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/1bcba7f5-4183-4c7e-a30d-30aeff29ba20.zip",
+            "solution": null
+        },
+        {
+            "id": "90ec54d4-e806-438c-8bbb-9ad8b32725f5",
+            "name": "Automatizando a entrega de API REST com Spring Boot",
+            "description": "Nesta live coding você irá automatizar a entrega do projeto construído em Java para cálculo de distância e consulta de Cidades do Brasil, abordando conceitos de continuous deployment, qualidade de código e releases.",
+            "slug": "automatizando-a-entrega-de-api-rest-com-spring-boot",
+            "author": {
+                "id": "1ef3947e-d102-41f2-a104-34be39a37e93",
+                "name": "André Gomes",
+                "company": {
+                    "id": "74815926-cde2-43fb-b17f-0d287dd96a7d",
+                    "name": "PagSeguro PagBank",
+                    "year": 2019,
+                    "category": {
+                        "id": "522cf1d3-154b-4403-9638-27964e878132",
+                        "name": "Serviços financeiros"
+                    },
+                    "website": "https://pagseguro.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/74815926-cde2-43fb-b17f-0d287dd96a7d.png"
+                },
+                "position": "Lead Software Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/1ef3947e-d102-41f2-a104-34be39a37e93.png",
+                "linkedin": "https://www.linkedin.com/in/andreluisgomes/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "3c1ed597-3439-4660-99cd-4efaf96bbd2a",
+            "next_slug": "parte-1-19",
+            "workload": 5,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/4942e948-c280-4d29-9926-123bb605aad2.jpg",
+            "skills": [
+                "Java",
+                "Spring Boot"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/61613b61-59e3-4849-8927-5ac6aa926d51.zip",
+            "solution": null
+        },
+        {
+            "id": "57113c7c-57cc-4515-aae7-dc2fe4dbab7f",
+            "name": "Análise de dados com Python e Pandas",
+            "description": "Neste Labs será apresentada a biblioteca Pandas, uma biblioteca Python de código aberto para análise de dados. Ela dá ao Python a capacidade de trabalhar com dados do tipo planilha, permitindo carregar, manipular e combinar dados rapidamente, entre outras funções.",
+            "slug": "analise-de-dados-com-python-e-pandas",
+            "author": {
+                "id": "8b3d9cb0-fc21-427d-9871-c899cf3004e5",
+                "name": "Fernanda Santos",
+                "company": {
+                    "id": "f163a67b-8576-44a0-9c82-a2e2bfa45716",
+                    "name": "Oncase",
+                    "year": 2007,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://oncase.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/f163a67b-8576-44a0-9c82-a2e2bfa45716.png"
+                },
+                "position": "Data Scientist",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/8b3d9cb0-fc21-427d-9871-c899cf3004e5.png",
+                "linkedin": "https://www.linkedin.com/in/fernanda-santos-18a821103/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "8cc8c67e-eb34-4254-af7a-c0ff8cf72834",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-20",
+            "workload": 5,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/58c82d35-4e08-4525-a06a-f56d371021af.jpg",
+            "skills": [
+                "Python"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/2be7520c-94cd-463f-8432-d580d0810344.zip",
+            "solution": null
+        },
+        {
+            "id": "80d13d3e-1d05-4e22-b1af-24efdb1ed5a0",
+            "name": "Criando projeto para consultar a previsão do tempo via API",
+            "description": "Neste Labs o objetivo é evoluir mais ainda seus conhecimentos em Angular e desenvolvimento Web criando na prática um aplicativo de previsão do tempo utilizando Angular como tecnologia front-end cosumindo uma API externa, seu desafio será replicar esse essa aplicação utilizando angular e consumindo essa api de terceiros.",
+            "slug": "criando-projeto-para-consultar-a-previsao-do-tempo-via-api",
+            "author": {
+                "id": "0102c12c-aa40-4a58-b972-028a30ee3925",
+                "name": "João Victor Ghignatti",
+                "company": {
+                    "id": "3db0366d-fa74-413c-ac16-769e4ada56cc",
+                    "name": "TownSq",
+                    "year": 2013,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.townsq.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3db0366d-fa74-413c-ac16-769e4ada56cc.png"
+                },
+                "position": "Lead Front-end Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/0102c12c-aa40-4a58-b972-028a30ee3925.png",
+                "linkedin": "https://www.linkedin.com/in/joaoghignatti/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "3e70fc63-6974-4bf2-9b9f-fa536ec2ca70",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-7",
+            "workload": 6,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/dfd8f93a-457c-4dc4-a9fb-4449fdc43091.jpg",
+            "skills": [
+                "Angular"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/333d0b79-807e-44fc-b3b1-cb3a80234a8f.zip",
+            "solution": null
+        },
+        {
+            "id": "eb00c463-11e3-48fa-8a45-9de433fd6bc4",
+            "name": "Criando o aplicativo do Mercado Livre com React Native e Firebase",
+            "description": "Aprenda a criar um aplicativo semelhante ao Mercado Livre baseando-se em React Native e Firebase, desenvolvendo do zero a estrutura de front-end com React e toda a interface utilizando Autentications, Cloud Storage e Cloud Firestore. Dessa forma nosso app estará todo integrado em uma nuvem e acessível de qualquer lugar.",
+            "slug": "criando-o-aplicativo-do-mercado-livre-com-react-native-e-firebase",
+            "author": {
+                "id": "c1ff37a7-a217-4020-8dd7-4f141eda069c",
+                "name": "Pablo Henrique",
+                "company": {
+                    "id": "3fd23016-96f2-4fec-8418-bb98c639ca9e",
+                    "name": "Sthima",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.sthima.com.br/",
+                    "photo": null
+                },
+                "position": "Desenvolvedor Mobile",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/c1ff37a7-a217-4020-8dd7-4f141eda069c.jpg",
+                "linkedin": "https://www.linkedin.com/in/pablohdev/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Avançado",
+            "next_content": "e1351278-c2de-4abc-b406-7a9f3f58d35a",
+            "next_slug": "parte-1-17",
+            "workload": 7,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/9ef5a5b4-07c5-4cc5-acfc-37d32b960551.jpg",
+            "skills": [
+                "React Native"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/5af63208-6ff4-499c-9fe1-7b048d9d57c9.zip",
+            "solution": null
+        },
+        {
+            "id": "dad20c5b-2530-46b1-9cc3-4893662e63af",
+            "name": "Requisitando dados de uma API de criptomoedas",
+            "description": "Aprenda a fazer uma requisição de uma API de Criptomoeda com JavaScript. Para você que está começando a carreira de TI e gostaria de manipular APIs além de exibir essas informações em uma página web responsiva.",
+            "slug": "requisitando-dados-de-uma-api-de-criptomoedas",
+            "author": {
+                "id": "2d3f9f55-99cf-482a-9201-c8d6f34d8728",
+                "name": "Bárbara Casac",
+                "company": {
+                    "id": "fc864e14-bba5-4693-b814-dcb60c168c3a",
+                    "name": "Sky.One Solutions",
+                    "year": 2013,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.skyone.solutions",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/fc864e14-bba5-4693-b814-dcb60c168c3a.png"
+                },
+                "position": "System Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/2d3f9f55-99cf-482a-9201-c8d6f34d8728.png",
+                "linkedin": "https://www.linkedin.com/in/barbaracasac/",
+                "github": null,
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "7e2d0653-7c79-4455-b32f-9394ca26424c",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-10",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/cefd4a9b-0986-41d5-b6a6-b817ba50f293.jpg",
+            "skills": [
+                "JavaScript"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/c4666685-8bd3-44d0-b7b2-cbec99eb21f2.zip",
+            "solution": null
+        }
+    ]
+}

@@ -1,0 +1,496 @@
+{
+    "count": 151,
+    "next": "http://app.digitalinnovation.one/api/lab-projects/?page=6",
+    "previous": "http://app.digitalinnovation.one/api/lab-projects/?page=4",
+    "results": [
+        {
+            "id": "cda8703e-8a81-4854-ab5d-c34b2803bfaf",
+            "name": "Criando um App para Apresentar seu Portfólio do GitHub",
+            "description": "Crie um App Android para apresentar seu portfólio de projetos do GitHub de maneira elegante e simplificada. Nesse contexto, você passará por todo o processo de desenvolvimento usando o Kotlin, uma das linguagens de programação de maior ascensão nos últimos anos. Por fim, você é desafiado a entregar seu próprio projeto, incorporando suas próprias evoluções e melhorias! Está preparado?",
+            "slug": "criando-um-app-para-apresentar-seu-portfolio-do-github",
+            "author": {
+                "id": "985c0b27-d90e-411f-8cac-beaccd947146",
+                "name": "Ezequiel Messore",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Android Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/985c0b27-d90e-411f-8cac-beaccd947146.jpg",
+                "linkedin": "https://www.linkedin.com/in/ezequielmessore/",
+                "github": "https://github.com/EzequielMessore",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "3735829a-af5e-4473-a3f4-9fe3a3f72fe1",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-27",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/cbd1a548-5dc4-41a7-8a6f-d9fd1d18b6b3.jpg",
+            "skills": [
+                "Kotlin"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Mobile",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "dd97ddd5-f692-42a9-8705-039400ae2c2d",
+            "name": "Criando um App de Cartão de Visitas em Kotlin",
+            "description": "Crie uma aplicação para gerar o seu próprio cartão de visitas pessoal, usando padrões de projeto e boas práticas de programação Kotlin. Tecnicamente, você desenvolverá um App Android nativo para a criação e listagem dos cartões, os quais podem ter os seguintes dados: nome, empresa, telefone de contato, email e cor de fundo. Tudo isso utilizando o Room para armazenar os dados localmente.\r\nPor fim, você é desafiado a entregar seu próprio projeto, incorporando suas próprias evoluções e melhorias! Está preparado?",
+            "slug": "criando-um-app-de-cartao-de-visitas-em-kotlin",
+            "author": {
+                "id": "278a077c-ecc5-40c9-8ccc-eb28e013f250",
+                "name": "Igor Bagliotti",
+                "company": {
+                    "id": "d313a5ea-8954-4852-9e7f-c3cc853673ac",
+                    "name": "Invilla",
+                    "year": 2017,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.invilla.com.au/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/d313a5ea-8954-4852-9e7f-c3cc853673ac.png"
+                },
+                "position": "Software Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/278a077c-ecc5-40c9-8ccc-eb28e013f250.jfif",
+                "linkedin": "https://www.linkedin.com/in/igor-rotondo-bagliotti-b1612b69/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "8009bbf6-de8b-4b2d-acee-aa4a54e79eed",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-24",
+            "workload": 1,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/eb47c63b-97cb-4775-98fd-8373ea6e3f53.png",
+            "skills": [
+                "Kotlin"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/b7f1bd36-4b3e-46eb-a78e-3cd5558fe65b.zip",
+            "solution": null
+        },
+        {
+            "id": "610c1a0f-8b97-4376-aa5b-bde951c0a88b",
+            "name": "Criando um aplicativo para conversão de moedas e câmbio",
+            "description": "O objetivo deste projeto é criar um App de conversão de moedas/câmbio, passando por todo o processo de desenvolvimento usando o Kotlin, uma das linguagens de programação de maior ascensão nos últimos anos. Para isso, vamos consumir uma API pública usando as principais bibliotecas e padrões de projeto do Kotlin. Por fim, você é desafiado a entregar seu próprio projeto, incorporando suas próprias evoluções e melhorias! Está preparado?",
+            "slug": "criando-uma-aplicativo-de-conversao-de-moedas-e-cambio",
+            "author": {
+                "id": "985c0b27-d90e-411f-8cac-beaccd947146",
+                "name": "Ezequiel Messore",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Android Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/985c0b27-d90e-411f-8cac-beaccd947146.jpg",
+                "linkedin": "https://www.linkedin.com/in/ezequielmessore/",
+                "github": "https://github.com/EzequielMessore",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "7133e157-1b5c-4cb8-87e4-11d25f0c742f",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-21",
+            "workload": 3,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/6e5b7356-bffb-487e-a6f2-44c4822ac72e.png",
+            "skills": [
+                "Kotlin"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/f68ee858-d88e-4288-908d-19dff61edd4c.zip",
+            "solution": null
+        },
+        {
+            "id": "1b2b5b5d-b393-47c1-8fb7-6bce40163a87",
+            "name": "Criando um App de Lembretes e Tarefas com Kotlin",
+            "description": "Crie um App no estilo \"To Do List\" do zero e conduza todo o processo de desenvolvimento usando Kotlin, uma das linguagens de programação de maior ascensão nos últimos anos. Além disso, você é desafiado a evoluir o App e entregar uma solução ainda mais robusta.",
+            "slug": "criando-um-app-de-lembretes-e-tarefas-com-kotlin",
+            "author": {
+                "id": "985c0b27-d90e-411f-8cac-beaccd947146",
+                "name": "Ezequiel Messore",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Android Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/985c0b27-d90e-411f-8cac-beaccd947146.jpg",
+                "linkedin": "https://www.linkedin.com/in/ezequielmessore/",
+                "github": "https://github.com/EzequielMessore",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "95ab997b-7f91-4256-b2b3-50d2e692d5cc",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-19",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/1dcdfc48-5626-4c57-8f5f-3fc788c6d73f.jpg",
+            "skills": [
+                "Kotlin"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/ada3ad65-b68e-4677-9885-641612977510.zip",
+            "solution": null
+        },
+        {
+            "id": "eb0bc008-793a-4b3a-9664-da4ff8869530",
+            "name": "Criando um Player de música com React Native",
+            "description": "",
+            "slug": "criando-um-player-de-musica-com-react-native",
+            "author": {
+                "id": "c1ff37a7-a217-4020-8dd7-4f141eda069c",
+                "name": "Pablo Henrique",
+                "company": {
+                    "id": "3fd23016-96f2-4fec-8418-bb98c639ca9e",
+                    "name": "Sthima",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.sthima.com.br/",
+                    "photo": null
+                },
+                "position": "Desenvolvedor Mobile",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/c1ff37a7-a217-4020-8dd7-4f141eda069c.jpg",
+                "linkedin": "https://www.linkedin.com/in/pablohdev/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "52adb5f1-f868-4f2e-b020-bd43acf45f7f",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-18",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/372d87cd-1165-4a3d-8e76-9f9e6cae32ff.jpg",
+            "skills": [
+                "React Native"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/7dd06b43-609a-47c2-af4d-5c3adffe1dbb.zip",
+            "solution": null
+        },
+        {
+            "id": "8290c7d1-1585-4133-a0b7-bd72809f3a2c",
+            "name": "App de acompanhamento fitness com React Native",
+            "description": "Acompanhe a construção de um App Fitness com React Native e Expo. Com isso, reproduza essa solução e/ou crie suas próprias melhorias, deixando esse App ainda mais interessante. Nesse sentido, \"clonar/forkar\" o repositório de referência (disponibilizado pelo expert) pode ajudá-lo muito nessa jornada ;-)",
+            "slug": "app-de-acompanhamento-fitness-com-react-native",
+            "author": {
+                "id": "c1ff37a7-a217-4020-8dd7-4f141eda069c",
+                "name": "Pablo Henrique",
+                "company": {
+                    "id": "3fd23016-96f2-4fec-8418-bb98c639ca9e",
+                    "name": "Sthima",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.sthima.com.br/",
+                    "photo": null
+                },
+                "position": "Desenvolvedor Mobile",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/c1ff37a7-a217-4020-8dd7-4f141eda069c.jpg",
+                "linkedin": "https://www.linkedin.com/in/pablohdev/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "fd70816d-b34d-42fc-a5a7-3b9c654c74e3",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-17",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/2d4654d3-b41b-4a62-a782-e94239d4dee3.jpg",
+            "skills": [
+                "React Native"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/3613f00f-5065-4e16-8f31-77e545635dbd.zip",
+            "solution": null
+        },
+        {
+            "id": "7700207c-2eec-4914-a8e4-d710fe7680ea",
+            "name": "Criando páginas poderosas no .Net com Razor Pages",
+            "description": "Agilize a criação das suas aplicações .NET MVC com Razor Pages, uma tecnologia que unifica as camadas de Visão e Controle. Com isso, seus projetos se tornam mais simples e produtivos. Neste projeto, o expert mostra na prática que simplicidade também é poder!",
+            "slug": "criando-paginas-poderosas-no-net-com-razor-pages",
+            "author": {
+                "id": "5e45b85d-eab9-44a3-ac11-a89a252162f9",
+                "name": "Ricardo Vicentini",
+                "company": {
+                    "id": "c99183c6-05ac-4f48-94d7-35b6d7162b70",
+                    "name": "Easynvest",
+                    "year": 1968,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.easynvest.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/c99183c6-05ac-4f48-94d7-35b6d7162b70.png"
+                },
+                "position": "Sr Backend Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/5e45b85d-eab9-44a3-ac11-a89a252162f9.jpeg",
+                "linkedin": "https://www.linkedin.com/in/ricardovicentini/",
+                "github": "https://github.com/ricardovicentini",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "89874876-b4d4-4b80-ac6a-a0ab1969a2d1",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-16",
+            "workload": 5,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/76e103ae-2346-4627-9f4a-8c1a1b93a07e.jpg",
+            "skills": [
+                ".NET C#"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "9636140b-dd4e-4855-a447-05644baf09a7",
+            "name": "Reconstruindo um aplicativo bancário com Kotlin",
+            "description": "Aprenda a desenvolver aplicativos Android usando Kotlin, a linguagem de programação recomendada pelo Google para o desenvolvimento nativo. Nesse contexto, o expert reproduz a interface de usuário (UI) do App do Itaú. Para isso, conceitos essenciais de desenvolvimento, acessibilidade e tendências de mercado são discutidos.",
+            "slug": "reconstruindo-um-aplicativo-bancario-com-kotlin",
+            "author": {
+                "id": "c29b35a6-8ed2-439e-8d56-f9bcf5b0819d",
+                "name": "Igor Ferrani",
+                "company": {
+                    "id": "aad19da0-588c-4d21-8baa-172b26aa7bbf",
+                    "name": "everis",
+                    "year": 1996,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.everis.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/aad19da0-588c-4d21-8baa-172b26aa7bbf.png"
+                },
+                "position": "Lead Android Enginner",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/c29b35a6-8ed2-439e-8d56-f9bcf5b0819d.jpg",
+                "linkedin": "https://www.linkedin.com/in/igorferrani/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "ad1f922e-6582-44b1-8c04-2b1e815402ef",
+            "next_slug": "como-usar-desafios-de-projetos-para-criar-seu-portfolio",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/b3d0bc5e-cfbc-4818-ae7f-bc580f7f30a9.png",
+            "skills": [
+                "Kotlin"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/2f625005-d9cd-4d5e-bb7f-b8708f8edd21.zip",
+            "solution": null
+        },
+        {
+            "id": "659132b0-c511-4d6b-aae2-9aab3a4bf99b",
+            "name": "Criando um gerenciador de espaçonaves do star wars com SQL Server + .NET",
+            "description": "Neste desafio o expert cria um gerenciador de espaço naves do Star Wars modelando um banco de dados em SQL Server. Sua missão será entregar os scripts de criação das tabelas que compõem a estrutura desse banco de dados. Nesse sentido, você pode organizar esse repositório da forma como preferir... Dica: organizar tudo em seu README.md pode ser uma alternativa bem rápida e efetiva, principalmente porque o GitHub provê uma interface bem simples e intuitiva para isso. Bons estudos!",
+            "slug": "criando-um-gerenciador-de-espaconaves-do-star-wars-com-sql-server-net",
+            "author": {
+                "id": "0eecae20-ea8b-4638-8abe-d05700c98679",
+                "name": "Thiago Campos de Oliveira",
+                "company": {
+                    "id": "d00c5c90-9dd4-4027-8334-329eb2f07efe",
+                    "name": "Banco Safra S.A.",
+                    "year": 1955,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.safra.com.br/",
+                    "photo": null
+                },
+                "position": "Desenvolvedor .Net",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/0eecae20-ea8b-4638-8abe-d05700c98679.png",
+                "linkedin": "https://www.linkedin.com/in/thiago-campos-de-oliveira-693a3840/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "ea00c81d-96a6-40cf-9baa-fd301c89b79d",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-6",
+            "workload": 1,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/7d129637-ba91-4ce5-913a-6633db1861cf.jpg",
+            "skills": [
+                "SQL Server"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/d6cc4bc1-5bb0-448c-931e-32e703992869.zip",
+            "solution": null
+        },
+        {
+            "id": "1884fa0e-0963-4433-9de4-18feab8a675b",
+            "name": "Criando um front-end totalmente componentizado na prática com ReactJS",
+            "description": "Agora é a sua hora! Crie uma solução com React que explore os conceitos apresentados nesse Desafio de Projetos. Para isso, você pode reproduzir o aplicação criada pelo expert ou, caso se sinta preparado, desenvolver algo do zero. Dica: você pode dar um \"fork\" no repositório disponibilizado pelo expert para organizar melhor as suas alterações e evoluções, mantendo uma referência direta ao código original.",
+            "slug": "criando-um-front-end-totalmente-componentizado-na-pratica-com-reactjs",
+            "author": {
+                "id": "5a9b8d98-8895-4f97-86ea-9f56f2bf909f",
+                "name": "Matheus Benites",
+                "company": {
+                    "id": "343942e6-af09-4240-a7da-aaf44c8138fa",
+                    "name": "Impulso Network",
+                    "year": 2010,
+                    "category": {
+                        "id": "ab059d7e-841a-43fc-bc52-57baf12e2fee",
+                        "name": "Recrutamento & Seleção"
+                    },
+                    "website": "https://impulso.work",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/343942e6-af09-4240-a7da-aaf44c8138fa.png"
+                },
+                "position": "Software Engineer Frontend",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/5a9b8d98-8895-4f97-86ea-9f56f2bf909f.png",
+                "linkedin": "https://www.linkedin.com/in/benites-amorim/",
+                "github": "https://github.com/benits",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "00fbaa4a-f81c-4a9d-9005-8fbab6db02e2",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-5",
+            "workload": 1,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/ac126047-0d93-48c0-870a-3abe2c7978b2.jpg",
+            "skills": [
+                "ReactJS"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/76253bac-2f4e-4b2f-97fe-72f6be5454fb.zip",
+            "solution": null
+        },
+        {
+            "id": "8869b6e3-560d-4f50-8465-883e4f1aa390",
+            "name": "Criando um catálogo de jogos usando boas práticas de arquitetura com .NET",
+            "description": "Sua missão neste lab será construir uma arquitetura base para uma aplicação .net do zero.",
+            "slug": "arquitetura-essencial-de-api-com-net",
+            "author": {
+                "id": "0eecae20-ea8b-4638-8abe-d05700c98679",
+                "name": "Thiago Campos de Oliveira",
+                "company": {
+                    "id": "d00c5c90-9dd4-4027-8334-329eb2f07efe",
+                    "name": "Banco Safra S.A.",
+                    "year": 1955,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.safra.com.br/",
+                    "photo": null
+                },
+                "position": "Desenvolvedor .Net",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/0eecae20-ea8b-4638-8abe-d05700c98679.png",
+                "linkedin": "https://www.linkedin.com/in/thiago-campos-de-oliveira-693a3840/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "e163501a-6d4a-4ddc-a6be-6b6a24c18dab",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-2",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/8263af05-cdac-4c91-8abc-151e8edd5fdd.jpg",
+            "skills": [
+                ".NET C#"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/463794e1-f381-46c9-85f4-3bdd2b4ba572.zip",
+            "solution": null
+        },
+        {
+            "id": "87f77795-0424-4409-9ceb-3e9d159dd4b0",
+            "name": "MySql - Modelando um banco de uma loja de jogos",
+            "description": "Sua missão nesse projeto será criar um banco de dados normalizado com base em um problema de uma loja de jogos online.",
+            "slug": "mysql-modelando-um-banco-de-uma-loja-de-jogos",
+            "author": {
+                "id": "b33b1bf9-b69f-44e1-ace6-da8d5a0a6149",
+                "name": "Nathally Souza",
+                "company": {
+                    "id": "49a9cbad-b75d-44c3-b271-83565764eee4",
+                    "name": "ThoughtWorks",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.thoughtworks.com/",
+                    "photo": null
+                },
+                "position": "Application Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/b33b1bf9-b69f-44e1-ace6-da8d5a0a6149.png",
+                "linkedin": "https://www.linkedin.com/in/nathally-souza-7331a71b9/",
+                "github": "https://github.com/nathyts/",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Básico",
+            "next_content": "9371ee2e-3f6b-455a-8275-5c7a42ecc962",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-4",
+            "workload": 3,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/5497ce0f-8653-4d1c-8906-57a54125faaa.jpg",
+            "skills": [
+                "MySQL"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/27dd6db6-8828-4db5-8c05-6b0373915856.zip",
+            "solution": null
+        }
+    ]
+}

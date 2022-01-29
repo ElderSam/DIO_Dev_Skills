@@ -1,0 +1,494 @@
+{
+    "count": 151,
+    "next": "http://app.digitalinnovation.one/api/lab-projects/?page=13",
+    "previous": "http://app.digitalinnovation.one/api/lab-projects/?page=11",
+    "results": [
+        {
+            "id": "066e9ea2-ff9c-4357-9374-63a5893a0398",
+            "name": "Construindo um serviço de processamento bancário com transações concorrentes em Elixir",
+            "description": "Neste Labs vamos criar um serviço que atua como Core bancário, onde lidar com transações concorrentes é extremamente importante, e para isso será utilizado o modelo Actors Model do Elixir e SQL.",
+            "slug": "construindo-um-servico-de-processamento-bancario-com-transacoes-concorrentes-em-elixir",
+            "author": {
+                "id": "9e975353-5c14-402e-b9f7-8a94342f5d5e",
+                "name": "Jefferson Stachelski",
+                "company": {
+                    "id": "fb4e3c12-848d-4c13-850f-12daf2f0c978",
+                    "name": "EBANX",
+                    "year": 2012,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.ebanx.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/fb4e3c12-848d-4c13-850f-12daf2f0c978.jpg"
+                },
+                "position": "Specialist Software Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/9e975353-5c14-402e-b9f7-8a94342f5d5e.png",
+                "linkedin": "https://www.linkedin.com/in/jeffhsta/",
+                "github": null,
+                "country": null
+            },
+            "level": "Avançado",
+            "next_content": "6cc2d7e2-04b4-4682-b249-b3282b42205e",
+            "next_slug": "parte-1-15",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/f6605fe2-c8ba-422f-921c-de06b6f75341.jpg",
+            "skills": [
+                "Elixir"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/8c1d04a9-765f-4bde-8fbc-ddaebb9e9181.zip",
+            "solution": null
+        },
+        {
+            "id": "8dd9659b-3b1f-4f4f-a173-1c9a63a507eb",
+            "name": "Construindo uma carteira digital com Typescript",
+            "description": "Vamos criar um sistema seguindo arquitetura de microsserviços de modelo assíncrono, representando\r\ncomo uma fintech funciona.\r\n\r\nCriaremos API pra criação de contas, para transações bancárias, de depósito e transações de cartão.",
+            "slug": "construindo-uma-carteira-digital-com-typescript",
+            "author": {
+                "id": "9e975353-5c14-402e-b9f7-8a94342f5d5e",
+                "name": "Jefferson Stachelski",
+                "company": {
+                    "id": "fb4e3c12-848d-4c13-850f-12daf2f0c978",
+                    "name": "EBANX",
+                    "year": 2012,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.ebanx.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/fb4e3c12-848d-4c13-850f-12daf2f0c978.jpg"
+                },
+                "position": "Specialist Software Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/9e975353-5c14-402e-b9f7-8a94342f5d5e.png",
+                "linkedin": "https://www.linkedin.com/in/jeffhsta/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "8fee4003-d748-45b7-a4e1-f058198ef748",
+            "next_slug": "construindo-uma-carteira-digital-com-typescript-parte-1",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/09ca5c58-c8f7-43b1-a94a-cec8943f3c24.jpg",
+            "skills": [
+                "TypeScript"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/d2068483-b90f-486a-852e-6f6b35639edb.zip",
+            "solution": null
+        },
+        {
+            "id": "d007d6ea-81a1-42f3-971e-f7be8241969a",
+            "name": "Recriando o tradicional jogo Pedra, Papel e Tesoura em Vue.js",
+            "description": "Nesse projeto iremos construir um jogo de Pedra, Papel e Tesoura, onde introduzirei além de conceitos chaves de Vue.js, boas práticas de desenvolvimento e duas importantes bibliotecas: Vue Router para tratar o roteamento de páginas e Vuex para gerenciamento do estado da aplicação, também armazenaremos dados no localStorage do browser e toda aplicação será responsiva utilizando SASS, Flexbox e CSS Grid.",
+            "slug": "recriando-o-tradicional-jogo-pedra-papel-e-tesoura-em-vuejs",
+            "author": {
+                "id": "d3b07fd1-2c21-4fe8-8979-6edf3c382a4e",
+                "name": "Rafael Maia Chieregatto",
+                "company": {
+                    "id": "a4d2f329-cf31-4be7-9181-7357ffbdbe5f",
+                    "name": "IBM",
+                    "year": 1911,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.ibm.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/a4d2f329-cf31-4be7-9181-7357ffbdbe5f.png"
+                },
+                "position": "Front End Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/d3b07fd1-2c21-4fe8-8979-6edf3c382a4e.png",
+                "linkedin": "https://www.linkedin.com/in/rafaelmaiach/",
+                "github": null,
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "8adafa4b-13b8-4d71-87a1-a5e7ace87f4c",
+            "next_slug": "introducao-5",
+            "workload": 6,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/0a2f42ce-6cc3-44ff-8b3a-ce3aeae6a219.jpg",
+            "skills": [
+                "Vue.js",
+                "JavaScript"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/ea240c0c-bcf3-4727-96a1-b950e3854574.zip",
+            "solution": null
+        },
+        {
+            "id": "d5dc58af-4108-4f16-aaa8-6fd73ddba9d2",
+            "name": "Construindo uma aplicação MVC com Laravel 7 para consulta de CEP",
+            "description": "Neste Labs você irá construir uma aplicação MVC utilizando o framework PHP Laravel, aprendendo como estruturar e configurar o projeto. Além disso, você irá aprender na prática como consumimos uma API e mostrar seus dados em tela utilizando, para isso, a API da VIACEP para buscarmos o seu CEP e salva-lo em banco.",
+            "slug": "construindo-uma-aplicacao-mvc-com-laravel-7-para-consulta-de-cep",
+            "author": {
+                "id": "e946e555-dee9-4900-81d1-9b05d4c0313e",
+                "name": "Vitor Ruschoni",
+                "company": {
+                    "id": "1f2a99e5-d662-41b4-937a-4e194978bbe7",
+                    "name": "PicPay",
+                    "year": 2012,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.picpay.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/1f2a99e5-d662-41b4-937a-4e194978bbe7.png"
+                },
+                "position": "Engenheiro de software",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/e946e555-dee9-4900-81d1-9b05d4c0313e.png",
+                "linkedin": "https://www.linkedin.com/in/ruschoni02/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "a78f9b42-6a4e-44e1-8379-71719a3812f2",
+            "next_slug": "apresentacao-inicial-e-preparacao-inicial-do-laravel",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/bbdc1334-9078-445e-a2ef-a7f0dc3e5508.jpg",
+            "skills": [
+                "PHP",
+                "Laravel"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/60816b2c-6c69-4acb-93ac-25e9c2dca519.zip",
+            "solution": null
+        },
+        {
+            "id": "8087522c-bfe1-4297-a1b4-0757cc818224",
+            "name": "Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil",
+            "description": "Neste Labs, vamos investigar os dados da disseminação do COVID-19 no Brasil desde o início da pandemia em fevereiro de 2020. Iremos estudar os padrões de disseminação da doença, investigar os números de infectados, de recuperados e de óbitos, para construir modelos com Python e Machine Learning para prever os números nos próximos dias e o ponto de virada da curva de infecção baseado em alguns cenários.",
+            "slug": "criando-modelos-com-python-e-machine-learning-para-prever-a-evolucao-do-covid-19-no-brasil",
+            "author": {
+                "id": "94608a44-f6c9-4721-8f3c-087470346e08",
+                "name": "Neylson Crepalde",
+                "company": {
+                    "id": "e29dd06d-1aa9-4093-be0b-c9e518291b00",
+                    "name": "A3Data",
+                    "year": 2012,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.a3data.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/e29dd06d-1aa9-4093-be0b-c9e518291b00.jpg"
+                },
+                "position": "Data Scientist",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/94608a44-f6c9-4721-8f3c-087470346e08.jpg",
+                "linkedin": "https://www.linkedin.com/in/neylsoncrepalde/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "14fba55d-a017-4f74-bc4f-e3b43b87d2bb",
+            "next_slug": "introducao-ao-projeto",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/d4a1ab1f-39d8-40b6-942e-b5ae57f2cf57.jpg",
+            "skills": [
+                "Python"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/fb4c7965-3e66-4085-b25d-0b1e0c54e802.zip",
+            "solution": null
+        },
+        {
+            "id": "c1f5af72-7c69-4826-aaf5-b502a7af526d",
+            "name": "Recriando o chat do UOL dos anos 90 com WebSocket, Node e JavaScript",
+            "description": "Nesse projeto prático iremos construir uma réplica simplificada do lendário bate-papo da Uol dos anos 90, porém utilizando tecnologias atuais como a biblioteca socket.io, Node e muito JavaScript puro. O foco da aula será no front-end, onde iremos realizar a construção da interface, gerenciar eventos do nosso WebSocket e manipular os elementos da interface.",
+            "slug": "recriando-o-chat-do-uol-dos-anos-90-com-websocket-node-e-javascript",
+            "author": {
+                "id": "a0493046-36a1-416d-9ff0-9e230b8ae9a2",
+                "name": "Celso Henrique",
+                "company": {
+                    "id": "4a04f94e-a851-4ce2-9c28-1e5f123d40e7",
+                    "name": "Creditas",
+                    "year": 2012,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.creditas.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/4a04f94e-a851-4ce2-9c28-1e5f123d40e7.png"
+                },
+                "position": "Engineering Lead",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/a0493046-36a1-416d-9ff0-9e230b8ae9a2.png",
+                "linkedin": "https://www.linkedin.com/in/devfrontend/",
+                "github": "https://github.com/celso-henrique/",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Avançado",
+            "next_content": "6de48355-70be-400d-a098-010cf9ef01e6",
+            "next_slug": "parte-1-14",
+            "workload": 7,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/882e9ba3-e932-4c24-b5c3-6f48a451fd2b.png",
+            "skills": [
+                "Node.js",
+                "JavaScript",
+                "WebSocket"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/ee0bb222-7ad9-4e57-a781-6a39316c26e7.zip",
+            "solution": null
+        },
+        {
+            "id": "ed314e4b-43ba-46e7-9d91-db65c96ff8d8",
+            "name": "Desenvolvendo um dashboard administrativo com Flask",
+            "description": "Aprenda a desenvolver um dashboard administrativo utilizando esse incrível framework criado em Python e utilizado por algumas das maiores empresas de tecnologias do mundo. Aprenderemos a criar um modelo de autenticação segura, um painel administrativo e a configurar nosso banco de dados automaticamente através de nossa aplicação, tudo através do próprio Flask.",
+            "slug": "desenvolvendo-um-dashboard-administrativo-com-flask",
+            "author": {
+                "id": "3e22a0b6-9663-4dff-81df-01cd124e1031",
+                "name": "Tiago Luiz",
+                "company": {
+                    "id": "dd116805-c890-4992-8876-5fda6feb526a",
+                    "name": "Spot Educação",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.spoteducacao.com.br/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/dd116805-c890-4992-8876-5fda6feb526a.png"
+                },
+                "position": "Full Stack Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/3e22a0b6-9663-4dff-81df-01cd124e1031.png",
+                "linkedin": "https://www.linkedin.com/in/tiagoluizrs/",
+                "github": null,
+                "country": null
+            },
+            "level": "Avançado",
+            "next_content": "56e48661-6262-41c3-abc5-4ca7b1d20e20",
+            "next_slug": "parte-1-13",
+            "workload": 5,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/b08439a5-3085-4b14-b05a-e3743218cda8.jpg",
+            "skills": [
+                "Python",
+                "Flask"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/961fc1da-1b25-4cee-b773-9d1924f60154.zip",
+            "solution": null
+        },
+        {
+            "id": "90d32eb0-ca03-49c7-a734-778da5b1dce9",
+            "name": "Crie um gerenciador de esferas do Dragon BallZ usando ReactJS, Jest, React Testing Library e Cypress",
+            "description": "Neste Labs você irá construir uma aplicação para gerenciar as esferas do dragão e validar se podemos invocar o Shenlong. Entretanto é preciso garantir a qualidade do software e que ele não tenha falhas. A aplicação será em React e usaremos o react testing library, jest e Cypress, que são ferramentas de testes essenciais para resolver esse problema, garanto que depois de conhecê-las não irá conseguir ficar sem!",
+            "slug": "crie-um-gerenciador-de-esferas-do-dragon-ballz-usando-reactjs-jest-react-testing-library-e-cypress",
+            "author": {
+                "id": "18c9d4ab-b4ef-4c56-850e-db46a3bb5abb",
+                "name": "Laís Lima",
+                "company": {
+                    "id": "c95afb4d-7c72-4f0e-a10a-226c28b04fa7",
+                    "name": "Estratégia Educacional",
+                    "year": 2018,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.estrategiaconcursos.com.br/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/c95afb4d-7c72-4f0e-a10a-226c28b04fa7.png"
+                },
+                "position": "Desenvolvedora",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/18c9d4ab-b4ef-4c56-850e-db46a3bb5abb.png",
+                "linkedin": "https://www.linkedin.com/in/laislimadev/",
+                "github": "https://github.com/lalizita",
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "d9a37337-2c31-43a1-8e48-04bea925e1d1",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-13",
+            "workload": 3,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/4c0269fb-c03e-4416-bf70-ad12424a72b2.jpg",
+            "skills": [
+                "ReactJS",
+                "Cypress.io"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Front-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/aea45b80-43dc-4fb1-8a1d-28110a3013bd.zip",
+            "solution": null
+        },
+        {
+            "id": "c0160746-a79c-4834-a4cd-9003ad8da5ef",
+            "name": "Implementando sua stack de testes de unidade e integrados em um projeto .NET de Crowdfunding",
+            "description": "Quer se sentir mais seguro nas entregas de suas aplicações? \r\nAprenda a testar um projeto de crowdfunding (vaquinha online) desenvolvida em .Net Core com a arquitetura MVC. Você ira baixar uma aplicação completa feita por pelo expert e a sua missão será implementar a parte de testes desta aplicação.\r\n\r\nVeja na teoria e na prática os principais conceitos de testes para aumentar a qualidade de entrega de seus projetos com testes de unidade, integrados e TDD.",
+            "slug": "implementando-sua-stack-de-testes-de-unidade-e-integrados-em-um-projeto-net-de-crowdfunding",
+            "author": {
+                "id": "4720ed44-cfe8-496a-8bb2-c4b55622dc76",
+                "name": "Eliézer Zarpelão",
+                "company": {
+                    "id": "eae8d2bd-55fc-4a37-8060-c4ba7d3fce81",
+                    "name": "Avanade",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://avanade.com.br/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/eae8d2bd-55fc-4a37-8060-c4ba7d3fce81.png"
+                },
+                "position": "Arquiteto de software",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/4720ed44-cfe8-496a-8bb2-c4b55622dc76.png",
+                "linkedin": "https://www.linkedin.com/in/eliezerzarpelao/",
+                "github": "https://github.com/elizarp",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "eb3bfe30-1f25-45cd-9219-d814db37fa3d",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-2",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/c3fb5694-f6a3-484b-89fc-f5c246e3da3b.jpg",
+            "skills": [
+                ".NET C#",
+                "QA",
+                "Testes unitários",
+                "TDD"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/cf1041f0-de5c-4635-94a9-f25ace2de771.zip",
+            "solution": null
+        },
+        {
+            "id": "6dc22038-d8f5-459a-8fde-b7efb25679e1",
+            "name": "Construindo uma API Rest de consulta de cidades do Brasil do zero até a produção",
+            "description": "Neste projeto você terá o desafio de desenvolver uma API Rest de consulta de cidades do Brasil com dados comparativos. Iremos navegar pelas boas práticas de Java e do Spring, popular o bando de dados Postgres e criar um serviço para o cálculo de distância entre cidades.",
+            "slug": "construindo-uma-api-rest-de-consulta-de-cidades-do-brasil-do-zero-ate-producao",
+            "author": {
+                "id": "1ef3947e-d102-41f2-a104-34be39a37e93",
+                "name": "André Gomes",
+                "company": {
+                    "id": "74815926-cde2-43fb-b17f-0d287dd96a7d",
+                    "name": "PagSeguro PagBank",
+                    "year": 2019,
+                    "category": {
+                        "id": "522cf1d3-154b-4403-9638-27964e878132",
+                        "name": "Serviços financeiros"
+                    },
+                    "website": "https://pagseguro.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/74815926-cde2-43fb-b17f-0d287dd96a7d.png"
+                },
+                "position": "Lead Software Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/1ef3947e-d102-41f2-a104-34be39a37e93.png",
+                "linkedin": "https://www.linkedin.com/in/andreluisgomes/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "1712e293-1655-49e4-a982-9c61465bd1b8",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-8",
+            "workload": 6,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/ebc72f3b-08e3-49fe-8dac-b3e74d5135ba.jpg",
+            "skills": [
+                "Java",
+                "PostgreSQL",
+                "Spring Boot"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/b6b3b965-2843-40b6-af08-1c33c049474e.zip",
+            "solution": null
+        },
+        {
+            "id": "c8338370-8e1e-499b-a326-820a36c57ed6",
+            "name": "Criando seu gerenciador de super heróis da Marvel e da DC em uma API reativa com Spring Boot",
+            "description": "Nesta sessão vamos desenvolver uma API de gerenciamento de heróis utilizando Spring WebFlux, utilizada por empresas como Netflix e Pivotal, junto com a library reativa Reactor que atualmente é mantida pela VmWare. Além disso, usaremos o banco DynamoDb localmente para armazenar nossos dados e demonstrarei como realizar testes unitários da sua API com Junit e como gerar documentações simples por meio do Postman e também do Swagger.",
+            "slug": "criando-seu-gerenciador-de-super-herois-da-marvel-e-da-dc-em-uma-api-reativa-com-spring-boot",
+            "author": {
+                "id": "833d9149-3537-4f7b-ab58-885efef03cf2",
+                "name": "Kamila Santos",
+                "company": {
+                    "id": "a6af7045-872a-453d-b5d3-589ba8c8e419",
+                    "name": "Ame Digital",
+                    "year": null,
+                    "category": {
+                        "id": "522cf1d3-154b-4403-9638-27964e878132",
+                        "name": "Serviços financeiros"
+                    },
+                    "website": "https://www.amedigital.com/",
+                    "photo": null
+                },
+                "position": "Backend Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/833d9149-3537-4f7b-ab58-885efef03cf2.jpg",
+                "linkedin": "https://www.linkedin.com/in/kamila-santos-oliveira/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "82d5791a-c271-4f34-92d4-76364a05d497",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-9",
+            "workload": 5,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/eedd2456-a996-4626-9735-91907357cad4.jpg",
+            "skills": [
+                "Java",
+                "Spring Boot"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/04a35063-8bd5-45b4-aafa-d84c9d4004b4.zip",
+            "solution": null
+        },
+        {
+            "id": "4ea61b91-7983-4a1e-a668-fbc724531f7f",
+            "name": "Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot",
+            "description": "Aprenda a construir do zero uma API REST com Spring Boot para cadastro e gerenciamento de pessoas de uma organização, até o Deploy na nuvem (Heroku). Pratique e veja os principais conceitos do estilo arquitetural REST envolvidos durante o desenvolvimento do projeto.",
+            "slug": "desenvolvendo-um-sistema-de-gerenciamento-de-pessoas-em-api-rest-com-spring-boot",
+            "author": {
+                "id": "96d34c18-9073-4336-aa41-7143339e2784",
+                "name": "Rodrigo Peleias",
+                "company": {
+                    "id": "ba91518a-8ecb-4f5f-8502-6ed45d2683cd",
+                    "name": "ClickBus",
+                    "year": 2013,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.clickbus.com.br/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/ba91518a-8ecb-4f5f-8502-6ed45d2683cd.png"
+                },
+                "position": "Software Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/96d34c18-9073-4336-aa41-7143339e2784.png",
+                "linkedin": "https://www.linkedin.com/in/rodrigopeleias/",
+                "github": null,
+                "country": null
+            },
+            "level": "Intermediário",
+            "next_content": "59e5edaa-470d-44a3-8519-c082d765c71d",
+            "next_slug": "como-usar-os-desafios-de-projeto-para-criar-seu-portfolio-7",
+            "workload": 6,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/6dba1eb2-1f3a-43af-9103-f4437ebf6df5.jpg",
+            "skills": [
+                "Spring Boot",
+                "Java"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Back-End",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/f389668d-fa33-4114-9ab0-ef516df77828.zip",
+            "solution": null
+        }
+    ]
+}

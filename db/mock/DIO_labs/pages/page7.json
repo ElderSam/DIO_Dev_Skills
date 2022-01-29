@@ -1,0 +1,481 @@
+{
+    "count": 151,
+    "next": "http://app.digitalinnovation.one/api/lab-projects/?page=8",
+    "previous": "http://app.digitalinnovation.one/api/lab-projects/?page=6",
+    "results": [
+        {
+            "id": "3dda37a0-9f78-4a73-8638-95705e57f2fa",
+            "name": "Desenvolvendo um aplicativo de Chat Online integrado ao Firebase",
+            "description": "Neste projeto você seguirá o passo a passo simples e objetivo para criação de um projeto de chat online utilizando Flutter e o Realtime Database do Firebase.",
+            "slug": "desenvolvendo-um-aplicativo-de-chat-online-integrado-ao-firebase",
+            "author": {
+                "id": "1d625f42-2d3e-4829-83b3-a140cef930c5",
+                "name": "Thiago Bomfim",
+                "company": {
+                    "id": "740c35c5-e5d4-465f-b779-dc284b24d168",
+                    "name": "Mirante Tecnologia",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.mirante.net.br/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/740c35c5-e5d4-465f-b779-dc284b24d168.jpg"
+                },
+                "position": "Software Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/1d625f42-2d3e-4829-83b3-a140cef930c5.jpg",
+                "linkedin": "https://www.linkedin.com/in/thiago-bomfim-37b198a1/",
+                "github": "https://github.com/ThiagoBfim",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "78d5146f-5ffe-45c4-ac6e-7b81ffe4a6fc",
+            "next_slug": "parte-1-111",
+            "workload": 3,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/aa4ae03f-75cc-4543-83e1-070319ebe805.jpg",
+            "skills": [
+                "Flutter"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/dbd5d3bc-0637-4228-8fe1-1bccc0431f60.zip",
+            "solution": null
+        },
+        {
+            "id": "06470b0b-c60d-4d55-aac4-24c7cc2d96e9",
+            "name": "Realizando Deploy na Nuvem de um conjunto de API’s desenvolvida em Spring Boot",
+            "description": "Neste projeto você terá o desafio de desenvolver um conjunto de API’s utilizando Spring Boot para controlar um estacionamento de veículos. Serão controlados a entrada, saída e valor a ser cobrado do cliente. Iremos aplicar todas as boas práticas de desenvolvimento de API’s incluindo segurança com Spring Security e acesso a banco de dados PostgreSQL. Serão realizados testes e relatórios de cobertura de testes. Após finalizarmos a aplicação e termos enviado para o Github, vamos fazer o deploy na cloud do Heroku a fim de disponibilizar nossa API para a Internet.",
+            "slug": "realizando-deploy-na-nuvem-de-um-conjunto-de-apis-desenvolvida-em-spring-boot",
+            "author": {
+                "id": "16f35223-2260-4216-b201-b459bfa3809d",
+                "name": "Sandro Giacomozzi",
+                "company": {
+                    "id": "2af6a3d1-7f2a-4a44-a58f-30bc59d30437",
+                    "name": "TOTVS",
+                    "year": 1983,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.totvs.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/2af6a3d1-7f2a-4a44-a58f-30bc59d30437.png"
+                },
+                "position": "Software engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/16f35223-2260-4216-b201-b459bfa3809d.png",
+                "linkedin": "https://www.linkedin.com/in/sandrogiacomozzi/",
+                "github": null,
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "064f166c-436f-4194-bb8d-00b2eab00503",
+            "next_slug": "parte-1-96",
+            "workload": 10,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/b39c178a-9e57-4588-8486-ccfe67bcba82.jpg",
+            "skills": [
+                "Spring Boot"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/4d369575-1dd7-494f-ba95-9637f5a29feb.zip",
+            "solution": null
+        },
+        {
+            "id": "f72daf29-7d40-43c3-9187-1d1ed37f1638",
+            "name": "MindApp - Desenvolvendo uma Cloud Tags com Ruby",
+            "description": "Nesse projeto você aprenderá como desenvolver uma aplicação do zero utilizando o framework Ruby on Rails, do planejamento ao lançamento. Desde o entendimento e modelagem do problema, criação das tarefas com Trello, utilização do GitHub como repositório de código, até o lançamento da aplicação com Heroku para compartilhar o link com seus amigos. Ou seja, imersão completa no dia a dia de uma pessoa desenvolvedora.",
+            "slug": "mindapp-desenvolvendo-uma-cloud-tags-com-ruby",
+            "author": {
+                "id": "0484c582-6132-417a-baba-1e8833bb69ac",
+                "name": "Bruno Oliveira",
+                "company": {
+                    "id": "c8414725-7cae-493c-bdfb-19d2569211c7",
+                    "name": "Firstleaf",
+                    "year": 2015,
+                    "category": {
+                        "id": "60c71ebe-ac38-4bdd-80c4-7a813255ee9d",
+                        "name": "Serviços"
+                    },
+                    "website": "https://www.firstleaf.com/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/c8414725-7cae-493c-bdfb-19d2569211c7.jpg"
+                },
+                "position": "Ruby on Rails Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/0484c582-6132-417a-baba-1e8833bb69ac.jpg",
+                "linkedin": "https://www.linkedin.com/in/brunoao86/",
+                "github": "https://github.com/brunoao86/",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "a32e8845-1407-445b-b9c2-926b71ff43d9",
+            "next_slug": "como-usar-os-desafios-de-projetos-para-criar-seu-portfolio-14",
+            "workload": 12,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/cddf0cb2-dc3f-4c6e-a384-a56d7a614e8c.jpg",
+            "skills": [
+                "Ruby"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/3b874266-b7f7-455c-bfbd-c54b69c2b44a.zip",
+            "solution": null
+        },
+        {
+            "id": "308a0c15-ab8c-4a9a-82bb-65555c1dc61a",
+            "name": "Flutter: Do zero à produção",
+            "description": "Neste lab você aprenderá a desenvolver um projeto do zero até a disponibilidade do aplicativo em seu formato final .apk, seguindo rigorosamente uma linha de desenvolvimento guiada pelo sistema kanban, organizando pendências de forma crescente e controlada.",
+            "slug": "flutter-do-zero-a-producao",
+            "author": {
+                "id": "1d625f42-2d3e-4829-83b3-a140cef930c5",
+                "name": "Thiago Bomfim",
+                "company": {
+                    "id": "740c35c5-e5d4-465f-b779-dc284b24d168",
+                    "name": "Mirante Tecnologia",
+                    "year": null,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.mirante.net.br/",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/740c35c5-e5d4-465f-b779-dc284b24d168.jpg"
+                },
+                "position": "Software Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/1d625f42-2d3e-4829-83b3-a140cef930c5.jpg",
+                "linkedin": "https://www.linkedin.com/in/thiago-bomfim-37b198a1/",
+                "github": "https://github.com/ThiagoBfim",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "e55fdb79-32c0-4317-899e-3e047932729f",
+            "next_slug": "apresentacao-inicial-do-conteudo-1",
+            "workload": 10,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/0004aa71-96f9-4770-ac2f-ebe9c30db476.jpg",
+            "skills": [
+                "Flutter"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "55d170c7-f934-4385-a82e-23b188dbd70c",
+            "name": "Trabalhe com Cypress e teste um e-commerce desenvolvido em JavaScript",
+            "description": "Neste projeto você terá o desafio de trabalhar com Cypress para testar uma aplicação em JavaScript de um e-commerce.",
+            "slug": "trabalhe-com-cypress-e-teste-um-e-commerce-desenvolvido-em-javascript",
+            "author": {
+                "id": "2d3f9f55-99cf-482a-9201-c8d6f34d8728",
+                "name": "Bárbara Casac",
+                "company": {
+                    "id": "fc864e14-bba5-4693-b814-dcb60c168c3a",
+                    "name": "Sky.One Solutions",
+                    "year": 2013,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.skyone.solutions",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/fc864e14-bba5-4693-b814-dcb60c168c3a.png"
+                },
+                "position": "System Engineer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/2d3f9f55-99cf-482a-9201-c8d6f34d8728.png",
+                "linkedin": "https://www.linkedin.com/in/barbaracasac/",
+                "github": null,
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "0e645409-ba0e-4c2d-835a-48c6a6415a6f",
+            "next_slug": "parte-1-95",
+            "workload": 3,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/7e961bd9-5cac-424d-bc56-1c7dd3d6a740.jpg",
+            "skills": [
+                "Cypress.io"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/54b8ccfb-0ac5-4a96-9b13-860e211f8af4.zip",
+            "solution": null
+        },
+        {
+            "id": "c1e29012-f7e7-4ac1-acfa-5885f5785c64",
+            "name": "Desenvolvendo sua Pokédex com Vue.js",
+            "description": "Neste projeto, junto com o especialista, você irá desenvolver uma Pokédex, uma enciclopédia digital que os treinadores de Pokémons transportam para catalogar diferentes espécies de Pokémon ao longo da aventura.",
+            "slug": "desenvolvendo-sua-pokedex-com-vuejs",
+            "author": {
+                "id": "d3b07fd1-2c21-4fe8-8979-6edf3c382a4e",
+                "name": "Rafael Maia Chieregatto",
+                "company": {
+                    "id": "a4d2f329-cf31-4be7-9181-7357ffbdbe5f",
+                    "name": "IBM",
+                    "year": 1911,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.ibm.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/a4d2f329-cf31-4be7-9181-7357ffbdbe5f.png"
+                },
+                "position": "Front End Developer",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/d3b07fd1-2c21-4fe8-8979-6edf3c382a4e.png",
+                "linkedin": "https://www.linkedin.com/in/rafaelmaiach/",
+                "github": null,
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "b34a8709-1ddc-4d5b-9bb9-bb27400ad55a",
+            "next_slug": "parte-1-92",
+            "workload": 8,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/af5c9784-70e4-4a32-981f-b3f8ab33ec7d.jpg",
+            "skills": [
+                "Vue.js"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": null,
+            "solution": null
+        },
+        {
+            "id": "7067bafc-44a4-499a-a843-27949e2863d3",
+            "name": "Aprenda a criar um sistema de estacionamento usando TypeScript",
+            "description": "Você já se perguntou porque o Typescript está cada vez mais sendo utilizado entre os desenvolvedores? De que forma a tipagem de código pode tornar o desenvolvimento mais produtivo?\r\nNa aula de hoje vamos desenvolver um sistema básico de estacionamento em Typescript. Ao final dela você irá compreender o quão simples e poderoso é esse magnifico superset. CUIDADO, o uso excessivo de Typescript gera dependência e você pode NUNCA MAIS querer criar um projeto sem usar ele. Assista por sua conta e risco :)",
+            "slug": "aprenda-a-criar-um-sistema-de-estacionamento-usando-typescript",
+            "author": {
+                "id": "9e3d4d2f-1839-4ac7-a159-5b9264c458e7",
+                "name": "Andre Soares",
+                "company": {
+                    "id": "af53ae67-ea2c-44cf-999a-48241cdd2869",
+                    "name": "Cubos Tecnologia",
+                    "year": 2013,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://cubos.io",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/af53ae67-ea2c-44cf-999a-48241cdd2869.png"
+                },
+                "position": null,
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/9e3d4d2f-1839-4ac7-a159-5b9264c458e7.png",
+                "linkedin": "https://www.linkedin.com/in/andre-soares-dev/",
+                "github": "https://github.com/soaresderik",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "102ca5f0-d9b7-4808-89a0-d1d77e6003a2",
+            "next_slug": "parte-1-91",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/cbb9d977-d229-46f7-a42d-6039414a6f6e.jpg",
+            "skills": [
+                "TypeScript"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/a022785c-4362-45ed-9c4b-1a3be1d38008.zip",
+            "solution": null
+        },
+        {
+            "id": "d62e1958-1eb9-4259-99cf-2be173b82579",
+            "name": "Widget de previsão do tempo utilizando Web Component",
+            "description": "Já pensou criar um componente e utiliza-lo em qualquer framework, biblioteca JavaScript ou até mesmo páginas sem qualquer tecnologia específica? Sem se preocupar com conflitos de CSS, replicando os comportamentos nativos dos componentes do browser? Aplicando as especificações utilizadas para construir web components tudo isso é possível. Nesta Live Coding você irá aprender de maneira prática a construção de um widget para exibir a previsão do tempo e como utiliza-lo nas principais tecnologias utilizadas no front-end. Serão abordados conceitos de Web components e suas especificações no React e VueJS, e será realizado consumo de APIs rest.",
+            "slug": "widget-de-previsao-do-tempo-utilizando-web-component",
+            "author": {
+                "id": "a0493046-36a1-416d-9ff0-9e230b8ae9a2",
+                "name": "Celso Henrique",
+                "company": {
+                    "id": "4a04f94e-a851-4ce2-9c28-1e5f123d40e7",
+                    "name": "Creditas",
+                    "year": 2012,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.creditas.com.br",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/4a04f94e-a851-4ce2-9c28-1e5f123d40e7.png"
+                },
+                "position": "Engineering Lead",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/a0493046-36a1-416d-9ff0-9e230b8ae9a2.png",
+                "linkedin": "https://www.linkedin.com/in/devfrontend/",
+                "github": "https://github.com/celso-henrique/",
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Intermediário",
+            "next_content": "b7263fd1-c0a0-4886-941b-8c871e5cfcbd",
+            "next_slug": "parte-1-90",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/27803a69-8d30-4c01-92cc-5eccc79061a8.jpg",
+            "skills": [],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/0d25eba5-8460-411e-b4b8-8beb5c7394cc.zip",
+            "solution": null
+        },
+        {
+            "id": "1d50f70d-3c8f-414c-b261-f2e32a7abfa8",
+            "name": "Desenvolva um token no padrão ERC-20 com Ethereum",
+            "description": "Este projeto tem como propósito o desenvolvimento de um token baseado na blockchain da criptomoeda Ethereum, para mostrar as principais funcionalidades de token utilizado no mercado de criptomoedas. Vamos explorar seus padrões e funcionalidades, complementando com o desenvolvimento prático de um token no padrão ERC20, o padrão utilizado por tokens negociados nas principais corretoras de criptomoedas globais.",
+            "slug": "desenvolva-um-token-no-padrao-erc-20-com-ethereum",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "8fe63beb-7e8e-4e7b-9fc6-83a444d07c80",
+            "next_slug": "parte-1-89",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/20dd5cc1-f60f-4400-b0a0-4e393f419307.jpg",
+            "skills": [
+                "Ethereum",
+                "Blockchain"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/20022666-1b6b-4134-ac22-ff6876459f6f.zip",
+            "solution": null
+        },
+        {
+            "id": "53c0d462-c4ef-40db-9ae8-5e5d0e3606dd",
+            "name": "Introdução a Programação com Blockchain e Ethereum Smart Contracts",
+            "description": "Este projeto tem como propósito o desenvolvimento de um token baseado na blockchain da criptomoeda Ethereum, para mostrar as principais funcionalidades de token utilizado no mercado de criptomoedas. Vamos explorar seus padrões e funcionalidades, complementando com o desenvolvimento prático de um token no padrão ERC20, o padrão utilizado por tokens negociados nas principais corretoras de criptomoedas globais.",
+            "slug": "introducao-a-programacao-com-blockchain-e-ethereum-smart-contracts",
+            "author": {
+                "id": "38e0cb81-9697-43c4-8a07-eba1bca6fa6b",
+                "name": "Cassiano Peres",
+                "company": {
+                    "id": "3a52d6e3-a58c-4755-89c9-fbc093a8868f",
+                    "name": "Digital Innovation One",
+                    "year": 2019,
+                    "category": {
+                        "id": "c6d252fe-cf02-4c37-a9a3-00798c34cbfa",
+                        "name": "Startup"
+                    },
+                    "website": "https://www.digitalinnovation.one",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"
+                },
+                "position": "Instrutor",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg",
+                "linkedin": "https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/",
+                "github": "https://github.com/cassianobrexbit/",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "b7c69d1c-e34c-438a-a5c9-fc0265b4f729",
+            "next_slug": "parte-1-88",
+            "workload": 2,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/5fccac68-f945-4f77-ab17-379672392b5a.jpg",
+            "skills": [
+                "Blockchain",
+                "Ethereum"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/59a3547c-6683-43a9-8be6-73cdb50c14e4.zip",
+            "solution": null
+        },
+        {
+            "id": "ca62326a-8873-4ef4-b27d-d69d5d7a81ac",
+            "name": "Recriando a tela de login do PicPay com autentificação JWT em Kotlin",
+            "description": "Neste projeto vamos dar continuidade ao desenvolvimento do clone do aplicativo PicPay, agora o nosso foco será em segurança, criando autenticação e autorização de usuário seguindo as boas práticas além de melhorias do desempenho, com criação de telas com constraint layout, consumir serviço de login com retrofit 2, shared preferences para salvar dados locais e interceptação de requisição com HttpCliente. Na primeira parte ja realizamos todo o processo de transação, histórico e criação de perfil de usuário.",
+            "slug": "recriando-a-tela-de-login-do-picpay-com-autentificacao-jwt-em-kotlin",
+            "author": {
+                "id": "cbff9954-d5fc-4132-a902-d1c7225c68a4",
+                "name": "João Vitor Freitas",
+                "company": {
+                    "id": "ec47013a-7d22-4249-9c6e-f202ace9ae6c",
+                    "name": "Nexaas",
+                    "year": 2003,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "https://www.nexaas.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/ec47013a-7d22-4249-9c6e-f202ace9ae6c.png"
+                },
+                "position": "Desenvolvedor Android Pleno",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/cbff9954-d5fc-4132-a902-d1c7225c68a4.png",
+                "linkedin": "https://www.linkedin.com/in/joão-vitor-freitas-592552134/",
+                "github": null,
+                "country": {
+                    "name": "Brasil",
+                    "flag": "https://hermes.digitalinnovation.one/school/flags/328b2afb-b47b-49cb-9e87-9cd08dc77798.png"
+                }
+            },
+            "level": "Avançado",
+            "next_content": "aac2f086-0a4f-44d8-bb2e-f9d09d983294",
+            "next_slug": "parte-1-87",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/cc6580c9-6c24-4700-9c6e-e36e88200327.jpg",
+            "skills": [
+                "Kotlin"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/b42e0ce0-3956-4fe2-962b-1ecff0be480f.zip",
+            "solution": null
+        },
+        {
+            "id": "9d00223a-4f37-4430-a90a-8a23e2dee826",
+            "name": "Entendendo de métodos HTTPs e navegação com React Native",
+            "description": "Neste projeto você aprenderá a desenvolver rotas com react native e facilitar a navegação entre elas em seu aplicativo.",
+            "slug": "entendendo-de-metodos-https-e-navegacao-com-react-native",
+            "author": {
+                "id": "75750e26-c250-4e1a-9e8a-7d8a5df402bb",
+                "name": "Roberto Alves",
+                "company": {
+                    "id": "6de7586d-021d-4ef4-9fb9-5414192d2f61",
+                    "name": "Altran",
+                    "year": 1982,
+                    "category": {
+                        "id": "fba1b2b1-b3b9-494a-bf8f-dc2eb7f7c417",
+                        "name": "Tecnologia da informação e serviços"
+                    },
+                    "website": "http://www.altran.com",
+                    "photo": "https://hermes.digitalinnovation.one/users/company/6de7586d-021d-4ef4-9fb9-5414192d2f61.png"
+                },
+                "position": "Desenvolvedor/Consultor de software",
+                "photo": "https://hermes.digitalinnovation.one/users/author/photos/75750e26-c250-4e1a-9e8a-7d8a5df402bb.png",
+                "linkedin": "https://www.linkedin.com/in/robertosousa01/",
+                "github": "https://github.com/robertosousa1/",
+                "country": null
+            },
+            "level": "Básico",
+            "next_content": "62123bba-f095-40ac-8057-a14a08ec9759",
+            "next_slug": "parte-1-86",
+            "workload": 4,
+            "cover_url": "https://hermes.digitalinnovation.one/lab_projects/9895a54e-deb7-4896-b67b-6dc9d5159784.jpg",
+            "skills": [
+                "React Native"
+            ],
+            "users": [],
+            "total_users": 0,
+            "project_type": "Full-Stack",
+            "file_url": "https://hermes.digitalinnovation.one/lab_projects/files/39c6449d-0939-4bde-a162-dae67ce78a89.zip",
+            "solution": null
+        }
+    ]
+}
