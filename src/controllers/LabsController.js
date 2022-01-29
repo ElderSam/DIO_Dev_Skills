@@ -1,24 +1,27 @@
-const page1 = require("../../db/mock/DIO_labs/pages/page1.json");
-
 module.exports = {
 	listAll(req, res) {
 		const getNewItem = (item) => {
 			const { level, name, project_type, skills } = item;
 
-			const newObj = {
+			return {
 				skills,
 				name,
 				project_type,
 				level,
 			};
-			// console.log(newObj);
-			return newObj;
 		};
 
-		const pageRes = page1.results;
+		let allProjects = [];
 
-		const projects = pageRes.map((project) => getNewItem(project));
+		for (let i = 1; i <= 13; i++) {
+			const currentPage = require(`../../db/mock/DIO_labs/pages/page${i}.json`);
 
-		res.send({ projects });
+			const pageRes = currentPage.results;
+
+			const projects = pageRes.map((project) => getNewItem(project));
+			allProjects = [...allProjects, ...projects];
+		}
+
+		res.send({ projects: allProjects });
 	},
 };
